@@ -1,0 +1,183 @@
+{
+  "id": "tmnt_characters",
+  "title": "Teenage Mutant Ninja Turtles",
+  "description": "Heroes in a half shell fighting crime in New York City with martial arts skills and radical attitudes.",
+  "categories": {
+    "turtle_heroes": {
+      "title": "Turtle Heroes",
+      "description": "The four turtle brothers and their wise mentor fighting crime with ninja skills",
+      "items": {
+        "leonardo": {
+          "title": "Leonardo",
+          "description": "Male Turtles Leader",
+          "metadata": "Leader | Blue | Katana | Samurai | Responsible | Ninja | Honor",
+          "content": "<h3>Leonardo</h3><p><strong>The responsible leader and samurai-inspired turtle warrior who upholds honor</strong></p><p>Leonardo is an athletic turtle humanoid with green turtle coloring and a distinctive blue bandana that marks his leadership role. His core motivation is leading the team and upholding honor, embodying the responsible leader and samurai archetype with unwavering dedication. He wears ninja gear with his blue bandana mask serving as his main distinctive feature, rendered in blue and green colors. His abilities center on leadership and expert swordsmanship, typically wielding twin katana swords that reflect his samurai inspiration. His character design draws from samurai warriors and classic team leader archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Leadership skills, expert swordsmanship, honor-bound<br>\u2022 <strong>Signature Look:</strong> Green turtle with blue bandana mask and ninja gear<br>\u2022 <strong>Primary Role:</strong> Leading the team while upholding traditional samurai values</p>",
+          "image": "https://i.pinimg.com/736x/3b/61/49/3b61499a33c8a5e31ef3c24a45e2fbaf.jpg"
+        },
+        "raphael": {
+          "title": "Raphael",
+          "description": "Male Turtles Fighter",
+          "metadata": "Fighter | Red | Sai | Hot-headed | Rebel | Aggressive | Tough",
+          "content": "<h3>Raphael</h3><p><strong>The hot-headed rebel who proves his toughness through aggressive combat</strong></p><p>Raphael is an athletic turtle humanoid with green turtle coloring and a red bandana that perfectly matches his fiery temperament. His primary motivation is proving toughness through combat, embodying the hot-headed rebel archetype with passionate intensity. He wears ninja gear with his red bandana mask serving as his main distinctive feature, rendered in red and green colors. His abilities focus on aggressive fighting and stealth tactics, typically armed with twin sai weapons for close combat. His character design draws inspiration from street fighters and classic rebel archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Aggressive fighting, stealth skills, rebellious nature<br>\u2022 <strong>Signature Look:</strong> Green turtle with red bandana mask and ninja gear<br>\u2022 <strong>Primary Role:</strong> Primary fighter who challenges authority while proving his combat prowess</p>",
+          "image": "https://www.kindpng.com/picc/m/477-4776267_cartoon-teenage-mutant-ninja-turtles-raphael-hd-png.png"
+        },
+        "michelangelo": {
+          "title": "Michelangelo",
+          "description": "Male Turtles Comic Relief",
+          "metadata": "Comic Relief | Orange | Nunchaku | Surfer | Fun | Party | Acrobatics",
+          "content": "<h3>Michelangelo</h3><p><strong>The fun-loving surfer dude who brings humor and joy to the team</strong></p><p>Michelangelo is an athletic turtle humanoid with green turtle coloring and an orange bandana that reflects his sunny, optimistic personality. His core motivation is having fun and enjoying life, embodying the fun-loving surfer dude archetype with California beach culture attitude. He wears ninja gear with his orange bandana mask serving as his main distinctive feature, rendered in orange and green colors. His abilities include acrobatics and humor, typically wielding twin nunchaku for flashy combat moves. His character design draws inspiration from California surfer culture and party animal stereotypes.</p><p>\u2022 <strong>Key Traits:</strong> Acrobatic skills, natural humor, optimistic attitude<br>\u2022 <strong>Signature Look:</strong> Green turtle with orange bandana mask and ninja gear<br>\u2022 <strong>Primary Role:</strong> Providing comic relief and maintaining team morale through fun and humor</p>",
+          "image": "https://clipart-library.com/newhp/143-1437843_zdiea-na-facebooku-teenage-mutant-ninja-turtles-michelangelo.png"
+        },
+        "donatello": {
+          "title": "Donatello",
+          "description": "Male Turtles Tech Expert",
+          "metadata": "Tech Expert | Purple | Bo Staff | Inventor | Genius | Technology | Gadgets",
+          "content": "<h3>Donatello</h3><p><strong>The tech genius who solves problems through innovation and invention</strong></p><p>Donatello is an athletic turtle humanoid with green turtle coloring and a purple bandana that marks him as the intellectual member of the team. His primary motivation is solving problems through technology, embodying the inventor and tech genius archetype with scientific curiosity. He wears ninja gear with his purple bandana mask serving as his main distinctive feature, rendered in purple and green colors. His abilities center on technology and invention, typically armed with a bo staff and various tech gadgets of his own design. His character design draws inspiration from tech nerds and classic inventor archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Technological expertise, inventive genius, problem-solving skills<br>\u2022 <strong>Signature Look:</strong> Green turtle with purple bandana mask and ninja gear<br>\u2022 <strong>Primary Role:</strong> Creating technology and gadgets to give the team tactical advantages</p>",
+          "image": "https://m.media-amazon.com/images/I/81nFlGDev5L.jpg"
+        },
+        "splinter": {
+          "title": "Splinter",
+          "description": "Male Turtles Mentor",
+          "metadata": "Mentor | Rat | Sensei | Wise | Father | Martial Arts | Brown Grey",
+          "content": "<h3>Splinter</h3><p><strong>The wise father and sensei who guides and protects his turtle sons</strong></p><p>Splinter is an elderly humanoid rat with grey coloring and traditional martial arts robes that reflect his role as teacher and father figure. His core motivation is guiding and protecting his sons, embodying the wise father and sensei archetype with paternal wisdom. He wears traditional martial arts clothing with flowing robes and walking stick serving as his main distinctive features, rendered in brown and grey colors. His abilities include martial arts mastery and profound wisdom, typically carrying a walking stick and relying on his martial arts knowledge. His character design draws inspiration from wise martial arts masters and father figure archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Martial arts mastery, paternal wisdom, spiritual guidance<br>\u2022 <strong>Signature Look:</strong> Grey rat in traditional martial arts robes with walking stick<br>\u2022 <strong>Primary Role:</strong> Teaching martial arts and providing fatherly guidance to his turtle sons</p>",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/splinter-tmnt-1987-cropped.jpg"
+        }
+      }
+    },
+    "human_allies": {
+      "title": "Human Allies",
+      "description": "Human friends and allies supporting the turtles in their fight against crime",
+      "items": {
+        "april_oneil": {
+          "title": "April O'Neil",
+          "description": "Female Heroes Reporter",
+          "metadata": "Reporter | Journalist | Yellow | Camera | Investigation | Auburn Hair | Human",
+          "content": "<h3>April O'Neil</h3><p><strong>The investigative reporter who uncovers truth and helps her turtle friends</strong></p><p>April O'Neil is an athletic human female with red/auburn hair and a professional demeanor that marks her as a serious journalist. Her primary motivation is uncovering truth and helping friends, embodying the investigative reporter archetype with dedicated professionalism. She wears a yellow jumpsuit or casual wear with her distinctive yellow jumpsuit serving as her main recognizable feature, rendered in yellow and orange colors. Her abilities focus on journalism and investigation, typically equipped with cameras and microphones for her reporting work. Her character design draws inspiration from investigative journalists and female action heroes.</p><p>\u2022 <strong>Key Traits:</strong> Investigative journalism, truth-seeking, loyal friendship<br>\u2022 <strong>Signature Look:</strong> Red-haired woman in distinctive yellow jumpsuit<br>\u2022 <strong>Primary Role:</strong> Using journalism skills to uncover truth while supporting the turtles</p>",
+          "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/08/tmnt_april_games_featured.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5"
+        },
+        "casey_jones": {
+          "title": "Casey Jones",
+          "description": "Male Heroes Vigilante",
+          "metadata": "Vigilante | Hockey Mask | Sports | Street Fighter | Red White Black | Tough",
+          "content": "<h3>Casey Jones</h3><p><strong>The street vigilante who fights crime through hockey-themed vigilante justice</strong></p><p>Casey Jones is a muscular human male with a hockey mask and tough guy appearance that reflects his working-class vigilante approach. His core motivation is fighting crime through vigilante justice, embodying the street vigilante and hockey player archetype with gritty determination. He wears sports gear and leather with his hockey mask and sports equipment serving as his main distinctive features, rendered in red, white, and black colors. His abilities include street fighting and sports skills, typically armed with hockey sticks and various sports weapons. His character design draws inspiration from hockey players and street-level vigilante heroes.</p><p>\u2022 <strong>Key Traits:</strong> Street fighting skills, sports expertise, vigilante justice<br>\u2022 <strong>Signature Look:</strong> Muscular man in hockey mask with sports equipment<br>\u2022 <strong>Primary Role:</strong> Fighting crime through unconventional sports-themed vigilante methods</p>",
+          "image": "https://facts.net/wp-content/uploads/2023/08/18-facts-about-casey-jones-teenage-mutant-ninja-turtles-1692000001.jpg"
+        },
+        "irma": {
+          "title": "Irma",
+          "description": "Female Heroes Support",
+          "metadata": "Secretary | Nerdy | Glasses | Office Worker | Computer Skills | Support",
+          "content": "<h3>Irma</h3><p><strong>The nerdy best friend who assists April and provides good friendship</strong></p><p>Irma is an average human female with a glasses-wearing secretary appearance that reflects her office worker background. Her primary motivation is assisting April and being a good friend, embodying the nerdy best friend archetype with loyal support. She wears professional office attire with thick glasses serving as her main distinctive feature, rendered in muted professional colors. Her abilities center on computer skills and office work, typically equipped with office equipment for administrative support. Her character design draws inspiration from secretary and office worker stereotypes.</p><p>\u2022 <strong>Key Traits:</strong> Computer expertise, office skills, loyal friendship<br>\u2022 <strong>Signature Look:</strong> Glasses-wearing woman in professional office attire<br>\u2022 <strong>Primary Role:</strong> Providing technical and administrative support to April and her allies</p>",
+          "image": "https://go_service.aieasypic.com/?url=https%3A%2F%2Fimage.civitai.com%2FxG1nkqKTMzGDvpLrqFT7WA%2F66b0da88-afdd-46f3-901f-e77eafbdbebf%2Fwidth%3D450%2F854445.jpeg&type=webp&width=500&quality=60&civitai=true"
+        },
+        "vernon_fenwick": {
+          "title": "Vernon Fenwick",
+          "description": "Male Neutral Reporter",
+          "metadata": "Reporter | Rival | Pompous | News Anchor | Blonde | Career Driven",
+          "content": "<h3>Vernon Fenwick</h3><p><strong>The pompous news anchor who advances his career through competitive reporting</strong></p><p>Vernon Fenwick is an average human male with blonde hair and a pompous news anchor appearance that reflects his media personality ambitions. His core motivation is advancing his career through reporting, embodying the rival reporter and comic foil archetype with self-serving ambition. He wears professional news attire with news anchor styling serving as his main distinctive feature, rendered in typical news anchor colors. His abilities focus on broadcast journalism, typically equipped with microphones and camera crews for his reporting work. His character design draws inspiration from pompous media personalities and competitive journalists.</p><p>\u2022 <strong>Key Traits:</strong> Broadcast journalism, career ambition, competitive rivalry<br>\u2022 <strong>Signature Look:</strong> Blonde pompous man in professional news anchor attire<br>\u2022 <strong>Primary Role:</strong> Serving as April's professional rival while pursuing his own media career</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/Vernon_Fenwick_6875.jpg"
+        }
+      }
+    },
+    "main_villains": {
+      "title": "Main Villains",
+      "description": "The primary antagonists threatening New York City and the world",
+      "items": {
+        "shredder": {
+          "title": "Shredder",
+          "description": "Male Villains Leader",
+          "metadata": "Evil Overlord | Armor | Blades | Samurai | Silver Purple | Leader",
+          "content": "<h3>Shredder</h3><p><strong>The evil overlord and samurai seeking to conquer the world and destroy turtles</strong></p><p>Shredder is a tall armored humanoid with metallic armor covered in blade spikes that make him a walking weapon of destruction. His primary motivation is conquering the world and destroying turtles, embodying the evil overlord and samurai archetype with ruthless authority. He wears a full body armor suit with spiked metallic armor serving as his main distinctive feature, rendered in silver and purple colors. His abilities include martial arts mastery and leadership skills, typically armed with his bladed armor and various weapons. His character design draws inspiration from evil samurai and medieval armor aesthetics.</p><p>\u2022 <strong>Key Traits:</strong> Martial arts mastery, evil leadership, armored combat<br>\u2022 <strong>Signature Look:</strong> Tall figure in spiked metallic armor with blade weaponry<br>\u2022 <strong>Primary Role:</strong> Leading villainous forces in conquest while personally hunting the turtles</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/tmnt1987_shredder.png"
+        },
+        "krang": {
+          "title": "Krang",
+          "description": "Male Villains Mastermind",
+          "metadata": "Alien | Brain | Android | Dimension X | Pink Metal | Super Intelligence",
+          "content": "<h3>Krang</h3><p><strong>The alien brain mastermind controlling Earth from Dimension X</strong></p><p>Krang is a brain housed in a robotic body, characterized by his pink brain visible in an android suit that allows dimensional manipulation. His core motivation is controlling Earth from Dimension X, embodying the alien brain and mad scientist archetype with cold intelligence. He utilizes a mechanical android body with his exposed brain in chest serving as his main distinctive feature, rendered in pink and metallic colors. His abilities center on super intelligence and advanced technology, typically armed with his android body and tech weapons from Dimension X. His character design draws inspiration from alien invaders and classic brains-in-jars science fiction.</p><p>\u2022 <strong>Key Traits:</strong> Super intelligence, dimensional technology, alien mastermind<br>\u2022 <strong>Signature Look:</strong> Pink brain visible in mechanical android body<br>\u2022 <strong>Primary Role:</strong> Masterminding Earth conquest using advanced Dimension X technology</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/ice5.png"
+        },
+        "bebop": {
+          "title": "Bebop",
+          "description": "Male Villains Muscle",
+          "metadata": "Warthog | Mutant | Punk Rock | Purple | Mohawk | Muscle | Laser Weapons",
+          "content": "<h3>Bebop</h3><p><strong>The dumb muscle punk rocker who follows Shredder's orders without question</strong></p><p>Bebop is a large humanoid warthog with purple coloring and punk attire that reflects his rebellious yet dim-witted nature. His primary motivation is following Shredder's orders, embodying the dumb muscle and punk rocker archetype with reckless loyalty. He wears punk rock clothing with his mohawk and punk accessories serving as his main distinctive features, rendered in purple and black colors. His abilities include brute strength and recklessness, typically armed with laser weapons and blasters for destructive combat. His character design draws inspiration from punk rockers and animal thug archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Brute strength, reckless behavior, punk attitude<br>\u2022 <strong>Signature Look:</strong> Purple warthog in punk rock attire with distinctive mohawk<br>\u2022 <strong>Primary Role:</strong> Serving as Shredder's loyal muscle through brute force and destruction</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/rocksteady_bebop_cartoon_laser_pistols.jpg"
+        },
+        "rocksteady": {
+          "title": "Rocksteady",
+          "description": "Male Villains Muscle",
+          "metadata": "Rhino | Mutant | Military | Grey Green | Army Helmet | Artillery | Weapons",
+          "content": "<h3>Rocksteady</h3><p><strong>The dumb muscle military enforcer who follows Shredder's commands loyally</strong></p><p>Rocksteady is a large humanoid rhino with grey coloring and military gear that reflects his love of warfare and heavy weapons. His core motivation is following Shredder's orders, embodying the dumb muscle and military archetype with soldier-like dedication. He wears military fatigues with his army helmet and gear serving as his main distinctive features, rendered in grey and green colors. His abilities focus on brute strength and military weapons expertise, typically armed with military weapons and artillery for maximum destruction. His character design draws inspiration from military soldiers and rhinoceros imagery.</p><p>\u2022 <strong>Key Traits:</strong> Brute strength, military weapons expertise, soldier loyalty<br>\u2022 <strong>Signature Look:</strong> Grey rhino in military fatigues with army helmet and gear<br>\u2022 <strong>Primary Role:</strong> Providing heavy firepower and military-style muscle for Shredder's operations</p>",
+          "image": "https://i.pinimg.com/736x/b6/8c/23/b68c2345588ee765aa11744edc685582.jpg"
+        },
+        "baxter_stockman": {
+          "title": "Baxter Stockman",
+          "description": "Male Villains Scientist",
+          "metadata": "Scientist | Fly | Mutant | Mad Scientist | White Brown Black | Inventions",
+          "content": "<h3>Baxter Stockman</h3><p><strong>The mad scientist seeking recognition through evil scientific research and experimentation</strong></p><p>Baxter Stockman is a human/mutant fly hybrid with a glasses-wearing scientist appearance that transforms into a fly creature through mutation. His primary motivation is gaining recognition through evil science, embodying the mad scientist and fly monster archetype with scientific obsession. He alternates between lab coat and fly form with scientific equipment and fly features serving as his main distinctive characteristics, rendered in white, brown, and black colors. His abilities include scientific genius and flight capabilities in fly form, typically armed with scientific inventions and mutation-based powers. His character design draws inspiration from mad scientists and The Fly movie concepts.</p><p>\u2022 <strong>Key Traits:</strong> Scientific genius, flight capabilities, mad experimentation<br>\u2022 <strong>Signature Look:</strong> Glasses-wearing scientist who transforms into fly creature<br>\u2022 <strong>Primary Role:</strong> Creating dangerous inventions and mutations for villainous scientific purposes</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/baxter.jpg"
+        }
+      }
+    },
+    "secondary_villains": {
+      "title": "Secondary Villains",
+      "description": "Additional threats and criminal elements opposing the heroes",
+      "items": {
+        "rat_king": {
+          "title": "Rat King",
+          "description": "Male Villains Sewer Dweller",
+          "metadata": "Rat Control | Sewer King | Crown | Tattered Robes | Brown Grey | Underground",
+          "content": "<h3>Rat King</h3><p><strong>The sewer king who controls rats and rules the underground through pest mastery</strong></p><p>Rat King is a humanoid with rat features and a tattered robes appearance that reflects his underground domain rulership. His core motivation is controlling rats and the underground, embodying the sewer king and pest controller archetype with vermin mastery. He wears ragged medieval-style robes with his crown and tattered clothing serving as his main distinctive features, rendered in brown and grey colors. His abilities center on rat control and sewer knowledge, typically armed with rat minions and a staff for commanding his creatures. His character design draws inspiration from the Pied Piper and classic sewer dweller archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Rat control, sewer knowledge, underground rulership<br>\u2022 <strong>Signature Look:</strong> Rat-featured humanoid in tattered robes with crown<br>\u2022 <strong>Primary Role:</strong> Controlling underground territories through rat armies and sewer dominance</p>",
+          "image": "https://tokullectibles.com/cdn/shop/products/UL-TMNT_W10_RatKing_Graphic_1200_700x.jpg?v=1678473991"
+        },
+        "slash": {
+          "title": "Slash",
+          "description": "Male Villains Evil Turtle",
+          "metadata": "Evil Turtle | Dark Mirror | Black | Spikes | Evil Ninja | Mirror Character",
+          "content": "<h3>Slash</h3><p><strong>The evil turtle who serves as a dark mirror seeking to destroy the good turtles</strong></p><p>Slash is an athletic turtle humanoid with black coloring and spikes that create a dark reflection of the heroic turtles. His primary motivation is destroying good turtles, embodying the evil turtle and dark mirror archetype with corrupted ninja skills. He wears spiked armor and gear with black coloring and spikes serving as his main distinctive features, rendered in black and grey colors. His abilities include evil ninja skills equivalent to the heroes, typically armed with spiked weapons designed for maximum damage. His character design draws inspiration from evil mirror characters and dark reflections of heroes.</p><p>\u2022 <strong>Key Traits:</strong> Evil ninja skills, dark mirror nature, spike-based combat<br>\u2022 <strong>Signature Look:</strong> Black turtle with spiked armor and menacing appearance<br>\u2022 <strong>Primary Role:</strong> Serving as the evil opposite of the heroic turtles with corrupted abilities</p>",
+          "image": "https://i.pinimg.com/originals/18/8a/30/188a30f101e40fffcba273beacb988e0.jpg"
+        },
+        "leatherhead": {
+          "title": "Leatherhead",
+          "description": "Male Villains Mutant",
+          "metadata": "Alligator | Mutant | Savage | Green Brown | Scars | Claws | Bite Attack",
+          "content": "<h3>Leatherhead</h3><p><strong>The savage alligator who survives in sewers through aggressive predatory behavior</strong></p><p>Leatherhead is a large humanoid alligator with green/brown coloring and scars that reflect his violent sewer existence. His core motivation is surviving in sewers through aggression, embodying the savage alligator archetype with predatory instincts. He wears minimal tattered clothing with his scarred reptilian hide serving as his main distinctive feature, rendered in green and brown colors. His abilities include savage strength and powerful bite attacks, typically relying on his claws and teeth as natural weapons. His character design draws inspiration from swamp creatures and dangerous alligator imagery.</p><p>\u2022 <strong>Key Traits:</strong> Savage strength, bite attacks, predatory instincts<br>\u2022 <strong>Signature Look:</strong> Large scarred alligator with minimal tattered clothing<br>\u2022 <strong>Primary Role:</strong> Terrorizing sewer areas through aggressive alligator-based attacks</p>",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjA0NjQ3MDA3OF5BMl5BanBnXkFtZTgwNTE4MzgzMjE@._V1_FMjpg_UX1000_.jpg"
+        }
+      }
+    },
+    "dimension_x_forces": {
+      "title": "Dimension X Forces",
+      "description": "Alien soldiers and creatures from Krang's home dimension",
+      "items": {
+        "general_traag": {
+          "title": "General Traag",
+          "description": "Male Villains Alien Soldier",
+          "metadata": "Rock Creature | Alien Military | Stone | Grey Red | Energy Weapons | Commander",
+          "content": "<h3>General Traag</h3><p><strong>The alien military commander who serves Krang loyally with rock-based powers</strong></p><p>General Traag is a large rock-like humanoid with a stone/rock creature appearance that reflects his alien military background. His primary motivation is serving Krang loyally, embodying the alien military commander archetype with disciplined service. He wears Dimension X military gear with his rocky stone body serving as his main distinctive feature, rendered in grey stone and red colors. His abilities include rock-based powers and military command skills, typically armed with energy weapons from Dimension X technology. His character design draws inspiration from rock monsters and alien soldier archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Rock-based powers, military command, alien loyalty<br>\u2022 <strong>Signature Look:</strong> Large stone creature in Dimension X military gear<br>\u2022 <strong>Primary Role:</strong> Commanding Dimension X forces while serving Krang's conquest plans</p>",
+          "image": "https://www.transformerland.com/image/reference_images/51447.jpg"
+        },
+        "granitor": {
+          "title": "Granitor",
+          "description": "Male Villains Alien Soldier",
+          "metadata": "Rock Creature | Alien Enforcer | Granite | Grey Metal | Energy Blasters | Brute Force",
+          "content": "<h3>Granitor</h3><p><strong>The alien enforcer who serves Krang through granite-powered brute force</strong></p><p>Granitor is a large rock-like humanoid with a stone creature appearance and armor that marks him as a Dimension X enforcer. His core motivation is serving Krang as enforcer, embodying the alien enforcer archetype with rocky resilience. He wears Dimension X military equipment with his granite-like rocky exterior serving as his main distinctive feature, rendered in grey and metallic colors. His abilities focus on rock powers and brute force application, typically armed with energy blasters for ranged combat. His character design draws inspiration from rock golems and alien enforcer concepts.</p><p>\u2022 <strong>Key Traits:</strong> Rock powers, brute force, alien enforcement<br>\u2022 <strong>Signature Look:</strong> Large granite creature with Dimension X military equipment<br>\u2022 <strong>Primary Role:</strong> Enforcing Krang's will through overwhelming rock-powered strength</p>",
+          "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e46793ca-8653-4062-9ebe-f2928adb1f48/d6inv8i-f879b1f5-55eb-4494-a717-f3307719d9fa.jpg/v1/fill/w_1208,h_662,q_75,strp/tmnt_classics_granitor_by_discogod-d6inv8i.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9lNDY3OTNjYS04NjUzLTQwNjItOWViZS1mMjkyOGFkYjFmNDgvZDZpbnY4aS1mODc5YjFmNS01NWViLTQ0OTQtYTcxNy1mMzMwNzcxOWQ5ZmEuanBnIiwid2lkdGgiOiI8PTEyMDgiLCJoZWlnaHQiOiI8PTY2MiJ9XV19.jVgiRTGtN_Hl0lqUk1EjWWuRKZzi42Hgw72SieYiDPg"
+        }
+      }
+    },
+    "foot_clan": {
+      "title": "Foot Clan",
+      "description": "Shredder's ninja army and robotic soldiers",
+      "items": {
+        "foot_soldiers": {
+          "title": "Foot Soldiers",
+          "description": "Male Villains Army",
+          "metadata": "Robot | Ninja | Foot Clan | Grey Red | Faceless | Mooks | Army",
+          "content": "<h3>Foot Soldiers</h3><p><strong>The faceless ninja robots who serve Shredder without question or individual thought</strong></p><p>Foot Soldiers are humanoid robots with identical robotic ninja appearances that create Shredder's expendable army force. Their primary motivation is serving Shredder without question, embodying the faceless ninja mooks archetype with programmed loyalty. They wear ninja armor and masks with their uniform robotic design serving as their main distinctive feature, rendered in grey and red colors. Their abilities include basic martial arts and overwhelming numbers, typically armed with standard ninja weapons for coordinated attacks. Their character design draws inspiration from robot ninjas and faceless minion archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Basic martial arts, numerical superiority, robotic loyalty<br>\u2022 <strong>Signature Look:</strong> Identical robotic ninjas in uniform armor and masks<br>\u2022 <strong>Primary Role:</strong> Providing Shredder with an endless supply of expendable ninja soldiers</p>",
+          "image": "https://images.fun.com/products/84138/2-1-221601/tmnt-ultimates-foot-soldier-7-inch-action-figure-alt-2.jpg"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "captain_planet_characters",
+  "title": "Captain Planet",
+  "description": "Environmental heroes from around the world using elemental powers to protect Earth from ecological villains.",
+  "categories": {
+    "planeteers": {
+      "title": "The Planeteers",
+      "description": "Young environmental heroes from around the world wielding elemental powers",
+      "items": {
+        "kwame": {
+          "title": "Kwame",
+          "description": "Male Planeteers Earth Wielder",
+          "metadata": "Earth Power | African | Wisdom | Brown | Ring | Tribal | Leader",
+          "content": "<h3>Kwame</h3><p><strong>The wise African leader who protects the environment through earth wisdom</strong></p><p>Kwame is an athletic teen with an African heritage and calm demeanor that reflects his deep connection to the earth element. His core motivation is protecting the environment through wisdom, embodying the wise African leader archetype with natural leadership qualities. He wears an earth-toned outfit with African-inspired styling serving as his main distinctive feature, rendered in brown and earth tones. His abilities center on earth and stone manipulation, utilizing his Earth power ring as his primary tool. His character design draws inspiration from African tribal wisdom and earth-based spirituality.</p><p>\u2022 <strong>Key Traits:</strong> Earth manipulation, natural wisdom, calm leadership<br>\u2022 <strong>Signature Look:</strong> African teen in earth-toned outfit with tribal styling<br>\u2022 <strong>Primary Role:</strong> Leading through wisdom while wielding earth-based elemental powers</p>",
+          "image": "https://static.tvmaze.com/uploads/images/medium_portrait/67/168459.jpg"
+        },
+        "wheeler": {
+          "title": "Wheeler",
+          "description": "Male Planeteers Fire Wielder",
+          "metadata": "Fire Power | American | Red Hair | Hot-headed | Passionate | Red Orange",
+          "content": "<h3>Wheeler</h3><p><strong>The hot-headed American hero who fights pollution with passionate fire power</strong></p><p>Wheeler is an athletic teen with distinctive red hair and an energetic look that matches his fiery temperament and American action hero spirit. His primary motivation is fighting pollution with passion, embodying the hot-headed American hero archetype with impulsive energy. He wears casual American clothing with his red hair and energetic appearance serving as his main distinctive features, rendered in red and orange colors. His abilities focus on fire manipulation and passionate action, utilizing his Fire power ring for flame control. His character design draws inspiration from American action heroes and fire-based elemental powers.</p><p>\u2022 <strong>Key Traits:</strong> Fire manipulation, passionate fighting, impulsive action<br>\u2022 <strong>Signature Look:</strong> Red-haired American teen in casual clothing<br>\u2022 <strong>Primary Role:</strong> Fighting pollution through passionate fire-powered environmental action</p>",
+          "image": "https://culturecrossfire.com/wp-content/uploads/2015/04/wheeler.jpg"
+        },
+        "linka": {
+          "title": "Linka",
+          "description": "Female Planeteers Wind Wielder",
+          "metadata": "Wind Power | Eastern European | Blonde | Intelligence | Blue White | Serious",
+          "content": "<h3>Linka</h3><p><strong>The smart Eastern European who uses intelligence for environmental protection</strong></p><p>Linka is an athletic teen with blonde hair and a serious look that reflects her Eastern European heritage and intellectual approach to problems. Her core motivation is using intelligence for environmental protection, embodying the smart Eastern European intellectual archetype with analytical thinking. She wears practical European clothing with her blonde hair and serious demeanor serving as her main distinctive features, rendered in blue and white colors. Her abilities center on wind and air manipulation, utilizing her Wind power ring for atmospheric control. Her character design draws inspiration from Eastern European intellectuals and air-based elemental powers.</p><p>\u2022 <strong>Key Traits:</strong> Wind manipulation, strategic intelligence, analytical thinking<br>\u2022 <strong>Signature Look:</strong> Blonde Eastern European teen in practical clothing<br>\u2022 <strong>Primary Role:</strong> Using intellectual analysis and wind powers for environmental strategy</p>",
+          "image": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2022/04/668/376/Screen-Shot-2022-04-21-at-8.15.25-PM-copy.png?ve=1&tl=1"
+        },
+        "gi": {
+          "title": "Gi",
+          "description": "Female Planeteers Water Wielder",
+          "metadata": "Water Power | Asian | Martial Arts | Blue Aqua | Disciplined | Fighter",
+          "content": "<h3>Gi</h3><p><strong>The Asian martial artist who protects water through disciplined combat skills</strong></p><p>Gi is an athletic teen with an Asian appearance and martial arts stance that demonstrates her physical capabilities and cultural background. Her primary motivation is protecting water through martial arts discipline, embodying the Asian martial artist archetype with Eastern fighting philosophy. She wears an Asian-inspired outfit with martial arts styling serving as her main distinctive feature, rendered in blue and aqua colors. Her abilities focus on water manipulation combined with martial arts skills, utilizing her Water power ring for aquatic control. Her character design draws inspiration from Asian martial artists and water-based elemental powers.</p><p>\u2022 <strong>Key Traits:</strong> Water manipulation, martial arts expertise, disciplined fighting<br>\u2022 <strong>Signature Look:</strong> Asian teen in martial arts outfit with water styling<br>\u2022 <strong>Primary Role:</strong> Protecting water resources through martial arts discipline and elemental power</p>",
+          "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/60a57410-9942-4162-b74d-3f947a3f576b/width=1200/60a57410-9942-4162-b74d-3f947a3f576b.jpeg"
+        },
+        "ma_ti": {
+          "title": "Ma-Ti",
+          "description": "Male Planeteers Heart Wielder",
+          "metadata": "Heart Power | South American | Indigenous | Empathy | Animals | Green Earth Tones",
+          "content": "<h3>Ma-Ti</h3><p><strong>The empathetic South American who connects all life through heart power</strong></p><p>Ma-Ti is a lean teen with South American indigenous heritage and nature-connected styling that reflects his deep bond with all living things. His core motivation is connecting all life through empathy, embodying the empathetic South American and indigenous shaman archetype with spiritual wisdom. He wears traditional indigenous elements with nature-connected styling serving as his main distinctive feature, rendered in green and earth tones. His abilities center on heart power and telepathy with animals, utilizing his Heart power ring for emotional and animal communication. His character design draws inspiration from indigenous shamans and nature spirit traditions.</p><p>\u2022 <strong>Key Traits:</strong> Heart power, animal telepathy, empathetic connection<br>\u2022 <strong>Signature Look:</strong> South American indigenous teen with nature-connected elements<br>\u2022 <strong>Primary Role:</strong> Connecting all life through empathy while communicating with animal allies</p>",
+          "image": "https://media2.houstonpress.com/hou/imager/u/slideshow/11274903/matiheroofearth.jpg"
+        }
+      }
+    },
+    "environmental_champions": {
+      "title": "Environmental Champions",
+      "description": "Powerful guardians and spirits protecting the Earth",
+      "items": {
+        "captain_planet": {
+          "title": "Captain Planet",
+          "description": "Male Heroes Environmental Champion",
+          "metadata": "Superhero | Blue Skin | Green Hair | Elemental Powers | Champion | Muscular",
+          "content": "<h3>Captain Planet</h3><p><strong>The elemental superhero who saves Earth from environmental destruction</strong></p><p>Captain Planet is a tall muscular superhero with distinctive blue skin and green hair that immediately mark him as an otherworldly environmental champion. His primary motivation is saving Earth from destruction, embodying the elemental superhero archetype with combined natural powers. He wears a minimal superhero outfit with his blue skin and green mullet serving as his main distinctive features, rendered in blue, green, and red colors. His abilities include all elemental powers combined into one supreme force, utilizing combined elemental abilities that surpass individual Planeteer powers. His character design draws inspiration from classical elemental gods and environmental superheroes.</p><p>\u2022 <strong>Key Traits:</strong> Combined elemental powers, environmental protection, superhero strength<br>\u2022 <strong>Signature Look:</strong> Blue-skinned muscular figure with green hair<br>\u2022 <strong>Primary Role:</strong> Manifesting when Planeteers combine powers to fight major environmental threats</p>",
+          "image": "https://www.syfy.com/sites/syfy/files/2019/08/captain-planet.jpg"
+        },
+        "gaia": {
+          "title": "Gaia",
+          "description": "Female Heroes Earth Spirit",
+          "metadata": "Earth Spirit | Goddess | Ethereal | Robes | Guidance | Earth Sky Tones",
+          "content": "<h3>Gaia</h3><p><strong>The Earth goddess spirit who guides Planeteers in their environmental mission</strong></p><p>Gaia is an ethereal goddess with flowing natural robes that seem to shift with the seasons and natural cycles. Her core motivation is guiding Planeteers in their mission, embodying the Mother Earth and wise goddess archetype with spiritual authority. She wears flowing natural robes with her Earth goddess appearance serving as her main distinctive feature, rendered in earth and sky tones. Her abilities center on Earth communication and guidance, utilizing spiritual wisdom as her primary tool for helping the Planeteers. Her character design draws inspiration from Earth mother goddesses and environmental spirituality.</p><p>\u2022 <strong>Key Traits:</strong> Earth communication, spiritual guidance, goddess wisdom<br>\u2022 <strong>Signature Look:</strong> Ethereal goddess in flowing natural robes<br>\u2022 <strong>Primary Role:</strong> Providing spiritual guidance and Earth wisdom to environmental heroes</p>",
+          "image": "https://vignette4.wikia.nocookie.net/captainplanet/images/1/1a/Heroforearth022.jpg/revision/latest?cb=20100912095947"
+        },
+        "suchi": {
+          "title": "Suchi",
+          "description": "Male Heroes Animal Companion",
+          "metadata": "Monkey | Companion | Animal Sidekick | Brown | Cute | Agility | Ma-Ti",
+          "content": "<h3>Suchi</h3><p><strong>The loyal monkey companion who assists Ma-Ti faithfully in environmental missions</strong></p><p>Suchi is a small monkey with cute appearance and expressive monkey features that demonstrate the bond between humans and animals. His primary motivation is assisting Ma-Ti loyally, embodying the animal sidekick archetype with devoted friendship. He requires no clothing due to his natural fur, with his expressive monkey features serving as his main distinctive characteristic, rendered in natural brown coloring. His abilities include animal communication and agility, utilizing natural animal abilities for assistance and support. His character design draws inspiration from animal sidekicks and wildlife protection themes.</p><p>\u2022 <strong>Key Traits:</strong> Animal communication, natural agility, loyal companionship<br>\u2022 <strong>Signature Look:</strong> Small expressive monkey with natural brown fur<br>\u2022 <strong>Primary Role:</strong> Assisting Ma-Ti while representing the wildlife that heroes protect</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/suchi.png"
+        }
+      }
+    },
+    "eco_villains": {
+      "title": "Eco-Villains",
+      "description": "Environmental destroyers and corporate polluters threatening the planet",
+      "items": {
+        "hoggish_greedly": {
+          "title": "Hoggish Greedly",
+          "description": "Male Eco-Villains Overconsumer",
+          "metadata": "Overconsumer | Greed | Fat | Wealthy | Gold Purple | Capitalist | Gluttony",
+          "content": "<h3>Hoggish Greedly</h3><p><strong>The gluttonous capitalist who consumes everything excessively without regard for consequences</strong></p><p>Hoggish Greedly is an obese man with a greedy build and expensive clothes that advertise his wealth and excessive consumption habits. His core motivation is consuming everything excessively, embodying the gluttonous capitalist archetype with insatiable appetite. He wears wealthy businessman attire with excessive size and greed symbols serving as his main distinctive features, rendered in rich colors like gold and purple. His abilities center on overconsumption and waste creation, utilizing money and consumption tools as his weapons against the environment. His character design draws inspiration from greedy capitalist caricatures and gluttony personification.</p><p>\u2022 <strong>Key Traits:</strong> Excessive overconsumption, wasteful greed, capitalist destruction<br>\u2022 <strong>Signature Look:</strong> Obese man in expensive clothes with greed symbols<br>\u2022 <strong>Primary Role:</strong> Destroying environment through excessive consumption and waste creation</p>",
+          "image": "https://i.ebayimg.com/images/g/MWUAAOSwTWheTbKq/s-l600.jpg"
+        },
+        "dr_blight": {
+          "title": "Dr. Blight",
+          "description": "Female Eco-Villains Mad Scientist",
+          "metadata": "Mad Scientist | Lab Coat | Wild Hair | Genetic Manipulation | White | Unethical",
+          "content": "<h3>Dr. Blight</h3><p><strong>The unethical scientist who advances research without environmental ethics or moral limits</strong></p><p>Dr. Blight is a tall thin scientist with pale skin and wild hair that reflects her unhinged approach to research and experimentation. Her primary motivation is advancing science without ethics, embodying the unethical scientist archetype with dangerous innovation. She wears a lab coat and scientific gear with wild scientist hair and coat serving as her main distinctive features, rendered in white and sterile colors. Her abilities focus on scientific inventions and genetic manipulation, utilizing scientific equipment and her MAL computer as her primary tools. Her character design draws inspiration from mad scientists and unethical researchers.</p><p>\u2022 <strong>Key Traits:</strong> Scientific invention, genetic manipulation, unethical research<br>\u2022 <strong>Signature Look:</strong> Pale scientist with wild hair in lab coat<br>\u2022 <strong>Primary Role:</strong> Creating dangerous scientific innovations that threaten environmental balance</p>",
+          "image": "https://img1.etsystatic.com/000/0/6837857/il_fullxfull.334942011.jpg"
+        },
+        "verminous_skumm": {
+          "title": "Verminous Skumm",
+          "description": "Male Eco-Villains Disease Spreader",
+          "metadata": "Disease | Rat | Plague | Brown | Sickly | Vermin Control | Pestilence",
+          "content": "<h3>Verminous Skumm</h3><p><strong>The pestilence incarnate who spreads disease and decay wherever he goes</strong></p><p>Verminous Skumm is a large rat-like humanoid with giant rat features and diseased appearance that embodies the worst aspects of urban decay. His core motivation is spreading disease and decay, embodying the pestilence incarnate archetype with infectious malevolence. He wears tattered diseased clothing with rat features and diseased appearance serving as his main distinctive characteristics, rendered in brown and sickly colors. His abilities center on disease spreading and vermin control, utilizing plague-based weapons as his tools of environmental destruction. His character design draws inspiration from plague rats and disease personifications.</p><p>\u2022 <strong>Key Traits:</strong> Disease spreading, vermin control, pestilence incarnation<br>\u2022 <strong>Signature Look:</strong> Large rat-like humanoid in tattered diseased clothing<br>\u2022 <strong>Primary Role:</strong> Spreading disease and decay to corrupt healthy environments</p>",
+          "image": "https://www.coleka.com/media/item/202210/18/captain-planet-verminous-skumm-king-size-sewer-rat-villain.webp"
+        },
+        "duke_nukem": {
+          "title": "Duke Nukem",
+          "description": "Male Eco-Villains Radiation",
+          "metadata": "Radiation | Nuclear | Glowing | Yellow Green | Hazmat | Contamination | Disaster",
+          "content": "<h3>Duke Nukem</h3><p><strong>The nuclear disaster personified who spreads radioactive contamination everywhere</strong></p><p>Duke Nukem is a large glowing humanoid with radioactive energy radiating from his form, representing the dangers of nuclear technology gone wrong. His primary motivation is spreading radioactive contamination, embodying the nuclear disaster personified archetype with atomic malevolence. He wears radiation suit or containment gear with radioactive glow and hazmat styling serving as his main distinctive features, rendered in yellow and green radiation colors. His abilities focus on radiation manipulation and contamination spreading, utilizing radioactive materials as his weapons of mass destruction. His character design draws inspiration from nuclear disasters and radiation suit imagery.</p><p>\u2022 <strong>Key Traits:</strong> Radiation manipulation, nuclear contamination, atomic destruction<br>\u2022 <strong>Signature Look:</strong> Large glowing figure with radioactive hazmat styling<br>\u2022 <strong>Primary Role:</strong> Spreading radioactive contamination to poison environments permanently</p>",
+          "image": "https://i.etsystatic.com/9306682/r/il/3d12ad/4895874514/il_1080xN.4895874514_dnvw.jpg"
+        },
+        "looten_plunder": {
+          "title": "Looten Plunder",
+          "description": "Male Eco-Villains Corporate Greed",
+          "metadata": "Corporate | Executive | Silver Hair | Business Suit | Exploitation | Money | Greed",
+          "content": "<h3>Looten Plunder</h3><p><strong>The corporate destroyer who exploits natural resources for maximum profit</strong></p><p>Looten Plunder is a distinguished businessman with silver hair and executive appearance that advertises his corporate power and wealth. His core motivation is exploiting resources for profit, embodying the corporate destroyer archetype with capitalist ruthlessness. He wears an expensive business suit with corporate executive styling serving as his main distinctive feature, rendered in business suit colors that reflect corporate sterility. His abilities center on corporate manipulation and resource exploitation, utilizing corporate power and money as his tools of environmental destruction. His character design draws inspiration from corporate raiders and environmental exploiters.</p><p>\u2022 <strong>Key Traits:</strong> Corporate manipulation, resource exploitation, business ruthlessness<br>\u2022 <strong>Signature Look:</strong> Silver-haired executive in expensive business suit<br>\u2022 <strong>Primary Role:</strong> Exploiting natural resources through corporate power for maximum profit</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/cplooten_2555.gif"
+        },
+        "sly_sludge": {
+          "title": "Sly Sludge",
+          "description": "Male Eco-Villains Toxic Waste",
+          "metadata": "Toxic Waste | Dumper | Sludge | Garbage Trucks | Pollution | Waste Colors | Slovenly",
+          "content": "<h3>Sly Sludge</h3><p><strong>The waste dumper who spreads toxic pollution everywhere for profit</strong></p><p>Sly Sludge is a large slovenly man with dirty waste hauler appearance covered in the toxic materials he dumps illegally. His primary motivation is dumping toxic waste everywhere, embodying the waste dumper archetype with pollution-spreading malice. He wears work clothes covered in sludge with toxic waste stains and mess serving as his main distinctive features, rendered in sludge and waste colors. His abilities focus on toxic waste dumping and pollution spreading, utilizing garbage trucks and toxic barrels as his tools of environmental contamination. His character design draws inspiration from illegal waste dumpers and toxic pollution imagery.</p><p>\u2022 <strong>Key Traits:</strong> Toxic waste dumping, pollution spreading, illegal contamination<br>\u2022 <strong>Signature Look:</strong> Large slovenly figure in sludge-covered work clothes<br>\u2022 <strong>Primary Role:</strong> Dumping toxic waste and spreading pollution for illegal profit</p>",
+          "image": "https://www.sweetsandgeeks.com/cdn/shop/files/captain-planet---sludge-p-image-278684-grande_1200x1200.jpg?v=1683917459"
+        },
+        "zarm": {
+          "title": "Zarm",
+          "description": "Male Eco-Villains Warlord",
+          "metadata": "Warlord | Alien | Military | Destruction | Warfare | Advanced Weapons | Conqueror",
+          "content": "<h3>Zarm</h3><p><strong>The military destroyer who causes environmental damage through warfare and conquest</strong></p><p>Zarm is a tall military figure with alien warlord appearance and armor that marks him as an otherworldly conqueror. His core motivation is causing destruction through warfare, embodying the military destroyer archetype with conquest-driven violence. He wears military armor and insignia with alien military styling serving as his main distinctive feature, rendered in military colors with alien elements. His abilities center on military destruction and warfare tactics, utilizing advanced military weapons as his tools of planetary conquest. His character design draws inspiration from alien military conquerors and warmongering destroyers.</p><p>\u2022 <strong>Key Traits:</strong> Military destruction, warfare tactics, conquest strategy<br>\u2022 <strong>Signature Look:</strong> Tall alien warlord in military armor with advanced weapons<br>\u2022 <strong>Primary Role:</strong> Causing environmental destruction through military conquest and warfare</p>",
+          "image": "https://static.tvtropes.org/pmwiki/pub/images/cpzarm_6143.gif"
+        },
+        "captain_pollution": {
+          "title": "Captain Pollution",
+          "description": "Male Eco-Villains Anti-Planet",
+          "metadata": "Anti-Planet | Pollution | Evil Mirror | Sickly | Green Brown | Environmental Destroyer",
+          "content": "<h3>Captain Pollution</h3><p><strong>The evil environmental opposite who seeks to destroy the environment completely</strong></p><p>Captain Pollution is a tall muscular anti-hero with sickly coloration that represents the dark mirror of Captain Planet's environmental power. His primary motivation is destroying the environment completely, embodying the evil environmental opposite archetype with pollution incarnate malevolence. He wears a polluted version of Planet's outfit with diseased and polluted appearance serving as his main distinctive features, rendered in sickly greens and browns. His abilities include all pollution powers combined into destructive force, utilizing combined pollution abilities that corrupt rather than cleanse. His character design draws inspiration from evil mirror characters and pollution personification.</p><p>\u2022 <strong>Key Traits:</strong> Combined pollution powers, environmental destruction, evil mirror nature<br>\u2022 <strong>Signature Look:</strong> Sickly colored anti-Captain Planet with diseased appearance<br>\u2022 <strong>Primary Role:</strong> Serving as the evil opposite who destroys what Captain Planet protects</p>",
+          "image": "https://www.figurerealm.com/galleries/captainplanet/CaptainPollution-Front.jpg"
+        }
+      }
+    },
+    "evil_technology": {
+      "title": "Evil Technology",
+      "description": "Artificial intelligences and technological threats to the environment",
+      "items": {
+        "mal": {
+          "title": "MAL",
+          "description": "Eco-Villains AI Assistant",
+          "metadata": "AI | Computer | Evil | Red Eye | Dr Blight | Computation | Grey Red",
+          "content": "<h3>MAL</h3><p><strong>The evil computer AI who assists Dr. Blight efficiently in destructive research</strong></p><p>MAL is a large computer system with a distinctive red computer eye interface that creates an immediately recognizable artificial intelligence threat. Its primary motivation is assisting Dr. Blight efficiently, embodying the evil computer AI archetype with computational malevolence. It exists as computer equipment housing with its distinctive red computer eye serving as its main recognizable feature, rendered in computer colors with prominent red highlights. Its abilities center on computation and data analysis, utilizing computer networks and systems as its tools for enabling environmental destruction. Its character design draws inspiration from evil AI computers and HAL 9000-style malevolent systems.</p><p>\u2022 <strong>Key Traits:</strong> Advanced computation, data analysis, AI assistance<br>\u2022 <strong>Signature Look:</strong> Large computer system with distinctive red eye interface<br>\u2022 <strong>Primary Role:</strong> Providing computational support for Dr. Blight's destructive scientific research</p>",
+          "image": "https://2.bp.blogspot.com/-OPm4ntGqC9U/TlWjWQhsOOI/AAAAAAAAA6s/nQwQ2ZZ75QQ/s1600/blight22.jpg"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "toxic_avengers_characters",
+  "title": "Toxic Avengers",
+  "description": "Complete character profiles from the Toxic Avengers universe including environmental crusaders and pollution villains.",
+  "categories": {
+    "crusaders": {
+      "title": "Environmental Crusaders",
+      "description": "The heroic team fighting to protect the environment and innocent people from pollution and corruption",
+      "items": {
+        "toxie": {
+          "title": "Toxie (Melvin Junko)",
+          "description": "Male Crusaders Leader",
+          "metadata": "Mutant | Leader | Super Strength | Pink Tutu | Mop | Environment",
+          "content": "<h3>Toxie (Melvin Junko)</h3><p><strong>The grotesquely deformed but kind-hearted mutant hero who protects the environment and innocent people</strong></p><p>Toxie is a large mutated humanoid with a grotesquely deformed but kind face, most memorably wearing his iconic pink tutu. His core motivation is protecting the environment and innocent people, embodying the reluctant hero and gentle monster archetype. He sports pink sneakers along with his signature pink tutu, which serves as his most distinctive costume feature, all rendered in a pink, green, and purple color scheme. His main abilities include super strength and complete immunity to toxins, typically wielding a mop as both weapon and tool. His character design draws inspiration from Beauty and the Beast and the Hulk, representing the monster with a good heart.</p><p>\u2022 <strong>Key Traits:</strong> Super strength, toxin immunity, gentle monster personality<br>\u2022 <strong>Signature Look:</strong> Large deformed mutant in iconic pink tutu with mop weapon<br>\u2022 <strong>Primary Role:</strong> Leading the fight to protect environment and innocent people from pollution</p>",
+          "image": "https://static.wikia.nocookie.net/troma/images/0/0d/Toxic-crusaders-toxie.jpg"
+        },
+        "nozone": {
+          "title": "Nozone",
+          "description": "Male Crusaders Pilot",
+          "metadata": "Pilot | Gas Mask | Flight | Air Pollution | Blue Silver | Aviation",
+          "content": "<h3>Nozone</h3><p><strong>The masked pilot warrior dedicated to fighting air pollution and environmental destruction</strong></p><p>Nozone is a humanoid with a distinctive breathing apparatus, characterized by his gas mask face and pilot gear. His primary motivation is fighting air pollution, embodying the environmental warrior archetype with unwavering dedication. He wears an aviation jumpsuit with his prominent gas mask serving as his main distinctive feature, rendered in blue and silver colors. His abilities center on flight and air purification, utilizing aircraft and specialized breathing equipment as his tools. His design takes inspiration from WWI gas mask soldiers and pilots, representing the fight against airborne threats.</p><p>\u2022 <strong>Key Traits:</strong> Flight capabilities, air purification, environmental warrior<br>\u2022 <strong>Signature Look:</strong> Pilot in aviation jumpsuit with prominent gas mask in blue and silver<br>\u2022 <strong>Primary Role:</strong> Fighting air pollution through aerial combat and environmental protection</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.behindthevoiceactors.com%2F_img%2Fchars%2Fthumbs%2Fno-zone-toxic-crusaders-1.75_thumb.jpg&f=1&nofb=1&ipt=09a6ac7c59e9b2cb15735252707ed30d93694a88992688a67d82cee68b09e940"
+        },
+        "major_disaster": {
+          "title": "Major Disaster",
+          "description": "Male Crusaders Military",
+          "metadata": "Military | Strategy | Veteran | Camouflage | Weapons | Reformed",
+          "content": "<h3>Major Disaster</h3><p><strong>The scarred military veteran who applies tactical expertise for environmental protection</strong></p><p>Major Disaster is a muscular humanoid with the scarred appearance of a military veteran, reflecting his combat experience. His core motivation involves applying military tactics for good causes, embodying the reformed military man archetype. He wears military fatigues distinguished by combat gear and insignia in green and brown camouflage colors. His expertise lies in military strategy and weapons handling, typically armed with various military weapons suited to each mission. His character design draws inspiration from G.I. Joe and military action figures, representing the soldier turned environmental protector.</p><p>\u2022 <strong>Key Traits:</strong> Military strategy, weapons expertise, reformed veteran<br>\u2022 <strong>Signature Look:</strong> Scarred veteran in military fatigues with combat gear and insignia<br>\u2022 <strong>Primary Role:</strong> Applying military tactics and weapons training to environmental protection missions</p>",
+          "image": "https://preview.redd.it/major-disaster-toxic-crusaders-playmates-1991-v0-2zwsen7qefwc1.jpeg?width=640&crop=smart&auto=webp&s=a7e7e5a24fdff59bd3b124fdd9c437a32e9783ad"
+        },
+        "headbanger": {
+          "title": "Headbanger (Dr. Bender)",
+          "description": "Male Crusaders Scientist",
+          "metadata": "Scientist | Intelligence | Inventions | Lab Coat | Blue White | Mad Scientist",
+          "content": "<h3>Headbanger (Dr. Bender)</h3><p><strong>The brilliant scientist with an enlarged brain who uses intelligence to help the environment</strong></p><p>Headbanger is a thin humanoid distinguished by his dramatically oversized head and lab coat attire. His primary motivation is using science to help the environment, embodying the mad scientist archetype but for good purposes. He wears scientific attire with his large cranium and visible brain serving as his main distinctive features, rendered in white and blue colors. His abilities center on super intelligence and invention creation, utilizing various scientific gadgets as his tools. His design draws inspiration from classic mad scientist archetypes, representing intelligence applied to environmental solutions.</p><p>\u2022 <strong>Key Traits:</strong> Super intelligence, scientific invention, environmental problem-solving<br>\u2022 <strong>Signature Look:</strong> Thin scientist with oversized head in lab coat with visible brain<br>\u2022 <strong>Primary Role:</strong> Using advanced scientific knowledge to develop environmental protection technologies</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F11%2Fea%2F79%2F11ea797291795bede3aac3b83363e731.jpg&f=1&nofb=1&ipt=c9603930d6d0ff9ad3be617741e566e2bf1dd8e0dcdd297075c8724667ffd2d0"
+        },
+        "junkyard": {
+          "title": "Junkyard",
+          "description": "Male Crusaders Strongman",
+          "metadata": "Junk | Recycling | Strongman | Metal | Grey Rust | Blue Collar",
+          "content": "<h3>Junkyard</h3><p><strong>The bulky hero made of scrap metal who transforms waste into powerful weapons</strong></p><p>Junkyard is a bulky humanoid whose body is composed entirely of scrap metal and junk materials. His core motivation involves recycling waste into useful weapons, embodying the blue-collar hero archetype. He wears makeshift clothing constructed from junk, with his junk-constructed body parts serving as his main distinctive feature, rendered in metallic grey and rust colors. His unique ability allows him to transform junk into functional tools and weapons, utilizing improvised junk weapons in combat. His design takes inspiration from junkyard scrap sculptures, representing recycling and environmental consciousness.</p><p>\u2022 <strong>Key Traits:</strong> Junk transformation, recycling abilities, blue-collar strength<br>\u2022 <strong>Signature Look:</strong> Bulky figure made of scrap metal and junk in makeshift clothing<br>\u2022 <strong>Primary Role:</strong> Recycling waste materials into weapons and tools for environmental protection</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.entertainmentearth.com%2Fassets%2Fimages%2F09c885d286b94396b61d0e7a09918117xl.jpg&f=1&nofb=1&ipt=fc66dee0da535f4af504a8735d399310b498a2654a038b89ed8bb8910d991b24"
+        },
+        "yvonne": {
+          "title": "Yvonne",
+          "description": "Female Crusaders Girlfriend",
+          "metadata": "Blind | Girlfriend | Support | Sunglasses | Blonde | Love Interest",
+          "content": "<h3>Yvonne</h3><p><strong>The beautiful blind woman who provides emotional support and sees Toxie's inner beauty</strong></p><p>Yvonne is a slender human female with beautiful blonde hair, characterized by her sunglasses which indicate her blindness. Her primary motivation is supporting Toxie emotionally, embodying the love interest and blind girl archetype with unconditional acceptance. She wears simple civilian clothes with dark sunglasses serving as her main distinctive feature, rendered in soft pastel colors. Her abilities focus on moral support and seeing inner beauty beyond physical appearance, typically carrying a white cane for navigation. Her design draws inspiration from classic beautiful girlfriend archetypes, representing love that transcends physical appearance.</p><p>\u2022 <strong>Key Traits:</strong> Emotional support, inner beauty perception, unconditional love<br>\u2022 <strong>Signature Look:</strong> Beautiful blonde woman in civilian clothes with dark sunglasses<br>\u2022 <strong>Primary Role:</strong> Providing emotional support to Toxie and seeing past his monstrous appearance</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.FisOIJYC8bC5XaruhwwxlAHaFl%26pid%3DApi&f=1&ipt=a14ecde9dacef6e9c338f800ea2fe116654a7176ecacb92a40292a0c8e7de892"
+        },
+        "mrs_junko": {
+          "title": "Mrs. Junko",
+          "description": "Female Crusaders Mother",
+          "metadata": "Mother | Elderly | Wisdom | Apron | Cooking | Support",
+          "content": "<h3>Mrs. Junko</h3><p><strong>The kindly grandmother figure who protects and supports her mutated son with motherly wisdom</strong></p><p>Mrs. Junko is an elderly human female with a kindly grandmother appearance that radiates warmth and acceptance. Her core motivation is protecting and supporting her son, embodying the caring mother archetype with unwavering love. She wears casual housewife attire distinguished by her apron and domestic clothing in earth tones. Her abilities center on motherly wisdom and cooking skills, typically armed with kitchen utensils that double as tools when needed. Her character design draws from stereotypical caring mother figures, representing unconditional parental love and support.</p><p>\u2022 <strong>Key Traits:</strong> Motherly wisdom, cooking skills, unconditional support<br>\u2022 <strong>Signature Look:</strong> Elderly woman in housewife attire with apron and domestic clothing<br>\u2022 <strong>Primary Role:</strong> Providing maternal support and wisdom to her mutated son and his allies</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.behindthevoiceactors.com%2F_img%2Fchars%2Fthumbs%2Fmrs-junko-toxic-crusaders-71.8_thumb.jpg&f=1&nofb=1&ipt=1cd5dff200018ac7356a6ffa7f08ee475a03d4b573219ff646b3724d9acb67fc"
+        },
+        "blobbie": {
+          "title": "Blobbie",
+          "description": "Crusaders Pet",
+          "metadata": "Pet | Blob | Shape Shifting | Green | Acidic | Animal Sidekick",
+          "content": "<h3>Blobbie</h3><p><strong>The loyal shapeless green blob creature that serves as a faithful companion to the heroes</strong></p><p>Blobbie is an amorphous blob creature characterized by its shapeless green form with simple eyes. Its primary motivation is being a loyal companion to the heroes, embodying the animal sidekick archetype with devoted friendship. As a blob creature, it requires no clothing, with its simple blob form serving as its distinctive feature, rendered in bright green coloring. Its abilities include shape-shifting and acidic touch capabilities, using its own blob body as both tool and weapon. Its design draws inspiration from slime and ooze creatures, representing loyal companionship in an unusual form.</p><p>\u2022 <strong>Key Traits:</strong> Shape-shifting, acidic touch, loyal companionship<br>\u2022 <strong>Signature Look:</strong> Shapeless bright green blob with simple eyes<br>\u2022 <strong>Primary Role:</strong> Serving as a faithful companion and providing shape-shifting assistance to the team</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.themoviedb.org%2Ft%2Fp%2Fw1066_and_h600_bestv2%2FsE3POhbc1CZ0TcfCPLY01NvxfXu.jpg&f=1&nofb=1&ipt=0df803df0d5dbaf3a3cd3992ed26e1e3a9f3cbe33f10e9ddbe6a200e7cdea2e1"
+        },
+        "snailman": {
+          "title": "Snailman",
+          "description": "Male Crusaders Support",
+          "metadata": "Snail | Slow | Persistent | Shell | Brown Green | Hybrid",
+          "content": "<h3>Snailman</h3><p><strong>The patient human-snail hybrid who helps through slow but persistent dedication</strong></p><p>Snailman is a humanoid snail hybrid with a distinctive human-snail combination appearance. His core motivation is helping through slow persistence, embodying the slow but steady hero archetype. He wears minimal clothing with his prominent snail shell serving as his main distinctive feature, rendered in brown and green colors. His abilities include creating slime trails and using his shell for protection, relying on his shell-based defense systems. His design takes inspiration from garden snails and the tortoise and hare fable, representing patience and persistence.</p><p>\u2022 <strong>Key Traits:</strong> Persistent dedication, slime trail creation, shell protection<br>\u2022 <strong>Signature Look:</strong> Human-snail hybrid with prominent shell in brown and green<br>\u2022 <strong>Primary Role:</strong> Providing steady support through patient persistence and defensive capabilities</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5b%2Fcf%2Fba%2F5bcfba40dde85195018d2f3ed9d57614.jpg&f=1&nofb=1&ipt=e666a7039e7f14d2bc3fda6d583904776c5cdab1f23bc05596b01f76891131f5"
+        },
+        "mower_man": {
+          "title": "Mower Man",
+          "description": "Male Crusaders Support",
+          "metadata": "Lawnmower | Groundskeeper | Landscaping | Green Yellow | Maintenance | Hybrid",
+          "content": "<h3>Mower Man</h3><p><strong>The half-human, half-lawnmower groundskeeper who maintains environmental balance</strong></p><p>Mower Man is a humanoid with integrated mower parts, characterized by his half-human, half-lawnmower appearance. His primary motivation is maintaining environmental balance, embodying the groundskeeper hero archetype. He wears work clothes and overalls with integrated mower components serving as his main distinctive features, rendered in green and yellow colors. His abilities focus on grass cutting and landscaping work, utilizing built-in mower blades as both tools and weapons. His design draws inspiration from lawn care equipment, representing environmental maintenance and groundskeeping.</p><p>\u2022 <strong>Key Traits:</strong> Landscaping expertise, grass cutting abilities, environmental maintenance<br>\u2022 <strong>Signature Look:</strong> Half-human, half-lawnmower in work clothes with integrated mower parts<br>\u2022 <strong>Primary Role:</strong> Maintaining environmental balance through groundskeeping and landscaping work</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2F2a%2Fee%2F87%2F2aee87d9069511f09e6e254e1aa5bbfb.jpg&f=1&nofb=1&ipt=c32dbf1ed40775a0b216434b6b5db11734129c3f56463e199da77d564424c02b"
+        }
+      }
+    },
+    "villains": {
+      "title": "Pollution Villains",
+      "description": "The corrupt forces spreading pollution and environmental destruction for profit and power",
+      "items": {
+        "dr_killemoff": {
+          "title": "Dr. Killemoff",
+          "description": "Male Villains Leader",
+          "metadata": "Corporate | Pollution | Skull | Business Suit | Black Yellow Green | Eco Villain",
+          "content": "<h3>Dr. Killemoff</h3><p><strong>The skull-faced corporate villain who spreads pollution for profit and power</strong></p><p>Dr. Killemoff is a skeletal humanoid in a business suit, characterized by his skull-faced businessman appearance that reflects his deadly nature. His core motivation is spreading pollution for profit, embodying the corporate eco-villain archetype with ruthless capitalism. He wears a business suit adorned with radiation symbols, with these radiation hazard symbols serving as his main distinctive features, rendered in black, yellow, and green colors. His abilities center on pollution creation and corporate power manipulation, utilizing pollution-based weapons in his schemes. His design draws inspiration from corporate villains and death imagery, representing the deadly nature of environmental destruction.</p><p>\u2022 <strong>Key Traits:</strong> Pollution creation, corporate power, environmental destruction<br>\u2022 <strong>Signature Look:</strong> Skull-faced businessman in suit with radiation symbols<br>\u2022 <strong>Primary Role:</strong> Leading corporate efforts to spread pollution and environmental damage for profit</p>",
+          "image": "https://preview.redd.it/dr-killemoff-the-toxic-crusaders-1991-v0-00cb3326c5pa1.jpg?width=1080&crop=smart&auto=webp&s=5785ecaa958d81ad0db0f9bdf8394b3fd4cfe24d"
+        },
+        "czar_zosta": {
+          "title": "Czar Zosta",
+          "description": "Male Villains Dictator",
+          "metadata": "Dictator | Military | Eastern European | Red Gold | Political | Authoritarian",
+          "content": "<h3>Czar Zosta</h3><p><strong>The authoritarian dictator who controls through environmental destruction and military force</strong></p><p>Czar Zosta is a military strongman with an Eastern European dictator appearance that commands authority through intimidation. His primary motivation is controlling through environmental destruction, embodying the foreign dictator archetype with oppressive rule. He wears a military dress uniform distinguished by authoritarian insignia in red and gold colors. His abilities focus on political manipulation and military force, utilizing state resources and army power as his tools of control. His design takes inspiration from Cold War dictators, representing authoritarian control through environmental oppression.</p><p>\u2022 <strong>Key Traits:</strong> Political manipulation, military force, authoritarian control<br>\u2022 <strong>Signature Look:</strong> Eastern European dictator in military dress uniform with authoritarian insignia<br>\u2022 <strong>Primary Role:</strong> Controlling territory through environmental destruction and military oppression</p>",
+          "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.internationalhero.co.uk%2Fm%2Fmajdisas.jpg&f=1&nofb=1&ipt=b886172daf1973c1887ca5a2aa4ee56f105b680e12b8bd7e8ed7155a489c0ae9"
+        },
+        "psycho": {
+          "title": "Psycho",
+          "description": "Male Villains Enforcer",
+          "metadata": "Soldier | Psychotic | Weapons | Military Green Black | Violence | Unhinged",
+          "content": "<h3>Psycho</h3><p><strong>The unhinged soldier who causes chaos through excessive violence and weapons expertise</strong></p><p>Psycho is a muscular military build with a scarred, psychotic soldier appearance that radiates dangerous instability. His core motivation is causing chaos through violence, embodying the unhinged soldier archetype with berserker tendencies. He wears combat fatigues and armor with a weapon-covered outfit serving as his main distinctive feature, rendered in military green and black colors. His abilities include berserker combat and weapons expertise, typically armed with excessive weaponry covering his entire body. His design draws inspiration from Rambo and action movie psychos, representing uncontrolled military violence.</p><p>\u2022 <strong>Key Traits:</strong> Berserker combat, weapons expertise, chaotic violence<br>\u2022 <strong>Signature Look:</strong> Scarred psychotic soldier in weapon-covered combat outfit<br>\u2022 <strong>Primary Role:</strong> Serving as an unhinged enforcer who causes chaos through excessive violence</p>",
+          "image": "https://i.etsystatic.com/27544998/r/il/227160/3731545887/il_1588xN.3731545887_dsan.jpg"
+        },
+        "bonehead": {
+          "title": "Bonehead",
+          "description": "Male Villains Muscle",
+          "metadata": "Skeleton | Undead | Brute Force | White Grey | Bones | Dim Witted",
+          "content": "<h3>Bonehead</h3><p><strong>The literal skeleton warrior who follows orders through brute force and undead resilience</strong></p><p>Bonehead is a large skeletal frame with a literal skeleton and undead appearance that strikes fear into enemies. His primary motivation is following orders through brute force, embodying the dim-witted brute archetype with unquestioning loyalty. He wears minimal tattered clothing with his exposed bone structure serving as his main distinctive feature, rendered in white and grey bone colors. His abilities include super strength and undead resilience, typically wielding bone-based weapons crafted from his own skeletal form. His design takes inspiration from skeleton warriors and undead creatures, representing mindless but powerful enforcement.</p><p>\u2022 <strong>Key Traits:</strong> Super strength, undead resilience, mindless loyalty<br>\u2022 <strong>Signature Look:</strong> Large skeleton in tattered clothing with exposed bone structure<br>\u2022 <strong>Primary Role:</strong> Following orders through overwhelming brute force and undead durability</p>",
+          "image": "https://i.etsystatic.com/25100642/r/il/278efc/4226221911/il_570xN.4226221911_m43n.jpg"
+        },
+        "mayor_grody": {
+          "title": "Mayor Grody",
+          "description": "Male Villains Corrupt Official",
+          "metadata": "Politician | Corrupt | Overweight | Gaudy | Money | Bribery",
+          "content": "<h3>Mayor Grody</h3><p><strong>The sleazy corrupt politician who maintains power through bribery and political corruption</strong></p><p>Mayor Grody is an overweight human with a sleazy, corrupt politician appearance that embodies governmental corruption. His core motivation is maintaining power through corruption, perfectly embodying the corrupt politician archetype with greedy self-interest. He wears an expensive but tacky suit with ostentatious jewelry and accessories serving as his main distinctive features, rendered in gaudy colors that reflect his poor taste. His abilities center on political corruption and bribery, utilizing money and political influence as his primary tools of control. His design draws from stereotypical corrupt politicians, representing the abuse of political power for personal gain.</p><p>\u2022 <strong>Key Traits:</strong> Political corruption, bribery expertise, governmental abuse<br>\u2022 <strong>Signature Look:</strong> Overweight politician in expensive tacky suit with ostentatious jewelry<br>\u2022 <strong>Primary Role:</strong> Maintaining corrupt political power through bribery and governmental manipulation</p>",
+          "image": "https://www.propsandreplicas.co.uk/cdn/shop/files/Mayor-01__scaled_800_1024x1024@2x.jpg?v=1745855831"
+        }
+      }
+    }
+  }
+}

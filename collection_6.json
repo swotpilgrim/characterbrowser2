@@ -1,0 +1,408 @@
+{
+  "id": "marvel_vs_capcom_2_characters",
+  "title": "Marvel vs Capcom 2",
+  "description": "Clash of Heroes - Marvel superheroes and Capcom fighters unite in the ultimate fighting game crossover, featuring an epic roster of legendary combatants from two universes.",
+  "categories": {
+    "marvel_heroes": {
+      "title": "Marvel Heroes",
+      "description": "Superheroes from the Marvel Universe defending justice and protecting innocents",
+      "items": {
+        "cable": {
+          "title": "Cable",
+          "description": "Male Marvel Hero Time Soldier",
+          "metadata": "Time Soldier | Cyborg | Plasma Rifle | Military | Grey Blue | Future Warrior",
+          "content": "<h3>Cable</h3><p><strong>The gruff time-traveling soldier who fights to prevent a dystopian future</strong></p><p>Cable is a muscular cyborg with a scarred soldier appearance featuring a distinctive cybernetic arm that marks his origin from a dark future timeline. His core motivation is preventing dystopian future, embodying the gruff time-traveling soldier archetype with battle-hardened experience and urgent mission focus. He wears military gear with tech and cybernetic arm and weapons serving as his main distinctive features, rendered in grey and blue military colors. His abilities center on time travel and heavy weapons, typically armed with plasma rifle and cybernetic arm for futuristic combat. His character design draws inspiration from military sci-fi and Terminator aesthetics.</p><p>\u2022 <strong>Key Traits:</strong> Time travel abilities, heavy weapons expertise, cybernetic enhancements<br>\u2022 <strong>Signature Look:</strong> Muscular cyborg in military gear with cybernetic arm<br>\u2022 <strong>Primary Role:</strong> Preventing dystopian future through time-traveling military operations</p>",
+          "image": "https://i.pinimg.com/736x/32/7b/23/327b2318b5e4372111049181dfe37bc0.jpg"
+        },
+        "captain_america": {
+          "title": "Captain America",
+          "description": "Male Marvel Hero Super Soldier",
+          "metadata": "Super Soldier | Vibranium Shield | Patriotic | Red White Blue | Leadership | All-American",
+          "content": "<h3>Captain America</h3><p><strong>The all-American hero who defends freedom and justice with unwavering moral conviction</strong></p><p>Captain America is an athletic super-soldier with a blonde patriotic hero appearance that embodies the ideals and values of American democracy. His primary motivation is defending freedom and justice, embodying the all-American hero archetype with enhanced physical capabilities and moral leadership. He wears a red, white, blue uniform with star-spangled costume and shield serving as his main iconic features, creating the ultimate patriotic superhero appearance. His abilities include enhanced physicals and leadership, typically armed with his legendary vibranium shield for both offense and defense. His character design draws directly from American patriotic symbols and democratic ideals.</p><p>\u2022 <strong>Key Traits:</strong> Enhanced physical abilities, moral leadership, patriotic dedication<br>\u2022 <strong>Signature Look:</strong> Athletic super-soldier in star-spangled red, white, and blue uniform<br>\u2022 <strong>Primary Role:</strong> Defending American ideals and leading heroes in the fight for freedom</p>",
+          "image": "https://i.pinimg.com/736x/22/03/bb/2203bbb5f38d153080407c18a1ecd206.jpg"
+        },
+        "colossus": {
+          "title": "Colossus",
+          "description": "Male Marvel Hero X-Man",
+          "metadata": "X-Man | Organic Steel | Gentle Giant | Russian | Silver Metallic | Super Strength",
+          "content": "<h3>Colossus</h3><p><strong>The gentle giant who protects mutants and innocents through organic steel transformation</strong></p><p>Colossus is a large metallic build with Russian mutant metal skin that can transform into organic steel at will. His core motivation is protecting mutants and innocents, embodying the gentle giant archetype with immense physical power tempered by compassionate nature. He wears simple clothing or X-uniform with metallic skin transformation serving as his main distinctive ability, rendered in silver metallic colors. His abilities focus on organic steel form and super strength, typically fighting with bare hands in metal form that can withstand virtually any attack. His character design draws inspiration from Russian strongmen and steel workers.</p><p>\u2022 <strong>Key Traits:</strong> Organic steel transformation, super strength, gentle nature<br>\u2022 <strong>Signature Look:</strong> Large Russian mutant with metallic skin transformation ability<br>\u2022 <strong>Primary Role:</strong> Protecting fellow mutants while serving as X-Men powerhouse</p>",
+          "image": "https://i.pinimg.com/736x/ca/85/02/ca85023bef77c19689ef531a71492bbf.jpg"
+        },
+        "cyclops": {
+          "title": "Cyclops",
+          "description": "Male Marvel Hero X-Man Leader",
+          "metadata": "X-Men Leader | Optic Blasts | Ruby Visor | Stoic | Blue Yellow | Tactical",
+          "content": "<h3>Cyclops</h3><p><strong>The stoic leader who guides the X-Men toward peaceful coexistence between humans and mutants</strong></p><p>Cyclops is an athletic mutant with a visor-wearing team leader appearance that reflects his role as tactical commander of the X-Men. His primary motivation is leading X-Men to peaceful coexistence, embodying the stoic leader archetype with unwavering dedication to Professor Xavier's dream. He wears X-Men uniform with ruby quartz visor serving as his main distinctive feature, rendered in blue and yellow X-Men colors. His abilities center on optic energy blasts controlled and focused through his specialized visor. His character design draws inspiration from military leaders and sci-fi heroes.</p><p>\u2022 <strong>Key Traits:</strong> Optic energy blasts, tactical leadership, strategic planning<br>\u2022 <strong>Signature Look:</strong> Athletic mutant in X-Men uniform with distinctive ruby quartz visor<br>\u2022 <strong>Primary Role:</strong> Leading X-Men in the fight for mutant-human peaceful coexistence</p>",
+          "image": "https://i.pinimg.com/736x/12/09/72/1209723f1829b7a2c6b5aa6781d6e7a8.jpg"
+        },
+        "gambit": {
+          "title": "Gambit",
+          "description": "Male Marvel Hero X-Man",
+          "metadata": "X-Man | Kinetic Energy | Playing Cards | Cajun | Pink Black | Charming Rogue",
+          "content": "<h3>Gambit</h3><p><strong>The charming rogue who protects others through Cajun charm and kinetic energy powers</strong></p><p>Gambit is an athletic Cajun with a trench coat wearing appearance that reflects his background as a reformed thief turned X-Men hero. His core motivation is charming and protecting through roguishness, embodying the charming rogue/thief archetype with street smarts and supernatural abilities. He wears trench coat and casual wear with distinctive trench coat serving as his signature feature, rendered in pink and black colors. His abilities focus on kinetic energy charging, typically armed with playing cards and bo staff that he charges with explosive energy. His character design draws inspiration from romantic rogues and gamblers.</p><p>\u2022 <strong>Key Traits:</strong> Kinetic energy charging, charming personality, street fighting skills<br>\u2022 <strong>Signature Look:</strong> Athletic Cajun in distinctive trench coat with casual wear<br>\u2022 <strong>Primary Role:</strong> Using reformed criminal skills and energy powers to protect innocents</p>",
+          "image": "https://i.pinimg.com/736x/6c/10/75/6c10754242e479caaaba69a2cace5e40.jpg"
+        },
+        "hulk": {
+          "title": "Hulk",
+          "description": "Male Marvel Hero Monster",
+          "metadata": "Monster Hero | Gamma Powers | Green Giant | Super Strength | Purple Pants | Savage",
+          "content": "<h3>Hulk</h3><p><strong>The savage protector who defends others through overwhelming gamma-powered force</strong></p><p>Hulk is a massive muscular build with green giant appearance and torn clothes that result from his incredible size and strength. His primary motivation is protecting through overwhelming force, embodying the savage protector archetype with unlimited strength fueled by emotional intensity. He wears torn purple pants with massive green musculature serving as his main distinctive features, creating an iconic monster hero appearance. His abilities center on gamma-powered super strength, typically fighting with bare hands and environmental objects as weapons. His character design draws inspiration from Jekyll and Hyde mythology and classic monster archetypes.</p><p>\u2022 <strong>Key Traits:</strong> Gamma-powered super strength, emotional transformation, protective instincts<br>\u2022 <strong>Signature Look:</strong> Massive green giant with torn purple pants and incredible musculature<br>\u2022 <strong>Primary Role:</strong> Protecting innocents through raw power and savage determination</p>",
+          "image": "https://i.pinimg.com/736x/f0/ff/da/f0ffda0599c3c7f45442dc4833c0687f.jpg"
+        },
+        "iceman": {
+          "title": "Iceman",
+          "description": "Male Marvel Hero X-Man",
+          "metadata": "X-Man | Ice Powers | Cool Jokester | Blue White | Thermal Control | Crystal Form",
+          "content": "<h3>Iceman</h3><p><strong>The cool-headed jokester who protects others through ice manipulation and thermal control</strong></p><p>Iceman is an athletic ice-form build with ice-covered mutant hero appearance that allows him to transform his body into living ice. His core motivation is protecting through ice powers, embodying the cool-headed jokester archetype with both literal and figurative coolness under pressure. He wears ice armor or casual wear with ice crystal body covering serving as his main distinctive feature, rendered in blue and white ice colors. His abilities focus on ice manipulation and form control, typically using ice constructs and projectiles in combat. His character design draws inspiration from ice and winter elements.</p><p>\u2022 <strong>Key Traits:</strong> Ice manipulation, thermal control, humorous personality<br>\u2022 <strong>Signature Look:</strong> Athletic mutant with ice crystal body covering and frozen appearance<br>\u2022 <strong>Primary Role:</strong> Protecting fellow mutants while maintaining team morale through humor</p>",
+          "image": "https://i.pinimg.com/736x/69/8a/a6/698aa67294b47a2af3104284efc93759.jpg"
+        },
+        "iron_man": {
+          "title": "Iron Man",
+          "description": "Male Marvel Hero Armored Avenger",
+          "metadata": "Armored Avenger | Technology | Red Gold | Repulsors | Genius Billionaire | High-Tech",
+          "content": "<h3>Iron Man</h3><p><strong>The genius billionaire hero who protects the world through advanced technology and powered armor</strong></p><p>Iron Man is an athletic build encased in high-tech armored suit that represents the pinnacle of technological achievement and engineering excellence. His primary motivation is protecting world through technology, embodying the genius billionaire hero archetype with unlimited resources and brilliant intellect. He wears red and gold armor with sleek technological armor serving as his main distinctive features, creating an iconic high-tech superhero appearance. His abilities center on powered armor and repulsors, typically armed with armor weapons systems for versatile combat. His character design draws inspiration from high-tech armor and jet aircraft.</p><p>\u2022 <strong>Key Traits:</strong> Powered armor technology, repulsor systems, genius-level intellect<br>\u2022 <strong>Signature Look:</strong> Athletic build in sleek red and gold technological armor<br>\u2022 <strong>Primary Role:</strong> Protecting world through advanced technology and engineering innovation</p>",
+          "image": "https://i.pinimg.com/736x/87/8f/2a/878f2a1414528b60ba93ebebabcf51dd.jpg"
+        },
+        "spider_man": {
+          "title": "Spider-Man",
+          "description": "Male Marvel Hero Wall-Crawler",
+          "metadata": "Wall-Crawler | Spider Powers | Web-Slinging | Red Blue | Responsibility | Wise-Cracking",
+          "content": "<h3>Spider-Man</h3><p><strong>The wise-cracking hero who protects innocents guided by the principle of great responsibility</strong></p><p>Spider-Man is an athletic acrobatic build with red and blue masked hero appearance that enables incredible feats of agility and wall-crawling. His core motivation is protecting innocents with great responsibility, embodying the wise-cracking hero archetype with humor that masks deep dedication to helping others. He wears red and blue spider suit with web pattern and spider symbol serving as his main iconic features. His abilities focus on spider powers and web-slinging, typically armed with web-shooters for both transportation and combat. His character design draws inspiration from spiders and acrobats.</p><p>\u2022 <strong>Key Traits:</strong> Spider powers, web-slinging, wise-cracking humor<br>\u2022 <strong>Signature Look:</strong> Athletic acrobat in red and blue spider suit with web patterns<br>\u2022 <strong>Primary Role:</strong> Protecting New York City while learning that with great power comes great responsibility</p>",
+          "image": "https://i.pinimg.com/736x/52/24/12/52241259322d53909642c5e50a58267f.jpg"
+        },
+        "war_machine": {
+          "title": "War Machine",
+          "description": "Male Marvel Hero Military Cyborg",
+          "metadata": "Military Cyborg | Heavy Weapons | Grey Armor | Military Tech | War Machine | Tactical",
+          "content": "<h3>War Machine</h3><p><strong>The military tech warrior who serves justice through overwhelming military might and firepower</strong></p><p>War Machine is a bulky armored build with grey military-style armor that emphasizes firepower and tactical superiority over sleek design. His primary motivation is serving justice through military might, embodying the military tech warrior archetype with professional soldier discipline and advanced weaponry. He wears grey military armor with heavy weapons integration serving as his main distinctive features, rendered in grey and black military colors. His abilities center on military armor and heavy weapons, typically armed with integrated weapon systems for maximum battlefield effectiveness. His character design draws inspiration from military hardware and tanks.</p><p>\u2022 <strong>Key Traits:</strong> Military armor systems, heavy weapons integration, tactical expertise<br>\u2022 <strong>Signature Look:</strong> Bulky figure in grey military armor with integrated heavy weapons<br>\u2022 <strong>Primary Role:</strong> Providing military-grade firepower and tactical support for heroic operations</p>",
+          "image": "https://i.pinimg.com/736x/f4/d3/63/f4d363a57e68768407cc6484160ac7d2.jpg"
+        },
+        "wolverine_adamantium": {
+          "title": "Wolverine",
+          "description": "Male Marvel Hero X-Man",
+          "metadata": "X-Man | Adamantium Claws | Healing Factor | Yellow Blue | Feral Warrior | Canadian",
+          "content": "<h3>Wolverine (Adamantium)</h3><p><strong>The feral Canadian warrior who protects others through savage combat and unbreakable claws</strong></p><p>Wolverine is a compact muscular build with short Canadian appearance featuring metal claws that represent the fusion of human determination with technological enhancement. His core motivation is protecting through savage combat, embodying the feral Canadian warrior archetype with healing factor and adamantium-enhanced skeleton. He wears yellow and blue X-costume with distinctive hair and metal claws serving as his main recognizable features. His abilities focus on healing factor and adamantium claws, fighting with adamantium claw skeleton that can cut through virtually any material. His character design draws inspiration from wolverines and Canadian wilderness.</p><p>\u2022 <strong>Key Traits:</strong> Adamantium claws, healing factor, savage combat instincts<br>\u2022 <strong>Signature Look:</strong> Compact muscular figure in yellow and blue with distinctive metal claws<br>\u2022 <strong>Primary Role:</strong> Providing X-Men with uncompromising combat effectiveness and loyalty</p>",
+          "image": "https://i.pinimg.com/736x/51/84/e3/5184e382082d9debd226d980deb00e25.jpg"
+        },
+        "marrow": {
+          "title": "Marrow",
+          "description": "Female Marvel Hero Morlocks",
+          "metadata": "Morlocks | Bone Spikes | Punk Outcast | White Bones | Dark Clothing | Savage",
+          "content": "<h3>Marrow</h3><p><strong>The savage outcast who survives and protects fellow outcasts through bone spike generation</strong></p><p>Marrow is an athletic punk build with bone spikes protruding from body that mark her as one of the underground Morlocks rejected by surface society. Her core motivation is surviving and protecting outcasts, embodying the savage outcast archetype with fierce independence and protective instincts. She wears punk/leather outfit with visible bone protrusions serving as her main distinctive features, rendered in white bones and dark clothing colors. Her abilities focus on bone spike generation, typically armed with bone weapons and spikes that grow from her own body. Her character design draws inspiration from punk rockers and body modification culture.</p><p>\u2022 <strong>Key Traits:</strong> Bone spike generation, punk rebellion, outcast protection<br>\u2022 <strong>Signature Look:</strong> Athletic punk figure with visible bone spikes protruding from body<br>\u2022 <strong>Primary Role:</strong> Protecting fellow outcasts while fighting for Morlock survival and acceptance</p>",
+          "image": "https://i.pinimg.com/736x/82/11/cc/8211cc63f232f8d9fe51cd696ea157ee.jpg"
+        },
+        "psylocke": {
+          "title": "Psylocke",
+          "description": "Female Marvel Hero Psychic Ninja",
+          "metadata": "Psychic Ninja | Telepathy | Psychic Blades | Purple Black | Ninja Warrior | Asian",
+          "content": "<h3>Psylocke</h3><p><strong>The psychic ninja warrior who fights evil through the fusion of psychic powers and martial arts</strong></p><p>Psylocke is an athletic ninja build with purple-haired Asian ninja appearance that combines traditional martial arts mastery with powerful telepathic abilities. Her primary motivation is fighting evil through psychic martial arts, embodying the psychic ninja warrior archetype with mental and physical combat skills. She wears purple ninja outfit with psychic energy weapons serving as her main distinctive features, rendered in purple and black colors. Her abilities center on telepathy and psychic blades, typically armed with psychic katana and throwing knives that manifest her mental energy as physical weapons. Her character design draws inspiration from ninja warriors and psychics.</p><p>\u2022 <strong>Key Traits:</strong> Telepathic abilities, psychic blade manifestation, ninja martial arts<br>\u2022 <strong>Signature Look:</strong> Athletic ninja in purple outfit with psychic energy weapons<br>\u2022 <strong>Primary Role:</strong> Fighting evil through combination of psychic powers and ninja combat techniques</p>",
+          "image": "https://i.pinimg.com/736x/d0/bc/c4/d0bcc47a82d22156415a6b231a960ffc.jpg"
+        },
+        "rogue": {
+          "title": "Rogue",
+          "description": "Female Marvel Hero X-Man",
+          "metadata": "X-Man | Power Absorption | Southern Belle | Green Yellow Brown | Deadly Touch | White Streaks",
+          "content": "<h3>Rogue</h3><p><strong>The Southern belle with deadly touch who learns to control dangerous powers responsibly</strong></p><p>Rogue is an athletic Southern build with white-streaked hair and Southern style that reflects both her regional background and the physical manifestation of her dangerous abilities. Her core motivation is controlling dangerous powers responsibly, embodying the Southern belle with deadly touch archetype with warmth and strength despite lethal contact. She wears green and yellow X-costume with white hair streaks serving as her main distinctive features, rendered in green, yellow, and brown colors. Her abilities focus on power absorption through touch, fighting with bare hands that can absorb powers and memories from anyone she touches. Her character design draws inspiration from Southern belles and gothic elements.</p><p>\u2022 <strong>Key Traits:</strong> Power absorption through touch, Southern charm, dangerous contact<br>\u2022 <strong>Signature Look:</strong> Athletic Southern woman in X-costume with distinctive white hair streaks<br>\u2022 <strong>Primary Role:</strong> Learning to control deadly powers while protecting fellow X-Men</p>",
+          "image": "https://i.pinimg.com/736x/82/e5/8b/82e58bb23af6e6c1f876817fa0d10322.jpg"
+        },
+        "storm": {
+          "title": "Storm",
+          "description": "Female Marvel Hero Weather Goddess",
+          "metadata": "Weather Goddess | Weather Control | White Hair | White Blue | African | Tribal Leader",
+          "content": "<h3>Storm</h3><p><strong>The weather goddess who protects mutants through mastery of atmospheric and weather control</strong></p><p>Storm is a tall goddess-like build with white-haired African weather goddess appearance that marks her as one of the most powerful mutants with dominion over natural forces. Her primary motivation is protecting mutants through weather control, embodying the weather goddess/tribal leader archetype with elemental mastery and leadership wisdom. She wears white cape and bodysuit with flowing white hair and cape serving as her main distinctive features, rendered in white and blue colors. Her abilities center on weather manipulation, typically using weather and lightning that respond to her will. Her character design draws inspiration from African goddesses and weather deities.</p><p>\u2022 <strong>Key Traits:</strong> Weather manipulation, elemental mastery, tribal leadership<br>\u2022 <strong>Signature Look:</strong> Tall goddess-like figure with flowing white hair and cape<br>\u2022 <strong>Primary Role:</strong> Protecting mutants while commanding the very forces of nature</p>",
+          "image": "https://i.pinimg.com/736x/c8/5c/db/c85cdbf1dd6ea871ed26cc5428dfcd14.jpg"
+        }
+      }
+    },
+    "marvel_villains": {
+      "title": "Marvel Villains",
+      "description": "Dangerous antagonists and supernatural threats from the Marvel Universe",
+      "items": {
+        "blackheart": {
+          "title": "Blackheart",
+          "description": "Male Marvel Villain Demon",
+          "metadata": "Demon | Dark Magic | Black Red | Spikes | Evil Corruption | Prince of Darkness",
+          "content": "<h3>Blackheart</h3><p><strong>The demonic prince of darkness who spreads evil and corruption wherever he appears</strong></p><p>Blackheart is a large demonic build with dark demon appearance featuring spikes that mark him as one of the most powerful supernatural threats in existence. His core motivation is spreading evil and corruption, embodying the demonic prince of darkness archetype with ancient malevolence and supernatural power. He wears minimal demonic armor with spikes and dark energy serving as his main menacing features, rendered in black and red colors. His abilities focus on dark magic and demon powers, typically using dark energy attacks that draw from supernatural sources. His character design draws inspiration from biblical and mythological demons.</p><p>\u2022 <strong>Key Traits:</strong> Dark magic powers, demonic corruption, supernatural malevolence<br>\u2022 <strong>Signature Look:</strong> Large demonic figure with spikes and dark energy emanation<br>\u2022 <strong>Primary Role:</strong> Spreading evil and corruption through supernatural demonic influence</p>",
+          "image": "https://i.pinimg.com/736x/a6/20/4b/a6204b1fae83a822d5c727ca21bfdfd4.jpg"
+        },
+        "doctor_doom": {
+          "title": "Doctor Doom",
+          "description": "Male Marvel Villain Monarch",
+          "metadata": "Monarch | Technology Magic | Green Silver | Armored Dictator | Genius Intellect | Royal",
+          "content": "<h3>Doctor Doom</h3><p><strong>The aristocratic dictator who seeks to rule the world through technological and mystical superiority</strong></p><p>Doctor Doom is a tall armored build with armored monarch appearance featuring a cape that combines royal bearing with technological supremacy. His primary motivation is ruling world through superiority, embodying the aristocratic dictator archetype with genius intellect and unlimited ambition. He wears full body armor and cape with metal mask and royal cape serving as his main distinctive features, rendered in green and silver colors. His abilities combine technology, magic, and genius intellect, typically armed with armor systems and magic for supreme versatility. His character design draws inspiration from medieval armor and dictators.</p><p>\u2022 <strong>Key Traits:</strong> Technological supremacy, mystical knowledge, genius-level intellect<br>\u2022 <strong>Signature Look:</strong> Tall armored monarch in full body armor with metal mask and royal cape<br>\u2022 <strong>Primary Role:</strong> Conquering the world through superior technology and magical knowledge</p>",
+          "image": "https://i.pinimg.com/736x/61/c8/16/61c816aedbc142389ea11671c7a611b1.jpg"
+        },
+        "juggernaut": {
+          "title": "Juggernaut",
+          "description": "Male Marvel Villain Unstoppable Force",
+          "metadata": "Unstoppable Force | Super Strength | Brown Red Armor | Domed Helmet | Momentum | Brute",
+          "content": "<h3>Juggernaut</h3><p><strong>The unstoppable brute who destroys everything in his path through overwhelming momentum</strong></p><p>Juggernaut is a massive hulking build with armored giant appearance featuring a helmet that makes him a living force of destruction. His core motivation is destroying everything in path, embodying the unstoppable brute archetype with momentum that cannot be halted by any obstacle. He wears heavy armor and helmet with distinctive domed helmet serving as his main recognizable feature, rendered in brown and red armor colors. His abilities center on unstoppable momentum, typically fighting with bare hands and mass that can demolish any barrier. His character design draws inspiration from medieval siege engines and bulldozers.</p><p>\u2022 <strong>Key Traits:</strong> Unstoppable momentum, overwhelming mass, destructive force<br>\u2022 <strong>Signature Look:</strong> Massive hulking figure in heavy armor with distinctive domed helmet<br>\u2022 <strong>Primary Role:</strong> Destroying obstacles through pure unstoppable momentum and brute force</p>",
+          "image": "https://i.pinimg.com/736x/d0/90/3d/d0903dd956a62f2db4a2e4341ec0c23f.jpg"
+        },
+        "magneto": {
+          "title": "Magneto",
+          "description": "Male Marvel Villain Mutant Supremacist",
+          "metadata": "Mutant Supremacist | Magnetic Control | Purple Red | Cape Helmet | Nazi Survivor | Master",
+          "content": "<h3>Magneto</h3><p><strong>The magnetic master who seeks to achieve mutant dominance through electromagnetic supremacy</strong></p><p>Magneto is a tall commanding build with cape-wearing mutant master appearance that reflects his role as both Holocaust survivor and mutant supremacist leader. His primary motivation is achieving mutant dominance, embodying the magnetic master/Nazi survivor archetype with the conviction that only mutant rule can prevent another genocide. He wears purple costume and cape with distinctive helmet and cape serving as his main iconic features, rendered in purple and red colors. His abilities focus on magnetic manipulation, typically using magnetic fields and metal control to reshape the battlefield. His character design draws inspiration from classical villains and Nazi imagery.</p><p>\u2022 <strong>Key Traits:</strong> Magnetic field manipulation, metal control, mutant supremacy ideology<br>\u2022 <strong>Signature Look:</strong> Tall commanding figure in purple costume with distinctive helmet and cape<br>\u2022 <strong>Primary Role:</strong> Leading mutant supremacist movement through electromagnetic mastery</p>",
+          "image": "https://i.pinimg.com/736x/78/f2/2c/78f22c1223e1c159aecd1a7aac7c0e61.jpg"
+        },
+        "omega_red": {
+          "title": "Omega Red",
+          "description": "Male Marvel Villain Soviet Super-Soldier",
+          "metadata": "Soviet Super-Soldier | Death Spores | Red Silver | Carbonadium Coils | Pale Russian | Vampiric",
+          "content": "<h3>Omega Red</h3><p><strong>The death-dealing Soviet who spreads death and destruction through carbonadium coil attacks</strong></p><p>Omega Red is a muscular Soviet build with pale Russian appearance featuring metal coils that represent the ultimate expression of Cold War super-soldier experimentation. His core motivation is spreading death and destruction, embodying the death-dealing Soviet archetype with life-draining abilities and nihilistic purpose. He wears Soviet military elements with carbonadium coil tentacles serving as his main distinctive features, rendered in red and silver colors. His abilities center on death spores and carbonadium coils, typically using carbonadium tentacle coils to drain life energy from victims. His character design draws inspiration from Soviet super-soldiers and vampires.</p><p>\u2022 <strong>Key Traits:</strong> Death spore emission, carbonadium coil attacks, life energy drainage<br>\u2022 <strong>Signature Look:</strong> Muscular pale figure with Soviet military elements and metal tentacle coils<br>\u2022 <strong>Primary Role:</strong> Spreading death and destruction through Soviet-engineered super-soldier abilities</p>",
+          "image": "https://i.pinimg.com/736x/50/ce/df/50cedfaaa48cc2d07bf0b5f7ea3e18d1.jpg"
+        },
+        "sabretooth": {
+          "title": "Sabretooth",
+          "description": "Male Marvel Villain Feral Mutant",
+          "metadata": "Feral Mutant | Claws Healing | Brown Orange Fur | Wild Hair | Predator | Savage",
+          "content": "<h3>Sabretooth</h3><p><strong>The savage predator who hunts and kills for pleasure using enhanced feral abilities</strong></p><p>Sabretooth is a large feral build with wild-haired bestial mutant appearance that embodies the dark side of evolutionary enhancement and predatory instincts. His primary motivation is hunting and killing for pleasure, embodying the savage predator archetype with enhanced abilities used for cruel purposes. He wears minimal fur-lined clothing with wild hair and fangs serving as his main menacing features, rendered in brown and orange fur colors. His abilities include enhanced senses, claws, and healing, typically fighting with natural claws and fangs. His character design draws inspiration from wild animals and prehistoric predators.</p><p>\u2022 <strong>Key Traits:</strong> Enhanced senses, natural claws, accelerated healing factor<br>\u2022 <strong>Signature Look:</strong> Large feral figure with wild hair and minimal fur-lined clothing<br>\u2022 <strong>Primary Role:</strong> Hunting and terrorizing victims through savage predatory instincts</p>",
+          "image": "https://i.pinimg.com/736x/a4/92/63/a492634eb212da855ca2fb2e496eb436.jpg"
+        },
+        "silver_samurai": {
+          "title": "Silver Samurai",
+          "description": "Male Marvel Villain Honor-Bound Warrior",
+          "metadata": "Honor-Bound Warrior | Tachyon Katana | Silver Traditional | Japanese Samurai | Swordsmanship | Honorable",
+          "content": "<h3>Silver Samurai</h3><p><strong>The honorable Japanese warrior who seeks to achieve honor through traditional samurai combat</strong></p><p>Silver Samurai is an athletic samurai build with armored Japanese warrior appearance that represents the intersection of traditional bushido values with advanced technology. His core motivation is achieving honor through combat, embodying the honorable Japanese warrior archetype with unwavering dedication to samurai code. He wears silver samurai armor with traditional samurai styling serving as his main distinctive features, rendered in silver and traditional colors. His abilities focus on tachyon energy and swordsmanship, typically armed with tachyon-charged katana that can cut through virtually any material. His character design draws inspiration from Japanese samurai warriors.</p><p>\u2022 <strong>Key Traits:</strong> Tachyon energy swordsmanship, samurai honor code, traditional combat mastery<br>\u2022 <strong>Signature Look:</strong> Athletic samurai in silver armor with traditional Japanese styling<br>\u2022 <strong>Primary Role:</strong> Pursuing personal honor through traditional samurai combat and swordsmanship</p>",
+          "image": "https://i.pinimg.com/736x/21/cf/e1/21cfe1777a3feae7d873ca0d89506698.jpg"
+        },
+        "thanos": {
+          "title": "Thanos",
+          "description": "Male Marvel Villain Mad Titan",
+          "metadata": "Mad Titan | Cosmic Powers | Purple Gold | Infinity Gauntlet | Reality Manipulation | Cosmic",
+          "content": "<h3>Thanos</h3><p><strong>The cosmic tyrant who seeks to achieve cosmic balance through systematic destruction</strong></p><p>Thanos is a massive cosmic build with purple giant appearance featuring cosmic armor that marks him as one of the most powerful beings in the universe. His primary motivation is achieving cosmic balance through destruction, embodying the cosmic tyrant archetype with the conviction that only he understands what must be done. He wears cosmic armor and gauntlets with Infinity Gauntlet and cosmic styling serving as his main powerful features, rendered in purple and gold cosmic colors. His abilities center on cosmic powers and reality manipulation, typically armed with Infinity Gauntlet that grants control over fundamental forces of reality. His character design draws inspiration from cosmic entities and ancient tyrants.</p><p>\u2022 <strong>Key Traits:</strong> Cosmic power manipulation, reality alteration, universal-scale thinking<br>\u2022 <strong>Signature Look:</strong> Massive purple giant in cosmic armor with Infinity Gauntlet<br>\u2022 <strong>Primary Role:</strong> Reshaping the universe according to his vision of cosmic balance</p>",
+          "image": "https://i.pinimg.com/736x/62/7f/e1/627fe104abecef57ff27f6c2c9954836.jpg"
+        },
+        "venom": {
+          "title": "Venom",
+          "description": "Male Marvel Villain Symbiote",
+          "metadata": "Symbiote | Alien Parasite | Black White | Web Powers | Large Teeth | Dark Mirror",
+          "content": "<h3>Venom</h3><p><strong>The savage alien parasite who seeks to destroy Spider-Man and corrupt innocents</strong></p><p>Venom is a large muscular symbiote build with black alien symbiote form that represents the corruption of heroic powers by alien intelligence. His core motivation is destroying Spider-Man and innocents, embodying the savage alien parasite archetype with predatory instincts and Spider-Man's abilities. He appears as living alien costume with web patterns and large teeth serving as his main menacing features, rendered in black and white colors. His abilities include symbiote powers and web abilities, typically using symbiote tendrils and webs that respond to alien intelligence. His character design draws inspiration from alien parasites and dark mirrors.</p><p>\u2022 <strong>Key Traits:</strong> Symbiote powers, web abilities, alien intelligence<br>\u2022 <strong>Signature Look:</strong> Large muscular figure in living black alien costume with large teeth<br>\u2022 <strong>Primary Role:</strong> Corrupting Spider-Man's abilities while serving as his dark opposite</p>",
+          "image": "https://i.pinimg.com/736x/68/2c/08/682c0821e8c78626121b8d25c03c929d.jpg"
+        },
+        "sentinel": {
+          "title": "Sentinel",
+          "description": "Marvel Villain Robot Hunter",
+          "metadata": "Robot Hunter | Mutant Detection | Purple Grey | Giant Robot | Energy Weapons | Law Enforcement",
+          "content": "<h3>Sentinel</h3><p><strong>The mutant-hunting robot programmed to eliminate the mutant threat through systematic detection and destruction</strong></p><p>Sentinel is a giant robot build with purple giant robot appearance that embodies the technological solution to what some consider the mutant problem. Its core motivation is eliminating mutant threat, embodying the mutant-hunting robot archetype with cold mechanical efficiency and programmed purpose. It features robot armor plating with giant humanoid robot design serving as its main imposing characteristics, rendered in purple and grey colors. Its abilities center on mutant detection and energy weapons, typically using built-in weapon systems designed specifically for anti-mutant warfare. Its design draws inspiration from giant robots and law enforcement technology.</p><p>\u2022 <strong>Key Traits:</strong> Mutant detection systems, energy weapon arrays, systematic elimination protocols<br>\u2022 <strong>Signature Look:</strong> Giant purple robot with humanoid design and armor plating<br>\u2022 <strong>Primary Role:</strong> Hunting and eliminating mutants through technological superiority and detection</p>",
+          "image": "https://i.pinimg.com/736x/aa/ec/0c/aaec0cfe29f63f18b871b495e76ea453.jpg"
+        }
+      }
+    },
+    "capcom_heroes": {
+      "title": "Capcom Heroes",
+      "description": "Heroic fighters and champions from various Capcom game universes",
+      "items": {
+        "captain_commando": {
+          "title": "Captain Commando",
+          "description": "Male Capcom Fighter Space Hero",
+          "metadata": "Space Hero | Energy Weapons | Blue White | Captain Uniform | Leadership | Retro Sci-Fi",
+          "content": "<h3>Captain Commando</h3><p><strong>The retro space hero who protects Earth from alien threats using advanced technology</strong></p><p>Captain Commando is an athletic superhero build with blue-armored space captain appearance that embodies classic science fiction heroism and leadership. His core motivation is protecting Earth from alien threats, embodying the retro space hero archetype with optimistic vision of the future and technological mastery. He wears blue captain's uniform with captain's insignia and visor serving as his main distinctive features, rendered in blue and white colors. His abilities focus on energy weapons and leadership, typically armed with energy gloves and visor that provide both offensive and defensive capabilities. His character design draws inspiration from retro sci-fi captains.</p><p>\u2022 <strong>Key Traits:</strong> Energy weapon mastery, leadership capabilities, space combat expertise<br>\u2022 <strong>Signature Look:</strong> Athletic superhero in blue captain's uniform with insignia and visor<br>\u2022 <strong>Primary Role:</strong> Defending Earth from alien invasions using retro space hero technology</p>",
+          "image": "https://i.pinimg.com/736x/ea/76/98/ea76985480dd0a688e9acf69af60ede3.jpg"
+        },
+        "charlie": {
+          "title": "Charlie",
+          "description": "Male Capcom Fighter Military Soldier",
+          "metadata": "Military Soldier | Sonic Booms | Military Green Tan | Dog Tags | American Military | Top Gun",
+          "content": "<h3>Charlie</h3><p><strong>The American soldier who serves his country through military duty and sonic boom attacks</strong></p><p>Charlie is an athletic military build with blonde American soldier appearance that represents dedicated military service and patriotic duty. His primary motivation is serving country through military duty, embodying the American soldier archetype with professional discipline and combat effectiveness. He wears military fatigues with military dog tags and uniform serving as his main distinctive features, rendered in military green and tan colors. His abilities center on military training and sonic booms, typically fighting with bare hands enhanced by energy manipulation. His character design draws inspiration from American military and Top Gun aviation culture.</p><p>\u2022 <strong>Key Traits:</strong> Military combat training, sonic boom generation, patriotic service<br>\u2022 <strong>Signature Look:</strong> Athletic blonde soldier in military fatigues with dog tags<br>\u2022 <strong>Primary Role:</strong> Serving American military interests through combat expertise and sonic attacks</p>",
+          "image": "https://i.pinimg.com/736x/7d/d2/b6/7dd2b63d94b993f193e1e053a8f705b8.jpg"
+        },
+        "dhalsim": {
+          "title": "Dhalsim",
+          "description": "Male Capcom Fighter Yoga Master",
+          "metadata": "Yoga Master | Fire Breathing | Orange White | Stretching Limbs | Indian Mystic | Spiritual",
+          "content": "<h3>Dhalsim</h3><p><strong>The Indian yoga master who seeks spiritual enlightenment through disciplined practice and fire breathing</strong></p><p>Dhalsim is a thin stretchy build with bald Indian mystic appearance that demonstrates the spiritual and physical discipline of advanced yoga practice. His core motivation is achieving spiritual enlightenment, embodying the Indian yoga master archetype with transcendence of physical limitations through spiritual development. He wears minimal yoga clothing with skull necklace and stretched limbs serving as his main distinctive features, rendered in orange and white colors. His abilities include yoga powers and fire breathing, typically using stretching limbs and fire that represent spiritual energy. His character design draws inspiration from Indian mystics and yoga practitioners.</p><p>\u2022 <strong>Key Traits:</strong> Yoga body manipulation, fire breathing, spiritual discipline<br>\u2022 <strong>Signature Look:</strong> Thin bald mystic in minimal yoga clothing with skull necklace<br>\u2022 <strong>Primary Role:</strong> Pursuing spiritual enlightenment while using yoga powers for peaceful purposes</p>",
+          "image": "https://i.pinimg.com/736x/48/35/ab/4835abf6aa32a3b8ddd48156112d46fd.jpg"
+        },
+        "guile": {
+          "title": "Guile",
+          "description": "Male Capcom Fighter Air Force Major",
+          "metadata": "Air Force Major | Sonic Attacks | Military Green Tan | Flat-Top Hair | American Military | Honor",
+          "content": "<h3>Guile</h3><p><strong>The American Air Force Major who serves the military with honor and sonic attack capabilities</strong></p><p>Guile is a muscular military build with blonde flat-topped soldier appearance that epitomizes military professionalism and patriotic service. His primary motivation is serving military with honor, embodying the American Air Force officer archetype with unwavering dedication to duty and country. He wears military fatigues with distinctive flat-top haircut serving as his main recognizable feature, rendered in military green and tan colors. His abilities combine military training and sonic attacks, typically fighting with bare hands enhanced by sonic energy manipulation. His character design draws inspiration from American military and air force traditions.</p><p>\u2022 <strong>Key Traits:</strong> Military training, sonic attack generation, patriotic honor<br>\u2022 <strong>Signature Look:</strong> Muscular blonde soldier with distinctive flat-top haircut in military fatigues<br>\u2022 <strong>Primary Role:</strong> Serving American Air Force with honor while using sonic powers in combat</p>",
+          "image": "https://i.pinimg.com/736x/f7/95/4a/f7954a9079eb193a62a798f384f090aa.jpg"
+        },
+        "hayato": {
+          "title": "Hayato",
+          "description": "Male Capcom Fighter Plasma Sword Warrior",
+          "metadata": "Plasma Sword Warrior | Futuristic Armor | Blue Silver Tech | Energy Sword | Sci-Fi | Space Combat",
+          "content": "<h3>Hayato</h3><p><strong>The futuristic sword fighter who battles aliens using advanced plasma sword technology</strong></p><p>Hayato is an athletic swordsman build with armored space warrior appearance that combines traditional swordsmanship with cutting-edge plasma technology. His core motivation is fighting aliens with plasma technology, embodying the futuristic sword fighter archetype with respect for blade traditions and mastery of energy weapons. He wears futuristic armor with plasma sword and tech armor serving as his main distinctive features, rendered in blue and silver tech colors. His abilities focus on plasma sword combat, typically armed with plasma sword and energy weapons that represent the evolution of blade fighting. His character design draws inspiration from sci-fi warriors and energy swords.</p><p>\u2022 <strong>Key Traits:</strong> Plasma sword mastery, futuristic armor systems, alien combat expertise<br>\u2022 <strong>Signature Look:</strong> Athletic swordsman in futuristic armor with plasma sword and tech styling<br>\u2022 <strong>Primary Role:</strong> Fighting alien threats using advanced plasma sword technology and space combat skills</p>",
+          "image": "https://i.pinimg.com/736x/7a/1f/b3/7a1fb33c16673951a68bfffcb832cbb0.jpg"
+        },
+        "jin_saotome": {
+          "title": "Jin Saotome",
+          "description": "Male Capcom Fighter Mech Pilot",
+          "metadata": "Mech Pilot | Robot Summoning | Red White Pilot | Hot-Blooded | Japanese | Mecha Anime",
+          "content": "<h3>Jin Saotome</h3><p><strong>The hot-blooded mech pilot who protects Earth through giant robot summoning and piloting</strong></p><p>Jin Saotome is an athletic pilot build with Japanese mech pilot appearance that brings the passion and intensity of mecha anime to real combat situations. His primary motivation is piloting mechs to protect Earth, embodying the hot-blooded mech pilot archetype with courage and determination to defend his world. He wears pilot suit and gear with mech pilot styling serving as his main distinctive features, rendered in red and white pilot colors. His abilities center on mech summoning and piloting, typically using mech suits and pilot controls to call upon giant robots. His character design draws inspiration from mech anime pilots.</p><p>\u2022 <strong>Key Traits:</strong> Mech summoning abilities, robot piloting expertise, hot-blooded determination<br>\u2022 <strong>Signature Look:</strong> Athletic Japanese pilot in red and white suit with mech pilot styling<br>\u2022 <strong>Primary Role:</strong> Defending Earth by summoning and piloting giant mechanical warriors</p>",
+          "image": "https://i.pinimg.com/736x/d9/7e/ab/d97eab84fd5d3c1b29b75294a514f1b6.jpg"
+        },
+        "ken": {
+          "title": "Ken",
+          "description": "Male Capcom Fighter American Fighter",
+          "metadata": "American Fighter | Fire Attacks | Red White | Blonde Hair | Shoryuken | Friendship",
+          "content": "<h3>Ken</h3><p><strong>The American martial artist who perfects his fighting abilities through friendship and fiery attacks</strong></p><p>Ken is an athletic martial artist build with blonde American appearance in red gi that brings American enthusiasm and friendship to traditional martial arts training. His core motivation is perfecting fighting through friendship, embodying the American martial artist archetype with competitive spirit and genuine camaraderie. He wears red gi outfit with blonde hair and red clothing serving as his main distinctive features, rendered in red and white colors. His abilities focus on Shoryuken and fire attacks, typically fighting with bare hands enhanced by fire energy. His character design draws inspiration from American martial artists.</p><p>\u2022 <strong>Key Traits:</strong> Fire-enhanced attacks, Shoryuken mastery, friendship-driven training<br>\u2022 <strong>Signature Look:</strong> Athletic blonde American in red gi with fiery fighting style<br>\u2022 <strong>Primary Role:</strong> Perfecting martial arts through friendly competition and fire-powered techniques</p>",
+          "image": "https://i.pinimg.com/736x/2e/96/7e/2e967e4d3208494f76c8efbf1aa8a614.jpg"
+        },
+        "ryu": {
+          "title": "Ryu",
+          "description": "Male Capcom Fighter World Warrior",
+          "metadata": "World Warrior | Hadoken | White Brown | Traditional Gi | Martial Arts | Discipline",
+          "content": "<h3>Ryu</h3><p><strong>The disciplined martial artist who perfects his fighting through constant training and self-improvement</strong></p><p>Ryu is an athletic martial artist build with white gi-wearing wanderer appearance that represents the pure pursuit of martial arts mastery. His primary motivation is perfecting fighting through training, embodying the disciplined martial artist archetype with dedication to constant self-improvement and spiritual development. He wears traditional white gi with headband and simple gi serving as his main distinctive features, rendered in white and brown colors. His abilities center on Hadoken and martial arts, typically fighting with bare hands enhanced by focused energy. His character design draws inspiration from traditional martial artists.</p><p>\u2022 <strong>Key Traits:</strong> Hadoken energy projection, martial arts mastery, disciplined training<br>\u2022 <strong>Signature Look:</strong> Athletic wanderer in traditional white gi with headband<br>\u2022 <strong>Primary Role:</strong> Pursuing martial arts perfection through disciplined training and spiritual development</p>",
+          "image": "https://i.pinimg.com/736x/37/d7/84/37d78445625a6c74b37ff9df36144ce0.jpg"
+        },
+        "strider_hiryu": {
+          "title": "Strider Hiryu",
+          "description": "Male Capcom Fighter Ninja Assassin",
+          "metadata": "Ninja Assassin | Plasma Sword | Blue Red | Red Scarf | Futuristic Ninja | High-Tech",
+          "content": "<h3>Strider Hiryu</h3><p><strong>The futuristic ninja assassin who completes missions using advanced plasma sword technology</strong></p><p>Strider Hiryu is an athletic ninja build with red-scarved ninja appearance that combines traditional stealth techniques with cutting-edge technological equipment. His core motivation is completing assassination missions, embodying the futuristic ninja archetype with ancient skills and modern technology. He wears high-tech ninja outfit with red scarf and futuristic gear serving as his main distinctive features, rendered in blue and red colors. His abilities focus on ninja skills and plasma sword, typically armed with cypher plasma sword that represents the fusion of blade combat and energy weapons. His character design draws inspiration from futuristic ninjas and assassins.</p><p>\u2022 <strong>Key Traits:</strong> Ninja stealth techniques, plasma sword mastery, assassination expertise<br>\u2022 <strong>Signature Look:</strong> Athletic ninja in high-tech outfit with distinctive red scarf<br>\u2022 <strong>Primary Role:</strong> Completing assassination missions using futuristic ninja techniques and plasma weaponry</p>",
+          "image": "https://i.pinimg.com/736x/ef/ea/7f/efea7fdc08dc0bba5424fbd6bf0d7262.jpg"
+        },
+        "zangief": {
+          "title": "Zangief",
+          "description": "Male Capcom Fighter Russian Wrestler",
+          "metadata": "Russian Wrestler | Wrestling Bear | Red Attire | Body Hair | Spinning Attacks | Patriotic",
+          "content": "<h3>Zangief</h3><p><strong>The Russian wrestling bear who represents his country through powerful wrestling techniques</strong></p><p>Zangief is a massive wrestler build with hairy Russian wrestler appearance that embodies the raw power and determination of Russian athletic tradition. His primary motivation is representing Russia through wrestling, embodying the Russian wrestling bear archetype with patriotic fervor and incredible physical strength. He wears wrestling briefs and boots with body hair and wrestling gear serving as his main distinctive features, rendered in red wrestling attire. His abilities include wrestling moves and spinning attacks, typically fighting with bare hands enhanced by wrestling techniques. His character design draws inspiration from Russian wrestlers and bears.</p><p>\u2022 <strong>Key Traits:</strong> Wrestling techniques, spinning attacks, patriotic determination<br>\u2022 <strong>Signature Look:</strong> Massive hairy wrestler in red briefs and boots with wrestling gear<br>\u2022 <strong>Primary Role:</strong> Representing Russian strength and pride through powerful wrestling combat</p>",
+          "image": "https://i.pinimg.com/736x/45/70/eb/4570eb0ddb5bc48ebb716118d16c9c78.jpg"
+        },
+        "cammy": {
+          "title": "Cammy",
+          "description": "Female Capcom Fighter British Agent",
+          "metadata": "British Agent | Special Forces | Green Red | Military Beret | Special Ops | Justice",
+          "content": "<h3>Cammy</h3><p><strong>The British special forces agent who serves justice through elite military operations</strong></p><p>Cammy is an athletic military build with blonde British soldier appearance that brings the precision and professionalism of elite British military units to international combat. Her core motivation is serving justice through special ops, embodying the British special forces archetype with unwavering dedication to justice and military excellence. She wears green military leotard with military beret and leg warmers serving as her main distinctive features, rendered in green and red colors. Her abilities focus on special forces training, typically fighting with bare hands enhanced by military combat techniques. Her character design draws inspiration from British special forces.</p><p>\u2022 <strong>Key Traits:</strong> Special forces training, military precision, justice-oriented service<br>\u2022 <strong>Signature Look:</strong> Athletic blonde soldier in green military leotard with beret<br>\u2022 <strong>Primary Role:</strong> Serving justice through elite British special forces operations and combat</p>",
+          "image": "https://i.pinimg.com/736x/27/ea/66/27ea6646b10a089f2014dffde114b502.jpg"
+        },
+        "chun_li": {
+          "title": "Chun-Li",
+          "description": "Female Capcom Fighter ICPO Officer",
+          "metadata": "ICPO Officer | Lightning Kicks | Blue White | Chinese Police | Qipao | Martial Arts",
+          "content": "<h3>Chun-Li</h3><p><strong>The Chinese police officer who fights crime through martial arts mastery and lightning-fast kicks</strong></p><p>Chun-Li is an athletic martial artist build with Chinese woman in qipao appearance that combines law enforcement dedication with traditional Chinese martial arts mastery. Her primary motivation is fighting crime through martial arts, embodying the Chinese police officer archetype with unwavering commitment to justice and cultural heritage. She wears blue qipao dress with traditional Chinese styling and buns serving as her main distinctive features, rendered in blue and white colors. Her abilities center on lightning-fast kicks, typically fighting with bare hands and feet that move with incredible speed and precision. Her character design draws inspiration from Chinese martial artists and police.</p><p>\u2022 <strong>Key Traits:</strong> Lightning-fast kicks, martial arts mastery, police dedication<br>\u2022 <strong>Signature Look:</strong> Athletic Chinese woman in blue qipao with traditional styling<br>\u2022 <strong>Primary Role:</strong> Fighting international crime through martial arts expertise and police authority</p>",
+          "image": "https://i.pinimg.com/736x/b7/48/94/b748946e4f29030ae82a577b1d872f91.jpg"
+        },
+        "jill_valentine": {
+          "title": "Jill Valentine",
+          "description": "Female Capcom Fighter STARS Officer",
+          "metadata": "STARS Officer | Survival Skills | Blue Police Tactical | Zombie Fighter | Weapons Training | Cop",
+          "content": "<h3>Jill Valentine</h3><p><strong>The zombie-fighting cop who survives undead outbreaks through tactical expertise and weapons training</strong></p><p>Jill Valentine is an athletic police build with brown-haired police officer appearance that marks her as a law enforcement specialist trained for extreme survival situations. Her core motivation is surviving zombie outbreaks, embodying the zombie-fighting cop archetype with courage and resourcefulness against impossible odds. She wears STARS uniform and gear with police tactical equipment serving as her main distinctive features, rendered in blue police and tactical colors. Her abilities include survival skills and weapons training, typically armed with firearms and survival gear designed for extreme situations. Her character design draws inspiration from police officers and survival heroes.</p><p>\u2022 <strong>Key Traits:</strong> Survival expertise, weapons training, tactical police skills<br>\u2022 <strong>Signature Look:</strong> Athletic police officer in STARS uniform with tactical equipment<br>\u2022 <strong>Primary Role:</strong> Surviving zombie outbreaks while maintaining law enforcement duties</p>",
+          "image": "https://i.pinimg.com/736x/e1/bb/31/e1bb31a25b571024113badc5eb481d2c.jpg"
+        },
+        "ruby_heart": {
+          "title": "Ruby Heart",
+          "description": "Female Capcom Fighter Pirate Captain",
+          "metadata": "Pirate Captain | Ship Summoning | Red Blue Pirate | Nautical | Swashbuckling | Adventure",
+          "content": "<h3>Ruby Heart</h3><p><strong>The swashbuckling pirate captain who adventures on the high seas with ship summoning abilities</strong></p><p>Ruby Heart is an athletic pirate build with red-haired pirate captain appearance that brings the romance and adventure of the golden age of piracy to modern combat. Her primary motivation is adventuring on high seas, embodying the swashbuckling pirate archetype with freedom and independence that defines pirate tradition. She wears pirate captain outfit with pirate hat and nautical gear serving as her main distinctive features, rendered in red and blue pirate colors. Her abilities include pirate combat and ship summoning, typically armed with cutlass and pirate weapons. Her character design draws inspiration from pirate captains and swashbucklers.</p><p>\u2022 <strong>Key Traits:</strong> Ship summoning abilities, pirate combat skills, swashbuckling adventure<br>\u2022 <strong>Signature Look:</strong> Athletic red-haired pirate in captain outfit with nautical gear<br>\u2022 <strong>Primary Role:</strong> Leading pirate adventures on the high seas with supernatural ship summoning</p>",
+          "image": "https://i.pinimg.com/736x/c8/c8/e0/c8c8e007a2d8738969c87ac48daa598e.jpg"
+        },
+        "sakura": {
+          "title": "Sakura",
+          "description": "Female Capcom Fighter Student Fighter",
+          "metadata": "Student Fighter | Ryu Mimicry | Blue White School | Japanese Schoolgirl | Street Fighting | Eager",
+          "content": "<h3>Sakura</h3><p><strong>The eager student who learns fighting techniques from Ryu through dedicated observation and practice</strong></p><p>Sakura is an athletic schoolgirl build with Japanese schoolgirl fighter appearance that demonstrates how dedication and enthusiasm can overcome formal training limitations. Her core motivation is learning fighting from Ryu, embodying the eager student archetype with boundless energy and determination to improve. She wears school uniform modified with sailor suit and gloves serving as her main distinctive features, rendered in blue and white school colors. Her abilities focus on street fighting and Ryu mimicry, typically fighting with bare hands enhanced by copied moves learned through observation. Her character design draws inspiration from Japanese schoolgirls and students.</p><p>\u2022 <strong>Key Traits:</strong> Street fighting techniques, Ryu technique mimicry, eager learning attitude<br>\u2022 <strong>Signature Look:</strong> Athletic Japanese schoolgirl in modified school uniform with sailor suit<br>\u2022 <strong>Primary Role:</strong> Learning martial arts through dedicated study of Ryu's fighting techniques</p>",
+          "image": "https://i.pinimg.com/736x/33/7e/83/337e83226174c6b6dada717bf9bf76c2.jpg"
+        },
+        "sonson": {
+          "title": "SonSon",
+          "description": "Female Capcom Fighter Monkey Warrior",
+          "metadata": "Monkey Warrior | Staff Combat | Orange Traditional | Monkey King | Journey West | Agility",
+          "content": "<h3>SonSon</h3><p><strong>The Monkey King descendant who adventures and fights for justice using traditional staff combat</strong></p><p>SonSon is an athletic monkey build with monkey girl appearance featuring a staff that connects her to the legendary traditions of Journey to the West. Her primary motivation is adventuring and fighting for justice, embodying the Monkey King descendant archetype with playful wisdom and incredible agility. She wears traditional Chinese elements with monkey features and staff serving as her main distinctive features, rendered in orange and traditional colors. Her abilities include monkey agility and staff combat, typically armed with extending staff weapon that can grow and shrink at will. Her character design draws inspiration from Journey to the West and Monkey King legends.</p><p>\u2022 <strong>Key Traits:</strong> Monkey agility, extending staff combat, legendary heritage<br>\u2022 <strong>Signature Look:</strong> Athletic monkey girl with traditional Chinese elements and extending staff<br>\u2022 <strong>Primary Role:</strong> Fighting for justice while carrying on the legacy of the legendary Monkey King</p>",
+          "image": "https://i.pinimg.com/736x/f3/ef/cb/f3efcbde0f8da33c370b9dcadbb8d111.jpg"
+        },
+        "tron_bonne": {
+          "title": "Tron Bonne",
+          "description": "Female Capcom Fighter Pirate Engineer",
+          "metadata": "Pirate Engineer | Mech Control | Blue Yellow | Engineering Goggles | Robot Building | Genius",
+          "content": "<h3>Tron Bonne</h3><p><strong>The genius pirate girl who builds robots and causes mischief through mechanical engineering</strong></p><p>Tron Bonne is an average engineer build with blonde engineer in overalls appearance that combines technical brilliance with the adventurous spirit of piracy. Her core motivation is building robots and causing mischief, embodying the genius pirate girl archetype with mechanical innovation and rebellious independence. She wears blue overalls and goggles with engineering goggles and tools serving as her main distinctive features, rendered in blue and yellow colors. Her abilities focus on mech engineering and robot control, typically using mech suits and robots of her own design. Her character design draws inspiration from engineers and pirates.</p><p>\u2022 <strong>Key Traits:</strong> Mechanical engineering, robot control, inventive mischief<br>\u2022 <strong>Signature Look:</strong> Blonde engineer in blue overalls with engineering goggles and tools<br>\u2022 <strong>Primary Role:</strong> Creating mechanical marvels while leading pirate adventures with robotic assistance</p>",
+          "image": "https://i.pinimg.com/736x/09/45/ae/0945aeafb7d92b74793a0b7bf542e948.jpg"
+        }
+      }
+    },
+    "capcom_villains": {
+      "title": "Capcom Villains",
+      "description": "Dangerous antagonists and dark warriors from Capcom fighting games",
+      "items": {
+        "akuma": {
+          "title": "Akuma",
+          "description": "Male Capcom Fighter Dark Warrior",
+          "metadata": "Dark Warrior | Satsui no Hado | Dark Blue Black | Demon Fighter | Dark Power | Martial Arts",
+          "content": "<h3>Akuma</h3><p><strong>The demon fighter who masters ultimate fighting power through dark energy and demonic transformation</strong></p><p>Akuma is a muscular martial artist build with dark gi-wearing fighter appearance that embodies the dangerous path of pursuing power without moral restraints. His core motivation is mastering ultimate fighting power, embodying the demon fighter archetype with willingness to embrace darkness for strength. He wears traditional dark gi with demonic symbols and prayer beads serving as his main distinctive features, rendered in dark blue and black colors. His abilities center on Satsui no Hado dark power, typically fighting with bare hands enhanced by dark energy that corrupts traditional martial arts. His character design draws inspiration from Japanese demons and martial artists.</p><p>\u2022 <strong>Key Traits:</strong> Dark power mastery, demonic transformation, ultimate fighting pursuit<br>\u2022 <strong>Signature Look:</strong> Muscular martial artist in dark gi with demonic symbols and prayer beads<br>\u2022 <strong>Primary Role:</strong> Pursuing ultimate fighting power through embrace of dark demonic energy</p>",
+          "image": "https://i.pinimg.com/736x/1b/8f/08/1b8f0876ffda7808cdc0a6a2e0d08665.jpg"
+        },
+        "anakaris": {
+          "title": "Anakaris",
+          "description": "Male Capcom Fighter Mummy Pharaoh",
+          "metadata": "Mummy Pharaoh | Egyptian Magic | Gold White Bandages | Ancient Power | Undead | Royal",
+          "content": "<h3>Anakaris</h3><p><strong>The undead pharaoh who rules through ancient Egyptian power and mummy resurrection abilities</strong></p><p>Anakaris is a tall mummified build with bandaged Egyptian mummy appearance that represents the fusion of ancient royal authority with supernatural resurrection power. His primary motivation is ruling through ancient Egyptian power, embodying the undead pharaoh archetype with divine authority that transcends death itself. He wears Egyptian royal wrappings with pharaoh headdress and bandages serving as his main distinctive features, rendered in gold and white bandages colors. His abilities include Egyptian magic and mummy powers, typically using ancient Egyptian artifacts that channel the power of a civilization that mastered both life and death. His character design draws inspiration from Egyptian pharaohs and mummies.</p><p>\u2022 <strong>Key Traits:</strong> Egyptian magic mastery, mummy resurrection powers, ancient royal authority<br>\u2022 <strong>Signature Look:</strong> Tall mummified figure in Egyptian royal wrappings with pharaoh headdress<br>\u2022 <strong>Primary Role:</strong> Ruling from beyond the grave using ancient Egyptian magical powers</p>",
+          "image": "https://i.pinimg.com/736x/00/04/3a/00043ae35c6c934ca33f735f2616a0cf.jpg"
+        },
+        "m_bison": {
+          "title": "M. Bison",
+          "description": "Male Capcom Fighter Dictator",
+          "metadata": "Dictator | Psycho Power | Red Black Military | Cape Uniform | Military Leadership | Authoritarian",
+          "content": "<h3>M. Bison</h3><p><strong>The military dictator who rules the world through Psycho Power and authoritarian control</strong></p><p>M. Bison is a tall military build with cape-wearing dictator appearance that combines the worst aspects of authoritarian leadership with supernatural power. His core motivation is ruling world through Psycho Power, embodying the military dictator archetype with absolute authority and dark energy manipulation. He wears military uniform with cape and peaked cap and red uniform serving as his main distinctive features, rendered in red and black military colors. His abilities combine Psycho Power and military leadership, typically using Psycho Power energy that bends reality to his will. His character design draws inspiration from military dictators and nazi imagery.</p><p>\u2022 <strong>Key Traits:</strong> Psycho Power manipulation, military leadership, authoritarian control<br>\u2022 <strong>Signature Look:</strong> Tall military dictator in red uniform with cape and peaked cap<br>\u2022 <strong>Primary Role:</strong> Conquering the world through combination of military force and supernatural Psycho Power</p>",
+          "image": "https://i.pinimg.com/736x/07/25/ad/0725adb7321c34171980c42838f62524.jpg"
+        },
+        "b_b_hood": {
+          "title": "B.B. Hood",
+          "description": "Female Capcom Fighter Psycho Hunter",
+          "metadata": "Psycho Hunter | Hidden Weapons | Red White | Little Red Riding Hood | Firearms | Explosives",
+          "content": "<h3>B.B. Hood</h3><p><strong>The psychotic Little Red Riding Hood who hunts supernatural beings for profit using hidden weapons</strong></p><p>B.B. Hood is a small girl build with innocent girl appearance hiding hidden weapons that create a disturbing contrast between fairy tale innocence and predatory violence. Her core motivation is hunting supernatural beings for profit, embodying the psychotic Little Red Riding Hood archetype with corrupted childhood innocence turned deadly. She wears red hooded outfit with red riding hood and arsenal serving as her main deceptive features, rendered in red and white colors. Her abilities include hidden weapons and psychotic behavior, typically using concealed firearms and explosives hidden beneath her innocent exterior. Her character design draws inspiration from Little Red Riding Hood and hunters.</p><p>\u2022 <strong>Key Traits:</strong> Hidden weapon mastery, psychotic behavior, supernatural hunting<br>\u2022 <strong>Signature Look:</strong> Small innocent girl in red hooded outfit concealing deadly arsenal<br>\u2022 <strong>Primary Role:</strong> Hunting supernatural creatures for profit while maintaining deceptive innocent appearance</p>",
+          "image": "https://i.pinimg.com/736x/0b/4e/1d/0b4e1d7e4c56a31842957f9cbd837249.jpg"
+        },
+        "morrigan": {
+          "title": "Morrigan",
+          "description": "Female Capcom Fighter Succubus",
+          "metadata": "Succubus | Dark Magic | Green Purple | Bat Wings | Seduction | Flight",
+          "content": "<h3>Morrigan</h3><p><strong>The seductive succubus who battles for amusement using dark magic and supernatural charm</strong></p><p>Morrigan is a curvaceous demon build with green-haired succubus appearance that combines supernatural beauty with predatory instincts of a creature that feeds on mortal desires. Her core motivation is seducing and battling for amusement, embodying the seductive succubus archetype with dangerous intersection of attraction and destruction. She wears revealing demon outfit with bat wings and revealing costume serving as her main alluring features, rendered in green and purple colors. Her abilities include dark magic and flight, typically using wing attacks and dark magic that reflect her supernatural heritage. Her character design draws inspiration from succubi and gothic demons.</p><p>\u2022 <strong>Key Traits:</strong> Dark magic mastery, seductive charm, supernatural flight<br>\u2022 <strong>Signature Look:</strong> Curvaceous succubus in revealing demon outfit with bat wings<br>\u2022 <strong>Primary Role:</strong> Seducing mortals and engaging in combat for dark supernatural amusement</p>",
+          "image": "https://i.pinimg.com/736x/2a/20/e3/2a20e343c6a6a4d59670f36d6359936d.jpg"
+        }
+      }
+    },
+    "robots_creatures": {
+      "title": "Robots & Creatures",
+      "description": "Mechanical beings and unique creatures with specialized functions",
+      "items": {
+        "mega_man": {
+          "title": "Mega Man",
+          "description": "Male Capcom Fighter Robot Hero",
+          "metadata": "Robot Hero | Copying Abilities | Blue Light Blue | Arm Cannon | Classic Robot | Heroic",
+          "content": "<h3>Mega Man</h3><p><strong>The blue robot hero who protects the world from Robot Masters using adaptive copying abilities</strong></p><p>Mega Man is a small robot build with blue robot appearance featuring an arm cannon that represents the ideal fusion of artificial intelligence with heroic purpose. His core motivation is protecting world from Robot Masters, embodying the blue robot hero archetype with moral programming and adaptive capabilities. He wears blue robot armor with arm cannon and helmet serving as his main distinctive features, rendered in blue and light blue colors. His abilities center on robot copying abilities, typically armed with arm cannon and copied weapons that represent his unique ability to adapt enemy abilities for heroic purposes. His character design draws inspiration from classic robots and heroes.</p><p>\u2022 <strong>Key Traits:</strong> Robot copying abilities, adaptive weaponry, heroic programming<br>\u2022 <strong>Signature Look:</strong> Small blue robot with arm cannon and distinctive helmet<br>\u2022 <strong>Primary Role:</strong> Protecting world from robotic threats while adapting enemy abilities for good</p>",
+          "image": "https://i.pinimg.com/736x/b3/f3/83/b3f383c955ff25e9c3f45ff1d72329b4.jpg"
+        },
+        "amingo": {
+          "title": "Amingo",
+          "description": "Male Capcom Fighter Plant Warrior",
+          "metadata": "Plant Warrior | Boxing | Green Cactus | Spines Gloves | Nature Protection | Living Plant",
+          "content": "<h3>Amingo</h3><p><strong>The living cactus fighter who protects nature through boxing combat and plant-based powers</strong></p><p>Amingo is a large cactus humanoid build with green cactus appearance wearing boxing gloves that combines plant-based abilities with professional boxing skills. His core motivation is protecting nature through combat, embodying the living cactus fighter archetype with determination to defend the natural world through physical force. He features boxing gear on cactus body with cactus spines and boxing gloves serving as his main distinctive characteristics, rendered in green cactus colors. His abilities include plant powers and boxing, typically using boxing gloves and cactus spines that represent the fusion of natural defenses with learned combat techniques. His character design draws inspiration from cartoon cacti and boxers.</p><p>\u2022 <strong>Key Traits:</strong> Plant-based powers, boxing combat skills, nature protection instincts<br>\u2022 <strong>Signature Look:</strong> Large green cactus humanoid wearing boxing gloves with natural spines<br>\u2022 <strong>Primary Role:</strong> Defending the natural world through combination of plant abilities and boxing techniques</p>",
+          "image": "https://i.pinimg.com/736x/f8/ea/42/f8ea42c50b7d3887e35a3d8985730697.jpg"
+        },
+        "roll": {
+          "title": "Roll",
+          "description": "Female Capcom Fighter Helper Robot",
+          "metadata": "Helper Robot | Cleaning Assistance | Yellow Red | Household Robot | Domestic | Supportive",
+          "content": "<h3>Roll</h3><p><strong>The helpful robot girl who assists and cleans up using domestic programming and household tools</strong></p><p>Roll is a small robot girl build with blonde robot in dress appearance that represents the domestic application of robotics technology for helpful rather than combative purposes. Her core motivation is assisting and cleaning up, embodying the helpful robot girl archetype with cheerful dedication to maintaining order and cleanliness. She wears yellow dress and apron with household robot styling serving as her main distinctive features, rendered in yellow and red colors. Her abilities focus on cleaning and assistance, typically using household cleaning tools that can be surprisingly effective when needed. Her character design draws inspiration from household robots and maids.</p><p>\u2022 <strong>Key Traits:</strong> Cleaning expertise, domestic assistance, cheerful helpfulness<br>\u2022 <strong>Signature Look:</strong> Small blonde robot girl in yellow dress and apron with household styling<br>\u2022 <strong>Primary Role:</strong> Providing domestic support and assistance while maintaining cheerful helpful attitude</p>",
+          "image": "https://i.pinimg.com/736x/42/c1/0d/42c10d7a99437157f57032b71b0871dc.jpg"
+        },
+        "servbot": {
+          "title": "Servbot",
+          "description": "Capcom Fighter Robot Servant",
+          "metadata": "Robot Servant | Basic Functions | Yellow Basic Colors | Simple Design | Cute Robot | Loyal",
+          "content": "<h3>Servbot</h3><p><strong>The cute robot minion who serves Tron Bonne loyally with simple programming and basic functions</strong></p><p>Servbot is a small robot build with yellow robot appearance featuring simple design that embodies the utilitarian approach to robotics that prioritizes function and loyalty over sophisticated design. Its core motivation is serving Tron Bonne loyally, embodying the cute robot minion archetype with unwavering dedication despite simple capabilities. It features basic robot construction with simple geometric robot design serving as its main characteristic features, rendered in yellow and basic colors. Its abilities center on basic robot functions, typically using simple robot tools designed for basic tasks. Its character design draws inspiration from cute robots and toy robots.</p><p>\u2022 <strong>Key Traits:</strong> Basic robot functions, loyal service, simple programming<br>\u2022 <strong>Signature Look:</strong> Small yellow robot with simple geometric design and basic construction<br>\u2022 <strong>Primary Role:</strong> Serving Tron Bonne faithfully while performing basic robotic assistance tasks</p>",
+          "image": "https://i.pinimg.com/736x/b0/09/48/b009487f6a46e2160991784549eced59.jpg"
+        },
+        "felicia": {
+          "title": "Felicia",
+          "description": "Female Capcom Fighter Catwoman Performer",
+          "metadata": "Catwoman Performer | Cat Agility | Blue White Fur | Entertainment | Cheerful | Acrobatic",
+          "content": "<h3>Felicia</h3><p><strong>The cheerful catwoman who entertains and brings joy through feline agility and performance</strong></p><p>Felicia is an athletic catwoman build with blue-haired cat-human hybrid appearance that combines feline grace with entertainment performer enthusiasm. Her core motivation is entertaining and bringing joy, embodying the cheerful catwoman archetype with natural showmanship and acrobatic abilities. She wears minimal fur covering with cat ears, tail, and minimal clothing serving as her main distinctive features, rendered in blue and white fur colors. Her abilities include cat agility and performance, typically using claws and acrobatic moves that showcase her natural feline abilities. Her character design draws inspiration from cats and performers.</p><p>\u2022 <strong>Key Traits:</strong> Cat agility, performance skills, cheerful entertainment<br>\u2022 <strong>Signature Look:</strong> Athletic blue-haired catwoman with minimal fur covering and cat features<br>\u2022 <strong>Primary Role:</strong> Entertaining audiences while using natural feline abilities in performance and combat</p>",
+          "image": "https://i.pinimg.com/736x/c7/cf/67/c7cf672027a67c154b9596309d0d3549.jpg"
+        },
+        "dan_hibiki": {
+          "title": "Dan Hibiki",
+          "description": "Male Capcom Fighter Wannabe Master",
+          "metadata": "Wannabe Master | Weak Fighting | Pink White | Overconfident | Comic Relief | Ineffective",
+          "content": "<h3>Dan Hibiki</h3><p><strong>The overconfident joke fighter who tries to prove fighting superiority despite weak abilities</strong></p><p>Dan Hibiki is an average fighter build with pink gi-wearing wannabe appearance that creates a humorous contrast between confidence and actual ability. His core motivation is proving fighting superiority, embodying the overconfident joke fighter archetype with misplaced confidence in his limited skills. He wears pink gi outfit with confident pose despite weakness serving as his main ironic features, rendered in pink and white colors. His abilities focus on weak fighting style parody, typically using bare hands that are notably ineffective compared to other fighters. His character design draws inspiration from martial arts wannabes and comic relief characters.</p><p>\u2022 <strong>Key Traits:</strong> Overconfident attitude, weak fighting abilities, comic relief nature<br>\u2022 <strong>Signature Look:</strong> Average fighter in pink gi with confident pose despite limited skills<br>\u2022 <strong>Primary Role:</strong> Providing comic relief while demonstrating the gap between confidence and competence</p>",
+          "image": "https://i.pinimg.com/736x/9a/af/29/9aaf297d6127a7a06f99c7aea3916703.jpg"
+        }
+      }
+    }
+  }
+}
