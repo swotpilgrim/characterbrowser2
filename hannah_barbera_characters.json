@@ -1,0 +1,242 @@
+{
+  "id": "hannah_barbera_characters",
+  "title": "Hanna-Barbera",
+  "description": "Classic Hanna-Barbera cartoon characters, grouped by show.",
+  "categories": {
+    "scooby_doo": {
+      "title": "Scooby-Doo",
+      "description": "Mystery Inc. and their ghost-hunting adventures.",
+      "items": {
+        "drac": {
+          "title": "Drac",
+          "description": "Male/Monster/Leader",
+          "metadata": "Sophisticated Showman | Tall, thin, elegant | Classic vampire features, cape | Traditional Dracula costume | Dramatic cape and formal wear | Organ playing, vampire powers | Pipe organ | Black, red, white | Classic Dracula/bandleader",
+          "content": "<h3>Drac</h3>\n<p><strong>Musical performance and leadership</strong></p>\n<ul>\n<li><b>Archetype:</b> Sophisticated Showman</li>\n<li><b>Build:</b> Tall, thin, elegant</li>\n<li><b>Appearance:</b> Classic vampire features, cape</li>\n<li><b>Costume:</b> Traditional Dracula costume, Dramatic cape and formal wear</li>\n<li><b>Main Ability:</b> Organ playing, vampire powers</li>\n<li><b>Weapon:</b> Pipe organ</li>\n<li><b>Colors:</b> Black, red, white</li>\n<li><b>Influence:</b> Classic Dracula/bandleader</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/88/0d/ef/880def0d00567e8c1c3853ae8629ff8c.jpg"
+        },
+        "frankie": {
+          "title": "Frankie",
+          "description": "Male/Monster/Athlete",
+          "metadata": "Gentle Giant | Massive, square-built, muscular | Green skin, flat-top head, bolts | Gym attire/casual wear | Athletic clothing on monster frame | Super strength, musical percussion | Bone instruments, gym equipment | Green, brown, casual colors | Frankenstein/fitness instructor",
+          "content": "<h3>Frankie</h3>\n<p><strong>Physical fitness and easy friendship</strong></p>\n<ul>\n<li><b>Archetype:</b> Gentle Giant</li>\n<li><b>Build:</b> Massive, square-built, muscular</li>\n<li><b>Appearance:</b> Green skin, flat-top head, bolts</li>\n<li><b>Costume:</b> Gym attire/casual wear, Athletic clothing on monster frame</li>\n<li><b>Main Ability:</b> Super strength, musical percussion</li>\n<li><b>Weapon:</b> Bone instruments, gym equipment</li>\n<li><b>Colors:</b> Green, brown, casual colors</li>\n<li><b>Influence:</b> Frankenstein/fitness instructor</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/eb/d4/a9/ebd4a9ccada76ec5b23e640a8ea5064a.jpg"
+        },
+        "wolfie": {
+          "title": "Wolfie",
+          "description": "Male/Monster/Free Spirit",
+          "metadata": "Hippie Musician | Lean, shaggy, wild | Wolf features, long hair | 1970s hippie attire | Peace symbols, casual wear | Howling, lyre playing | Musical lyre, Wolf Wagon | Earth tones, psychedelic | Werewolf/1960s counterculture",
+          "content": "<h3>Wolfie</h3>\n<p><strong>Musical expression and peace</strong></p>\n<ul>\n<li><b>Archetype:</b> Hippie Musician</li>\n<li><b>Build:</b> Lean, shaggy, wild</li>\n<li><b>Appearance:</b> Wolf features, long hair</li>\n<li><b>Costume:</b> 1970s hippie attire, Peace symbols, casual wear</li>\n<li><b>Main Ability:</b> Howling, lyre playing</li>\n<li><b>Weapon:</b> Musical lyre, Wolf Wagon</li>\n<li><b>Colors:</b> Earth tones, psychedelic</li>\n<li><b>Influence:</b> Werewolf/1960s counterculture</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/de/93/db/de93dbc31ea1263297bf709dd7735eb7.jpg"
+        },
+        "sabrina_spellman": {
+          "title": "Sabrina Spellman",
+          "description": "Female/Witch/Student",
+          "metadata": "Teenage Witch | Petite teenage proportions | Blonde hair, cute features | Mod 1970s fashion | Trendy teenage clothing | Spell casting, potion making | Magic wand, spell book | Pink, purple, pastels | 1970s teen fashion/classic witch",
+          "content": "<h3>Sabrina Spellman</h3>\n<p><strong>Magical learning and teen concerns</strong></p>\n<ul>\n<li><b>Archetype:</b> Teenage Witch</li>\n<li><b>Build:</b> Petite teenage proportions</li>\n<li><b>Appearance:</b> Blonde hair, cute features</li>\n<li><b>Costume:</b> Mod 1970s fashion, Trendy teenage clothing</li>\n<li><b>Main Ability:</b> Spell casting, potion making</li>\n<li><b>Weapon:</b> Magic wand, spell book</li>\n<li><b>Colors:</b> Pink, purple, pastels</li>\n<li><b>Influence:</b> 1970s teen fashion/classic witch</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/32/1a/09/321a09c65b434e17f05b566ebae2df49.jpg"
+        },
+        "bella_la_ghostly": {
+          "title": "Bella La Ghostly",
+          "description": "Female/Vampire/Operator",
+          "metadata": "Gothic Phone Girl | Tall, curvaceous, dramatic | Vampira-inspired appearance | 1950s horror hostess style | Form-fitting dark dress | Phone operation, vampire charm | Telephone equipment | Black, white, silver | Vampira/pin-up girl",
+          "content": "<h3>Bella La Ghostly</h3>\n<p><strong>Communication and gothic glamour</strong></p>\n<ul>\n<li><b>Archetype:</b> Gothic Phone Girl</li>\n<li><b>Build:</b> Tall, curvaceous, dramatic</li>\n<li><b>Appearance:</b> Vampira-inspired appearance</li>\n<li><b>Costume:</b> 1950s horror hostess style, Form-fitting dark dress</li>\n<li><b>Main Ability:</b> Phone operation, vampire charm</li>\n<li><b>Weapon:</b> Telephone equipment</li>\n<li><b>Colors:</b> Black, white, silver</li>\n<li><b>Influence:</b> Vampira/pin-up girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/69/03/9b/69039be2ae005da50653db89ebce4287.jpg"
+        },
+        "hagatha": {
+          "title": "Hagatha",
+          "description": "Female/Witch/Cook",
+          "metadata": "Kitchen Witch | Stocky, maternal, practical | Traditional witch features | Cooking apron over witch robes | Practical kitchen wear | Cooking spells, potion brewing | Cauldron, cooking utensils | Earth tones, kitchen colors | Traditional fairy tale witch",
+          "content": "<h3>Hagatha</h3>\n<p><strong>Culinary magic and domestic care</strong></p>\n<ul>\n<li><b>Archetype:</b> Kitchen Witch</li>\n<li><b>Build:</b> Stocky, maternal, practical</li>\n<li><b>Appearance:</b> Traditional witch features</li>\n<li><b>Costume:</b> Cooking apron over witch robes, Practical kitchen wear</li>\n<li><b>Main Ability:</b> Cooking spells, potion brewing</li>\n<li><b>Weapon:</b> Cauldron, cooking utensils</li>\n<li><b>Colors:</b> Earth tones, kitchen colors</li>\n<li><b>Influence:</b> Traditional fairy tale witch</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/2f/aa/d5/2faad55c4893e77ae6ca533e59d76f5f.jpg"
+        },
+        "boneapart": {
+          "title": "Boneapart",
+          "description": "Male/Skeleton/Comic Relief",
+          "metadata": "Pompous Buffoon | Skeletal frame, short stature | Napoleon-era military skeleton | Military uniform and hat | Napoleonic hat and jacket | Falling apart, reassembly | Military accessories | Blue, white, gold military | Napoleon Bonaparte/skeleton",
+          "content": "<h3>Boneapart</h3>\n<p><strong>Maintaining dignity despite falling apart</strong></p>\n<ul>\n<li><b>Archetype:</b> Pompous Buffoon</li>\n<li><b>Build:</b> Skeletal frame, short stature</li>\n<li><b>Appearance:</b> Napoleon-era military skeleton</li>\n<li><b>Costume:</b> Military uniform and hat, Napoleonic hat and jacket</li>\n<li><b>Main Ability:</b> Falling apart, reassembly</li>\n<li><b>Weapon:</b> Military accessories</li>\n<li><b>Colors:</b> Blue, white, gold military</li>\n<li><b>Influence:</b> Napoleon Bonaparte/skeleton</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/5d/fe/e1/5dfee14ec76f742ec799279993031499.jpg"
+        },
+        "dr_jekyllhyde": {
+          "title": "Dr. Jekyll/Hyde",
+          "description": "Male/Dual/Scientist",
+          "metadata": "Split Personality | One normal, one monstrous | Two heads on one body | Laboratory coat/formal wear | Dual-nature clothing | Transformation, dual personality | Laboratory equipment | White coat, contrasting colors | Classic Jekyll & Hyde",
+          "content": "<h3>Dr. Jekyll/Hyde</h3>\n<p><strong>Scientific pursuit with moral struggle</strong></p>\n<ul>\n<li><b>Archetype:</b> Split Personality</li>\n<li><b>Build:</b> One normal, one monstrous</li>\n<li><b>Appearance:</b> Two heads on one body</li>\n<li><b>Costume:</b> Laboratory coat/formal wear, Dual-nature clothing</li>\n<li><b>Main Ability:</b> Transformation, dual personality</li>\n<li><b>Weapon:</b> Laboratory equipment</li>\n<li><b>Colors:</b> White coat, contrasting colors</li>\n<li><b>Influence:</b> Classic Jekyll & Hyde</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/f6/f8/d7/f6f8d79763cd88ba517df39f9146b644.jpg"
+        },
+        "scooby_doo": {
+          "title": "Scooby-Doo",
+          "description": "Male/Dog/Coward Hero",
+          "metadata": "Loveable Coward | Large dog, anthropomorphic | Brown Great Dane features | Blue collar | Simple dog collar | Super appetite, occasional bravery | Scooby Snacks | Brown, blue collar | Cartoon dog/sidekick",
+          "content": "<h3>Scooby-Doo</h3>\n<p><strong>Food and friendship over fear</strong></p>\n<ul>\n<li><b>Archetype:</b> Loveable Coward</li>\n<li><b>Build:</b> Large dog, anthropomorphic</li>\n<li><b>Appearance:</b> Brown Great Dane features</li>\n<li><b>Costume:</b> Blue collar, Simple dog collar</li>\n<li><b>Main Ability:</b> Super appetite, occasional bravery</li>\n<li><b>Weapon:</b> Scooby Snacks</li>\n<li><b>Colors:</b> Brown, blue collar</li>\n<li><b>Influence:</b> Cartoon dog/sidekick</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/2e/02/ae/2e02aea94a9668a312e67741aa8fc6ee.jpg"
+        },
+        "shaggy_rogers": {
+          "title": "Shaggy Rogers",
+          "description": "Male/Human/Coward Hero",
+          "metadata": "Hippie Coward | Tall, extremely thin, gangly | Scruffy beard, messy hair | Green shirt, brown pants | Casual 1970s attire | Bottomless appetite, running | Sandwich, flashlight | Green, brown, earth tones | 1960s beatnik/hippie",
+          "content": "<h3>Shaggy Rogers</h3>\n<p><strong>Food and avoiding danger</strong></p>\n<ul>\n<li><b>Archetype:</b> Hippie Coward</li>\n<li><b>Build:</b> Tall, extremely thin, gangly</li>\n<li><b>Appearance:</b> Scruffy beard, messy hair</li>\n<li><b>Costume:</b> Green shirt, brown pants, Casual 1970s attire</li>\n<li><b>Main Ability:</b> Bottomless appetite, running</li>\n<li><b>Weapon:</b> Sandwich, flashlight</li>\n<li><b>Colors:</b> Green, brown, earth tones</li>\n<li><b>Influence:</b> 1960s beatnik/hippie</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/7b/26/33/7b2633808f61671b749229b19c1be957.jpg"
+        },
+        "scrappy_doo": {
+          "title": "Scrappy-Doo",
+          "description": "Male/Puppy/Brave Helper",
+          "metadata": "Feisty Sidekick | Small puppy proportions | Miniature Scooby features | Red collar | Tiny collar accent | Fearless attitude, puppy power | None specific | Brown, red collar | Scrappy underdog archetype",
+          "content": "<h3>Scrappy-Doo</h3>\n<p><strong>Proving himself through courage</strong></p>\n<ul>\n<li><b>Archetype:</b> Feisty Sidekick</li>\n<li><b>Build:</b> Small puppy proportions</li>\n<li><b>Appearance:</b> Miniature Scooby features</li>\n<li><b>Costume:</b> Red collar, Tiny collar accent</li>\n<li><b>Main Ability:</b> Fearless attitude, puppy power</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Brown, red collar</li>\n<li><b>Influence:</b> Scrappy underdog archetype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/10/57/20/10572000173e6c1d66da2cbde0ea0eb4.jpg"
+        },
+        "sibella": {
+          "title": "Sibella",
+          "description": "Female/Vampire/Student",
+          "metadata": "Sophisticated Student | Tall, elegant, teenage | Purple skin, bat-wing hair | Private school uniform | Gothic school attire | Flight, vampire powers | School books, cape | Purple, black, white | Dracula's daughter/prep school girl",
+          "content": "<h3>Sibella</h3>\n<p><strong>Academic excellence with vampire heritage</strong></p>\n<ul>\n<li><b>Archetype:</b> Sophisticated Student</li>\n<li><b>Build:</b> Tall, elegant, teenage</li>\n<li><b>Appearance:</b> Purple skin, bat-wing hair</li>\n<li><b>Costume:</b> Private school uniform, Gothic school attire</li>\n<li><b>Main Ability:</b> Flight, vampire powers</li>\n<li><b>Weapon:</b> School books, cape</li>\n<li><b>Colors:</b> Purple, black, white</li>\n<li><b>Influence:</b> Dracula's daughter/prep school girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/1c/12/4f/1c124fcf792952bf4f8136e267dfbe73.jpg"
+        },
+        "elsa_frankenteen": {
+          "title": "Elsa Frankenteen",
+          "description": "Female/Monster/Student",
+          "metadata": "Gentle Giant Girl | Large, sturdy, teenage proportions | Green skin, stitches, pigtails | Schoolgirl dress | Cute dress on monster frame | Super strength, electrical power | School supplies | Green, pink, girly colors | Frankenstein/sweet schoolgirl",
+          "content": "<h3>Elsa Frankenteen</h3>\n<p><strong>Fitting in despite unusual appearance</strong></p>\n<ul>\n<li><b>Archetype:</b> Gentle Giant Girl</li>\n<li><b>Build:</b> Large, sturdy, teenage proportions</li>\n<li><b>Appearance:</b> Green skin, stitches, pigtails</li>\n<li><b>Costume:</b> Schoolgirl dress, Cute dress on monster frame</li>\n<li><b>Main Ability:</b> Super strength, electrical power</li>\n<li><b>Weapon:</b> School supplies</li>\n<li><b>Colors:</b> Green, pink, girly colors</li>\n<li><b>Influence:</b> Frankenstein/sweet schoolgirl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/dd/90/01/dd90013d01be8926fab512c91f089f16.jpg"
+        },
+        "winnie": {
+          "title": "Winnie",
+          "description": "Female/Werewolf/Student",
+          "metadata": "Tomboy Athlete | Athletic teenage build | Wolf features, wild red hair | Sporty school attire | Athletic wear, casual style | Wolf transformation, athletics | Sports equipment | Red, brown, natural tones | Werewolf/tomboy athlete",
+          "content": "<h3>Winnie</h3>\n<p><strong>Balancing wild nature with education</strong></p>\n<ul>\n<li><b>Archetype:</b> Tomboy Athlete</li>\n<li><b>Build:</b> Athletic teenage build</li>\n<li><b>Appearance:</b> Wolf features, wild red hair</li>\n<li><b>Costume:</b> Sporty school attire, Athletic wear, casual style</li>\n<li><b>Main Ability:</b> Wolf transformation, athletics</li>\n<li><b>Weapon:</b> Sports equipment</li>\n<li><b>Colors:</b> Red, brown, natural tones</li>\n<li><b>Influence:</b> Werewolf/tomboy athlete</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/d6/21/cf/d621cf64a63da10e05efbb0a10f087b0.jpg"
+        },
+        "phantasma": {
+          "title": "Phantasma",
+          "description": "Female/Ghost/Student",
+          "metadata": "Ethereal Beauty | Translucent, floating, graceful | Ghostly pale, flowing form | Flowing ethereal gown | Translucent floating dress | Intangibility, floating | None specific | White, pale blue, translucent | Classic ghost/ethereal maiden",
+          "content": "<h3>Phantasma</h3>\n<p><strong>Ethereal beauty and spectral abilities</strong></p>\n<ul>\n<li><b>Archetype:</b> Ethereal Beauty</li>\n<li><b>Build:</b> Translucent, floating, graceful</li>\n<li><b>Appearance:</b> Ghostly pale, flowing form</li>\n<li><b>Costume:</b> Flowing ethereal gown, Translucent floating dress</li>\n<li><b>Main Ability:</b> Intangibility, floating</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> White, pale blue, translucent</li>\n<li><b>Influence:</b> Classic ghost/ethereal maiden</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/84/9d/39/849d3938c8989ef073e19e5ca70f1f76.jpg"
+        },
+        "tanis": {
+          "title": "Tanis",
+          "description": "Female/Mummy/Student",
+          "metadata": "Ancient Wise Girl | Wrapped teenage proportions | Bandage wrappings, Egyptian features | School uniform over wrappings | Bandages with school clothes | Ancient knowledge, unwrapping | Egyptian artifacts | Tan, gold, Egyptian colors | Egyptian mummy/schoolgirl",
+          "content": "<h3>Tanis</h3>\n<p><strong>Ancient wisdom in modern setting</strong></p>\n<ul>\n<li><b>Archetype:</b> Ancient Wise Girl</li>\n<li><b>Build:</b> Wrapped teenage proportions</li>\n<li><b>Appearance:</b> Bandage wrappings, Egyptian features</li>\n<li><b>Costume:</b> School uniform over wrappings, Bandages with school clothes</li>\n<li><b>Main Ability:</b> Ancient knowledge, unwrapping</li>\n<li><b>Weapon:</b> Egyptian artifacts</li>\n<li><b>Colors:</b> Tan, gold, Egyptian colors</li>\n<li><b>Influence:</b> Egyptian mummy/schoolgirl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ef/d5/be/efd5be485de64d105e8c69a7cb778db8.jpg"
+        },
+        "miss_grimwood": {
+          "title": "Miss Grimwood",
+          "description": "Female/Human/Authority",
+          "metadata": "Stern Educator | Tall, thin, authoritative | Severe features, formal attire | Headmistress uniform | Strict professional wear | Educational authority | Books, ruler | Black, white, professional | Strict headmistress/governess",
+          "content": "<h3>Miss Grimwood</h3>\n<p><strong>Educating monster children</strong></p>\n<ul>\n<li><b>Archetype:</b> Stern Educator</li>\n<li><b>Build:</b> Tall, thin, authoritative</li>\n<li><b>Appearance:</b> Severe features, formal attire</li>\n<li><b>Costume:</b> Headmistress uniform, Strict professional wear</li>\n<li><b>Main Ability:</b> Educational authority</li>\n<li><b>Weapon:</b> Books, ruler</li>\n<li><b>Colors:</b> Black, white, professional</li>\n<li><b>Influence:</b> Strict headmistress/governess</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/39/bd/03/39bd03b307491ff1a72e70664d805098.jpg"
+        },
+        "fred_jones": {
+          "title": "Fred Jones",
+          "description": "Male/Human/Leader",
+          "metadata": "All-American Leader | Athletic, clean-cut, confident | Blonde hair, handsome features | Ascot and casual wear | Signature ascot necktie | Trap building, leadership | Net, rope, traps | Orange, blue, clean colors | All-American hero/prep school",
+          "content": "<h3>Fred Jones</h3>\n<p><strong>Solving mysteries and leadership</strong></p>\n<ul>\n<li><b>Archetype:</b> All-American Leader</li>\n<li><b>Build:</b> Athletic, clean-cut, confident</li>\n<li><b>Appearance:</b> Blonde hair, handsome features</li>\n<li><b>Costume:</b> Ascot and casual wear, Signature ascot necktie</li>\n<li><b>Main Ability:</b> Trap building, leadership</li>\n<li><b>Weapon:</b> Net, rope, traps</li>\n<li><b>Colors:</b> Orange, blue, clean colors</li>\n<li><b>Influence:</b> All-American hero/prep school</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ce/85/b0/ce85b0b1b6b7bc5f70aadb59c67a45da.jpg"
+        },
+        "daphne_blake": {
+          "title": "Daphne Blake",
+          "description": "Female/Human/Fashion",
+          "metadata": "Fashion Heroine | Tall, fashionable, glamorous | Red hair, attractive features | Fashionable 1970s attire | Stylish purple outfits | Fashion sense, occasional bravery | Purse, makeup | Purple, pink, fashionable | Fashion model/society girl",
+          "content": "<h3>Daphne Blake</h3>\n<p><strong>Fashion and occasional heroics</strong></p>\n<ul>\n<li><b>Archetype:</b> Fashion Heroine</li>\n<li><b>Build:</b> Tall, fashionable, glamorous</li>\n<li><b>Appearance:</b> Red hair, attractive features</li>\n<li><b>Costume:</b> Fashionable 1970s attire, Stylish purple outfits</li>\n<li><b>Main Ability:</b> Fashion sense, occasional bravery</li>\n<li><b>Weapon:</b> Purse, makeup</li>\n<li><b>Colors:</b> Purple, pink, fashionable</li>\n<li><b>Influence:</b> Fashion model/society girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/12/1c/7c/121c7c43f97a41cd5340a5af0e762138.jpg"
+        },
+        "velma_dinkley": {
+          "title": "Velma Dinkley",
+          "description": "Female/Human/Brains",
+          "metadata": "Intellectual Detective | Short, stocky, practical | Orange hair, thick glasses | Practical sweater and skirt | Orange sweater, thick glasses | Deductive reasoning, research | Magnifying glass, books | Orange, red, practical | Librarian/scientist detective",
+          "content": "<h3>Velma Dinkley</h3>\n<p><strong>Solving puzzles through logic</strong></p>\n<ul>\n<li><b>Archetype:</b> Intellectual Detective</li>\n<li><b>Build:</b> Short, stocky, practical</li>\n<li><b>Appearance:</b> Orange hair, thick glasses</li>\n<li><b>Costume:</b> Practical sweater and skirt, Orange sweater, thick glasses</li>\n<li><b>Main Ability:</b> Deductive reasoning, research</li>\n<li><b>Weapon:</b> Magnifying glass, books</li>\n<li><b>Colors:</b> Orange, red, practical</li>\n<li><b>Influence:</b> Librarian/scientist detective</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/cb/65/fa/cb65fab26a6293b1fb9190f42edd5959.jpg"
+        }
+      }
+    },
+    "johnny_bravo": {
+      "title": "Johnny Bravo",
+      "description": "The Elvis-haired, muscle-bound ladies' man and his antics.",
+      "items": {
+        "johnny_bravo": {
+          "title": "Johnny Bravo",
+          "description": "Male/Cartoon/Narcissist",
+          "metadata": "Vain Muscle-Bound Fool | Extremely muscular, top-heavy | Blonde pompadour, sunglasses | Black t-shirt, tiny jeans | Muscles and hair combo | Flexing, failed pickup lines | Comb, mirror | Black shirt, blue jeans | Elvis meets bodybuilder parody",
+          "content": "<h3>Johnny Bravo</h3>\n<p><strong>Getting dates and admiring himself</strong></p>\n<ul>\n<li><b>Archetype:</b> Vain Muscle-Bound Fool</li>\n<li><b>Build:</b> Extremely muscular, top-heavy</li>\n<li><b>Appearance:</b> Blonde pompadour, sunglasses</li>\n<li><b>Costume:</b> Black t-shirt, tiny jeans, Muscles and hair combo</li>\n<li><b>Main Ability:</b> Flexing, failed pickup lines</li>\n<li><b>Weapon:</b> Comb, mirror</li>\n<li><b>Colors:</b> Black shirt, blue jeans</li>\n<li><b>Influence:</b> Elvis meets bodybuilder parody</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/97/1e/5f/971e5fae5f397c43baddb946521b362c.jpg"
+        },
+        "bunny_bravo": {
+          "title": "Bunny Bravo",
+          "description": "Female/Mother/Caregiver",
+          "metadata": "Long-Suffering Mother | Maternal, middle-aged | Red hair, patient expression | Conservative house attire | Motherly dresses, aprons | Patience, domestic skills | Household items, purse | Maternal earth tones | 1950s patient mother",
+          "content": "<h3>Bunny Bravo</h3>\n<p><strong>Caring for adult son despite his flaws</strong></p>\n<ul>\n<li><b>Archetype:</b> Long-Suffering Mother</li>\n<li><b>Build:</b> Maternal, middle-aged</li>\n<li><b>Appearance:</b> Red hair, patient expression</li>\n<li><b>Costume:</b> Conservative house attire, Motherly dresses, aprons</li>\n<li><b>Main Ability:</b> Patience, domestic skills</li>\n<li><b>Weapon:</b> Household items, purse</li>\n<li><b>Colors:</b> Maternal earth tones</li>\n<li><b>Influence:</b> 1950s patient mother</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/f5/71/5b/f5715b6c4491f7b712a6ad686b5aa25b.jpg"
+        },
+        "little_suzy": {
+          "title": "Little Suzy",
+          "description": "Female/Child/Precocious Kid",
+          "metadata": "Wise-Beyond-Years Child | Small child proportions | Pigtails, mischievous features | Child casual wear | Typical kid clothing | Intelligence, manipulation | Toys, school supplies | Bright kid colors | Precocious child archetype",
+          "content": "<h3>Little Suzy</h3>\n<p><strong>Outsmarting adults and having fun</strong></p>\n<ul>\n<li><b>Archetype:</b> Wise-Beyond-Years Child</li>\n<li><b>Build:</b> Small child proportions</li>\n<li><b>Appearance:</b> Pigtails, mischievous features</li>\n<li><b>Costume:</b> Child casual wear, Typical kid clothing</li>\n<li><b>Main Ability:</b> Intelligence, manipulation</li>\n<li><b>Weapon:</b> Toys, school supplies</li>\n<li><b>Colors:</b> Bright kid colors</li>\n<li><b>Influence:</b> Precocious child archetype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/19/8b/15/198b15c41aa95bd319dbf5ced18cbbaf.jpg"
+        },
+        "carl_chryniszzswics": {
+          "title": "Carl Chryniszzswics",
+          "description": "Male/Nerd/Unwanted Friend",
+          "metadata": "Annoying Nerd Friend | Scrawny, awkward build | Thick glasses, nerdy features | Nerd casual wear | Ill-fitting nerd clothes | Nerd knowledge, persistence | Books, nerd accessories | Nerdy earth tones | Classic nerd stereotype",
+          "content": "<h3>Carl Chryniszzswics</h3>\n<p><strong>Friendship with Johnny despite rejection</strong></p>\n<ul>\n<li><b>Archetype:</b> Annoying Nerd Friend</li>\n<li><b>Build:</b> Scrawny, awkward build</li>\n<li><b>Appearance:</b> Thick glasses, nerdy features</li>\n<li><b>Costume:</b> Nerd casual wear, Ill-fitting nerd clothes</li>\n<li><b>Main Ability:</b> Nerd knowledge, persistence</li>\n<li><b>Weapon:</b> Books, nerd accessories</li>\n<li><b>Colors:</b> Nerdy earth tones</li>\n<li><b>Influence:</b> Classic nerd stereotype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/24/6f/9d/246f9da0bcc8c72d97bad096903b272d.jpg"
+        },
+        "pops": {
+          "title": "Pops",
+          "description": "Male/Elder/Mentor",
+          "metadata": "Wise Diner Owner | Elderly, compact build | Bald, wise features | Diner uniform | White apron, work clothes | Cooking, life wisdom | Cooking utensils, diner supplies | Diner whites and browns | 1950s diner culture",
+          "content": "<h3>Pops</h3>\n<p><strong>Running diner and dispensing wisdom</strong></p>\n<ul>\n<li><b>Archetype:</b> Wise Diner Owner</li>\n<li><b>Build:</b> Elderly, compact build</li>\n<li><b>Appearance:</b> Bald, wise features</li>\n<li><b>Costume:</b> Diner uniform, White apron, work clothes</li>\n<li><b>Main Ability:</b> Cooking, life wisdom</li>\n<li><b>Weapon:</b> Cooking utensils, diner supplies</li>\n<li><b>Colors:</b> Diner whites and browns</li>\n<li><b>Influence:</b> 1950s diner culture</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/25/57/ea/2557ea34b248ef0510a64c1ea21f8d29.jpg"
+        }
+      }
+    },
+    "jetsons": {
+      "title": "Jetsons",
+      "description": "The futuristic family and their life in Orbit City.",
+      "items": {
+        "george_jetson": {
+          "title": "George Jetson",
+          "description": "Male/Human/Father",
+          "metadata": "Lazy Father | Average build, balding | Receding hairline, casual features | Futuristic casual wear | Simple space age outfit | Button pushing, complaining | Work gadgets | Blue, grey, casual | 1960s suburban dad",
+          "content": "<h3>George Jetson</h3>\n<p><strong>Work avoidance and family provision</strong></p>\n<ul>\n<li><b>Archetype:</b> Lazy Father</li>\n<li><b>Build:</b> Average build, balding</li>\n<li><b>Appearance:</b> Receding hairline, casual features</li>\n<li><b>Costume:</b> Futuristic casual wear, Simple space age outfit</li>\n<li><b>Main Ability:</b> Button pushing, complaining</li>\n<li><b>Weapon:</b> Work gadgets</li>\n<li><b>Colors:</b> Blue, grey, casual</li>\n<li><b>Influence:</b> 1960s suburban dad</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/12/ca/9e/12ca9e9bd5916d0ea9af42690e80e9a4.jpg"
+        },
+        "jane_jetson": {
+          "title": "Jane Jetson",
+          "description": "Female/Human/Mother",
+          "metadata": "Space Age Housewife | Petite, stylish, domestic | Red hair, fashionable | Futuristic housewife dress | Space age fashion | Domestic management, shopping | Household gadgets | Pink, domestic colors | 1960s housewife ideal",
+          "content": "<h3>Jane Jetson</h3>\n<p><strong>Household management and shopping</strong></p>\n<ul>\n<li><b>Archetype:</b> Space Age Housewife</li>\n<li><b>Build:</b> Petite, stylish, domestic</li>\n<li><b>Appearance:</b> Red hair, fashionable</li>\n<li><b>Costume:</b> Futuristic housewife dress, Space age fashion</li>\n<li><b>Main Ability:</b> Domestic management, shopping</li>\n<li><b>Weapon:</b> Household gadgets</li>\n<li><b>Colors:</b> Pink, domestic colors</li>\n<li><b>Influence:</b> 1960s housewife ideal</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/fb/65/92/fb65926720ca5394e8b1a0ff5aa36f72.jpg"
+        },
+        "judy_jetson": {
+          "title": "Judy Jetson",
+          "description": "Female/Human/Teenager",
+          "metadata": "Space Age Teen | Teenage proportions | Blonde, teenage features | Futuristic teen fashion | Space age teenage wear | Teen socializing, dating | Teen accessories | Teen fashion colors | 1960s teenager",
+          "content": "<h3>Judy Jetson</h3>\n<p><strong>Teen romance and popularity</strong></p>\n<ul>\n<li><b>Archetype:</b> Space Age Teen</li>\n<li><b>Build:</b> Teenage proportions</li>\n<li><b>Appearance:</b> Blonde, teenage features</li>\n<li><b>Costume:</b> Futuristic teen fashion, Space age teenage wear</li>\n<li><b>Main Ability:</b> Teen socializing, dating</li>\n<li><b>Weapon:</b> Teen accessories</li>\n<li><b>Colors:</b> Teen fashion colors</li>\n<li><b>Influence:</b> 1960s teenager</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/9f/06/92/9f0692d9401478f5dbcde944197fdb6c.jpg"
+        },
+        "elroy_jetson": {
+          "title": "Elroy Jetson",
+          "description": "Male/Human/Child",
+          "metadata": "Boy Genius | Small child proportions | Child features, curious | Space age school clothes | Futuristic kid outfit | Scientific knowledge, inventions | Science gadgets | Primary kid colors | 1960s smart kid",
+          "content": "<h3>Elroy Jetson</h3>\n<p><strong>Scientific curiosity and invention</strong></p>\n<ul>\n<li><b>Archetype:</b> Boy Genius</li>\n<li><b>Build:</b> Small child proportions</li>\n<li><b>Appearance:</b> Child features, curious</li>\n<li><b>Costume:</b> Space age school clothes, Futuristic kid outfit</li>\n<li><b>Main Ability:</b> Scientific knowledge, inventions</li>\n<li><b>Weapon:</b> Science gadgets</li>\n<li><b>Colors:</b> Primary kid colors</li>\n<li><b>Influence:</b> 1960s smart kid</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/bc/be/56/bcbe5696bbf889c51866209690ec077f.jpg"
+        },
+        "rosie": {
+          "title": "Rosie",
+          "description": "Female/Robot/Maid",
+          "metadata": "Robot Domestic | Boxy robot build | Classic robot appearance | Maid uniform features | Robotic maid design | Household tasks, wisdom | Cleaning equipment | Metallic, domestic colors | 1950s robot/maid",
+          "content": "<h3>Rosie</h3>\n<p><strong>Household service and family care</strong></p>\n<ul>\n<li><b>Archetype:</b> Robot Domestic</li>\n<li><b>Build:</b> Boxy robot build</li>\n<li><b>Appearance:</b> Classic robot appearance</li>\n<li><b>Costume:</b> Maid uniform features, Robotic maid design</li>\n<li><b>Main Ability:</b> Household tasks, wisdom</li>\n<li><b>Weapon:</b> Cleaning equipment</li>\n<li><b>Colors:</b> Metallic, domestic colors</li>\n<li><b>Influence:</b> 1950s robot/maid</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/4f/37/fa/4f37faca57bf23153347edd0258074d5.jpg"
+        },
+        "astro": {
+          "title": "Astro",
+          "description": "Male/Dog/Pet",
+          "metadata": "Space Age Pet | Dog proportions | Futuristic dog features | Dog collar | Space age pet collar | Dog loyalty, space tricks | Dog toys, collar | Dog colors, futuristic | 1960s family dog",
+          "content": "<h3>Astro</h3>\n<p><strong>Family loyalty and play</strong></p>\n<ul>\n<li><b>Archetype:</b> Space Age Pet</li>\n<li><b>Build:</b> Dog proportions</li>\n<li><b>Appearance:</b> Futuristic dog features</li>\n<li><b>Costume:</b> Dog collar, Space age pet collar</li>\n<li><b>Main Ability:</b> Dog loyalty, space tricks</li>\n<li><b>Weapon:</b> Dog toys, collar</li>\n<li><b>Colors:</b> Dog colors, futuristic</li>\n<li><b>Influence:</b> 1960s family dog</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c1/3e/a0/c13ea0117ac20e1afddf0e510e4328c6.jpg"
+        }
+      }
+    }
+  }
+}

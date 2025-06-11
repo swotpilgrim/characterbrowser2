@@ -1,0 +1,164 @@
+{
+  "id": "retro_scifi_characters",
+  "title": "Retro Sci-Fi",
+  "description": "Classic science fiction heroes and villains from retro cinema and comics.",
+  "categories": {
+    "barbarella": {
+      "title": "Barbarella",
+      "description": "Futuristic space heroine and her outlandish sci-fi universe.",
+      "items": {
+        "barbarella": {
+          "title": "Barbarella",
+          "description": "Female/Human/Agent",
+          "metadata": "Sexual Adventurer | Curvaceous, sensual | Blonde, beautiful, sensual | Minimal futuristic wear | Revealing space costumes | Sexual magnetism, combat | Ray gun, spacecraft | Flesh tones, metallic | 1960s sex symbol/space agent",
+          "content": "<h3>Barbarella</h3>\n<p><strong>Sexual liberation and peace missions</strong></p>\n<ul>\n<li><b>Archetype:</b> Sexual Adventurer</li>\n<li><b>Build:</b> Curvaceous, sensual</li>\n<li><b>Appearance:</b> Blonde, beautiful, sensual</li>\n<li><b>Costume:</b> Minimal futuristic wear, Revealing space costumes</li>\n<li><b>Main Ability:</b> Sexual magnetism, combat</li>\n<li><b>Weapon:</b> Ray gun, spacecraft</li>\n<li><b>Colors:</b> Flesh tones, metallic</li>\n<li><b>Influence:</b> 1960s sex symbol/space agent</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/59/82/aa/5982aa15b7f883c89c4424c5f383501f.jpg"
+        },
+        "durand_durand": {
+          "title": "Durand Durand",
+          "description": "Male/Human/Villain",
+          "metadata": "Decadent Villain | Tall, sophisticated, evil | Dark, handsome, sinister | Elaborate villain costume | Ornate evil attire | Torture devices, manipulation | Excessive Machine | Dark, rich colors | Decadent aristocrat villain",
+          "content": "<h3>Durand Durand</h3>\n<p><strong>Power through pleasure and chaos</strong></p>\n<ul>\n<li><b>Archetype:</b> Decadent Villain</li>\n<li><b>Build:</b> Tall, sophisticated, evil</li>\n<li><b>Appearance:</b> Dark, handsome, sinister</li>\n<li><b>Costume:</b> Elaborate villain costume, Ornate evil attire</li>\n<li><b>Main Ability:</b> Torture devices, manipulation</li>\n<li><b>Weapon:</b> Excessive Machine</li>\n<li><b>Colors:</b> Dark, rich colors</li>\n<li><b>Influence:</b> Decadent aristocrat villain</li>\n</ul>\n",
+          "image": "https://shapersofthe80s.com/wp-content/uploads/2013/04/barbarella68-miloasdurand.jpg"
+        },
+        "pygar": {
+          "title": "Pygar",
+          "description": "Male/Angel/Helper",
+          "metadata": "Fallen Angel | Tall, muscular, winged | Blonde, angelic, winged | Minimal angel attire | Large feathered wings | Flight, angelic powers | Wings, harp | White, angelic colors | Classical angel/Greek god",
+          "content": "<h3>Pygar</h3>\n<p><strong>Redemption and flight</strong></p>\n<ul>\n<li><b>Archetype:</b> Fallen Angel</li>\n<li><b>Build:</b> Tall, muscular, winged</li>\n<li><b>Appearance:</b> Blonde, angelic, winged</li>\n<li><b>Costume:</b> Minimal angel attire, Large feathered wings</li>\n<li><b>Main Ability:</b> Flight, angelic powers</li>\n<li><b>Weapon:</b> Wings, harp</li>\n<li><b>Colors:</b> White, angelic colors</li>\n<li><b>Influence:</b> Classical angel/Greek god</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/22/c4/a4/22c4a41f1306b7e63d3e910961774933.jpg"
+        }
+      }
+    },
+    "flash_gordon": {
+      "title": "Flash Gordon",
+      "description": "Adventurous hero and his battle to save the universe.",
+      "items": {
+        "flash_gordon": {
+          "title": "Flash Gordon",
+          "description": "Male/Human/Hero",
+          "metadata": "All-American Hero | Athletic, heroic build | Blonde, handsome, heroic | Football uniform/hero gear | Classic hero costume | Athletic prowess, leadership | Ray gun, sword | Red, gold, heroic colors | All-American athlete hero",
+          "content": "<h3>Flash Gordon</h3>\n<p><strong>Heroic adventure and Earth protection</strong></p>\n<ul>\n<li><b>Archetype:</b> All-American Hero</li>\n<li><b>Build:</b> Athletic, heroic build</li>\n<li><b>Appearance:</b> Blonde, handsome, heroic</li>\n<li><b>Costume:</b> Football uniform/hero gear, Classic hero costume</li>\n<li><b>Main Ability:</b> Athletic prowess, leadership</li>\n<li><b>Weapon:</b> Ray gun, sword</li>\n<li><b>Colors:</b> Red, gold, heroic colors</li>\n<li><b>Influence:</b> All-American athlete hero</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/74/5a/2d/745a2db005fcbc9e7c48fa398712f126.jpg"
+        },
+        "dale_arden": {
+          "title": "Dale Arden",
+          "description": "Female/Human/Love Interest",
+          "metadata": "Plucky Heroine | Petite, beautiful | Blonde, classic beauty | Adventure outfit | Practical adventure wear | Courage, loyalty | None specific | Feminine adventure colors | 1930s adventure heroine",
+          "content": "<h3>Dale Arden</h3>\n<p><strong>Supporting Flash and survival</strong></p>\n<ul>\n<li><b>Archetype:</b> Plucky Heroine</li>\n<li><b>Build:</b> Petite, beautiful</li>\n<li><b>Appearance:</b> Blonde, classic beauty</li>\n<li><b>Costume:</b> Adventure outfit, Practical adventure wear</li>\n<li><b>Main Ability:</b> Courage, loyalty</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Feminine adventure colors</li>\n<li><b>Influence:</b> 1930s adventure heroine</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/0f/55/8d/0f558df81f2e98e6184107230cfd56a4.jpg"
+        },
+        "ming_the_merciless": {
+          "title": "Ming the Merciless",
+          "description": "Male/Alien/Villain",
+          "metadata": "Oriental Despot | Tall, imposing, regal | Bald, goateed, imperial | Elaborate imperial robes | Ornate villain costume | Telepathy, advanced technology | Ray weapons, throne | Gold, black, imperial | Fu Manchu/oriental despot",
+          "content": "<h3>Ming the Merciless</h3>\n<p><strong>Universal domination and cruelty</strong></p>\n<ul>\n<li><b>Archetype:</b> Oriental Despot</li>\n<li><b>Build:</b> Tall, imposing, regal</li>\n<li><b>Appearance:</b> Bald, goateed, imperial</li>\n<li><b>Costume:</b> Elaborate imperial robes, Ornate villain costume</li>\n<li><b>Main Ability:</b> Telepathy, advanced technology</li>\n<li><b>Weapon:</b> Ray weapons, throne</li>\n<li><b>Colors:</b> Gold, black, imperial</li>\n<li><b>Influence:</b> Fu Manchu/oriental despot</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/37/42/2b/37422b52b24d9a252acc2df853259924.jpg"
+        },
+        "princess_aura": {
+          "title": "Princess Aura",
+          "description": "Female/Alien/Seductress",
+          "metadata": "Rebel Princess | Tall, seductive, regal | Dark, exotic beauty | Revealing princess attire | Ornate revealing costume | Seduction, palace intrigue | Ceremonial weapons | Rich exotic colors | Exotic princess/femme fatale",
+          "content": "<h3>Princess Aura</h3>\n<p><strong>Passion and rebellion against father</strong></p>\n<ul>\n<li><b>Archetype:</b> Rebel Princess</li>\n<li><b>Build:</b> Tall, seductive, regal</li>\n<li><b>Appearance:</b> Dark, exotic beauty</li>\n<li><b>Costume:</b> Revealing princess attire, Ornate revealing costume</li>\n<li><b>Main Ability:</b> Seduction, palace intrigue</li>\n<li><b>Weapon:</b> Ceremonial weapons</li>\n<li><b>Colors:</b> Rich exotic colors</li>\n<li><b>Influence:</b> Exotic princess/femme fatale</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/60/9f/8e/609f8e78b361c92f87c52b8eb89fd7fa.jpg"
+        },
+        "prince_vultan": {
+          "title": "Prince Vultan",
+          "description": "Male/Alien/Warrior",
+          "metadata": "Noble Savage | Massive, winged, muscular | Bearded, winged, imposing | Minimal warrior gear | Wings and warrior attire | Flight, combat leadership | War hammer, wings | Earth tones, warrior colors | Winged barbarian warrior",
+          "content": "<h3>Prince Vultan</h3>\n<p><strong>Honor and aerial combat</strong></p>\n<ul>\n<li><b>Archetype:</b> Noble Savage</li>\n<li><b>Build:</b> Massive, winged, muscular</li>\n<li><b>Appearance:</b> Bearded, winged, imposing</li>\n<li><b>Costume:</b> Minimal warrior gear, Wings and warrior attire</li>\n<li><b>Main Ability:</b> Flight, combat leadership</li>\n<li><b>Weapon:</b> War hammer, wings</li>\n<li><b>Colors:</b> Earth tones, warrior colors</li>\n<li><b>Influence:</b> Winged barbarian warrior</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/64/0b/b3/640bb33873752984e82ccc008defd292.jpg"
+        }
+      }
+    },
+    "forbidden_planet": {
+      "title": "Forbidden Planet",
+      "description": "Space explorers and robots on the mysterious planet Altair IV.",
+      "items": {
+        "commander_adams": {
+          "title": "Commander Adams",
+          "description": "Male/Human/Leader",
+          "metadata": "Space Commander | Tall, authoritative, military | Clean-cut, commanding | Military space uniform | Authoritative space gear | Leadership, space exploration | Ray gun, communicator | Military colors | 1950s military officer",
+          "content": "<h3>Commander Adams</h3>\n<p><strong>Duty and scientific exploration</strong></p>\n<ul>\n<li><b>Archetype:</b> Space Commander</li>\n<li><b>Build:</b> Tall, authoritative, military</li>\n<li><b>Appearance:</b> Clean-cut, commanding</li>\n<li><b>Costume:</b> Military space uniform, Authoritative space gear</li>\n<li><b>Main Ability:</b> Leadership, space exploration</li>\n<li><b>Weapon:</b> Ray gun, communicator</li>\n<li><b>Colors:</b> Military colors</li>\n<li><b>Influence:</b> 1950s military officer</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/1d/04/3f/1d043f4b8d47e05733aa444abd64e299.jpg"
+        },
+        "altaira_morbius": {
+          "title": "Altaira Morbius",
+          "description": "Female/Human/Innocent",
+          "metadata": "Innocent Seductress | Tall, beautiful, naive | Blonde, ethereal beauty | Minimal/natural clothing | Revealing innocent attire | Telepathy, animal control | None specific | Natural, flesh tones | Classical goddess/innocent",
+          "content": "<h3>Altaira Morbius</h3>\n<p><strong>Love discovery and independence</strong></p>\n<ul>\n<li><b>Archetype:</b> Innocent Seductress</li>\n<li><b>Build:</b> Tall, beautiful, naive</li>\n<li><b>Appearance:</b> Blonde, ethereal beauty</li>\n<li><b>Costume:</b> Minimal/natural clothing, Revealing innocent attire</li>\n<li><b>Main Ability:</b> Telepathy, animal control</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Natural, flesh tones</li>\n<li><b>Influence:</b> Classical goddess/innocent</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/bf/16/53/bf16537253d660ae3778af4a3b341f2d.jpg"
+        },
+        "dr_morbius": {
+          "title": "Dr. Morbius",
+          "description": "Male/Human/Scientist",
+          "metadata": "Mad Scientist Father | Tall, distinguished, aged | Bearded, intellectual | Academic robes | Scholarly space attire | Alien technology mastery | Alien devices | Academic colors | Classical scholar/wizard",
+          "content": "<h3>Dr. Morbius</h3>\n<p><strong>Knowledge pursuit and protection</strong></p>\n<ul>\n<li><b>Archetype:</b> Mad Scientist Father</li>\n<li><b>Build:</b> Tall, distinguished, aged</li>\n<li><b>Appearance:</b> Bearded, intellectual</li>\n<li><b>Costume:</b> Academic robes, Scholarly space attire</li>\n<li><b>Main Ability:</b> Alien technology mastery</li>\n<li><b>Weapon:</b> Alien devices</li>\n<li><b>Colors:</b> Academic colors</li>\n<li><b>Influence:</b> Classical scholar/wizard</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/a8/6a/01/a86a0174b2c18bde22b0e40360ce4cc0.jpg"
+        },
+        "robby_the_robot": {
+          "title": "Robby the Robot",
+          "description": "Genderless/Robot/Helper",
+          "metadata": "Faithful Robot | Large, imposing, mechanical | Classic robot design | Built-in robot form | Transparent dome head | Multiple abilities, service | Built-in tools | Metallic robot colors | Classic 1950s robot",
+          "content": "<h3>Robby the Robot</h3>\n<p><strong>Service and protection</strong></p>\n<ul>\n<li><b>Archetype:</b> Faithful Robot</li>\n<li><b>Build:</b> Large, imposing, mechanical</li>\n<li><b>Appearance:</b> Classic robot design</li>\n<li><b>Costume:</b> Built-in robot form, Transparent dome head</li>\n<li><b>Main Ability:</b> Multiple abilities, service</li>\n<li><b>Weapon:</b> Built-in tools</li>\n<li><b>Colors:</b> Metallic robot colors</li>\n<li><b>Influence:</b> Classic 1950s robot</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/9f/ec/2a/9fec2a09b7ab0347a6e2873090ae61db.jpg"
+        }
+      }
+    },
+    "galaxy_high": {
+     "title": "Galaxy High",
+  "description": "Complete character profiles from the Galaxy High universe.",
+    "items": {
+        "doyle_cleverlobe": {
+          "title": "Doyle Cleverlobe",
+          "description": "Male/Human/Student",
+          "metadata": "Nerdy Outsider | Thin, awkward, gangly | Large brain, thick glasses | School uniform/casual | Oversized head feature | Super intelligence, social awkwardness | Books, calculator | Blue, grey, academic | Classic nerd stereotype",
+          "content": "<h3>Doyle Cleverlobe</h3>\n<p><strong>Academic achievement and fitting in</strong></p>\n<ul>\n<li><b>Archetype:</b> Nerdy Outsider</li>\n<li><b>Build:</b> Thin, awkward, gangly</li>\n<li><b>Appearance:</b> Large brain, thick glasses</li>\n<li><b>Costume:</b> School uniform/casual, Oversized head feature</li>\n<li><b>Main Ability:</b> Super intelligence, social awkwardness</li>\n<li><b>Weapon:</b> Books, calculator</li>\n<li><b>Colors:</b> Blue, grey, academic</li>\n<li><b>Influence:</b> Classic nerd stereotype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/60/65/1d/60651d181ce0a7fdf750a70a62861c85.jpg"
+        },
+        "aimee_brightower": {
+          "title": "Aimee Brightower",
+          "description": "Female/Human/Student",
+          "metadata": "Popular Cheerleader | Petite, athletic, perky | Blonde, all-American features | Cheerleader uniform | Pom-poms and short skirt | Cheerleading, social skills | Pom-poms, megaphone | Pink, blue, school colors | All-American cheerleader",
+          "content": "<h3>Aimee Brightower</h3>\n<p><strong>Social popularity and cheerleading</strong></p>\n<ul>\n<li><b>Archetype:</b> Popular Cheerleader</li>\n<li><b>Build:</b> Petite, athletic, perky</li>\n<li><b>Appearance:</b> Blonde, all-American features</li>\n<li><b>Costume:</b> Cheerleader uniform, Pom-poms and short skirt</li>\n<li><b>Main Ability:</b> Cheerleading, social skills</li>\n<li><b>Weapon:</b> Pom-poms, megaphone</li>\n<li><b>Colors:</b> Pink, blue, school colors</li>\n<li><b>Influence:</b> All-American cheerleader</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/37/c4/a3/37c4a3055063ea61dd56e5149643f40d.jpg"
+        },
+        "milo_de_venus": {
+          "title": "Milo De Venus",
+          "description": "Male/Alien/Student",
+          "metadata": "Cool Musician | Tall, blue-skinned, hip | Blue skin, trendy features | Hip casual wear | Fashionable alien attire | Musical talent, coolness | Musical instruments | Blue, trendy colors | Cool alien musician",
+          "content": "<h3>Milo De Venus</h3>\n<p><strong>Musical expression and coolness</strong></p>\n<ul>\n<li><b>Archetype:</b> Cool Musician</li>\n<li><b>Build:</b> Tall, blue-skinned, hip</li>\n<li><b>Appearance:</b> Blue skin, trendy features</li>\n<li><b>Costume:</b> Hip casual wear, Fashionable alien attire</li>\n<li><b>Main Ability:</b> Musical talent, coolness</li>\n<li><b>Weapon:</b> Musical instruments</li>\n<li><b>Colors:</b> Blue, trendy colors</li>\n<li><b>Influence:</b> Cool alien musician</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/a2/89/54/a289547efb2116ba2ddc6e7da7f1d14e.jpg"
+        },
+        "gilda_gossip": {
+          "title": "Gilda Gossip",
+          "description": "Female/Alien/Student",
+          "metadata": "Gossip Queen | Multiple heads/faces | Multiple gossiping heads | Trendy outfit | Multi-head arrangement | Information networks, rumors | Communication devices | Bright social colors | Multi-faced gossip",
+          "content": "<h3>Gilda Gossip</h3>\n<p><strong>Information gathering and socializing</strong></p>\n<ul>\n<li><b>Archetype:</b> Gossip Queen</li>\n<li><b>Build:</b> Multiple heads/faces</li>\n<li><b>Appearance:</b> Multiple gossiping heads</li>\n<li><b>Costume:</b> Trendy outfit, Multi-head arrangement</li>\n<li><b>Main Ability:</b> Information networks, rumors</li>\n<li><b>Weapon:</b> Communication devices</li>\n<li><b>Colors:</b> Bright social colors</li>\n<li><b>Influence:</b> Multi-faced gossip</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/4f/56/46/4f5646a13c9cbc292f808246ebe03b18.jpg"
+        },
+        "booey_bubblehead": {
+          "title": "Booey Bubblehead",
+          "description": "Male/Alien/Student",
+          "metadata": "Loveable Dummy | Bubble-shaped head | Transparent bubble head | Casual student wear | Clear bubble head | Innocence, bubble powers | None specific | Clear, pastel colors | Bubble-headed innocent",
+          "content": "<h3>Booey Bubblehead</h3>\n<p><strong>Simple pleasures and friendship</strong></p>\n<ul>\n<li><b>Archetype:</b> Loveable Dummy</li>\n<li><b>Build:</b> Bubble-shaped head</li>\n<li><b>Appearance:</b> Transparent bubble head</li>\n<li><b>Costume:</b> Casual student wear, Clear bubble head</li>\n<li><b>Main Ability:</b> Innocence, bubble powers</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Clear, pastel colors</li>\n<li><b>Influence:</b> Bubble-headed innocent</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/d7/51/e2/d751e2d8565be080f2b9f746c4f5ebf1.jpg"
+        },
+        "wendy_garbo": {
+          "title": "Wendy Garbo",
+          "description": "Female/Alien/Student",
+          "metadata": "Drama Queen | Elegant, theatrical | Glamorous alien features | Dramatic fashion | Over-the-top styling | Theatrical performance | Drama accessories | Dramatic colors | Hollywood glamour alien",
+          "content": "<h3>Wendy Garbo</h3>\n<p><strong>Dramatic expression and attention</strong></p>\n<ul>\n<li><b>Archetype:</b> Drama Queen</li>\n<li><b>Build:</b> Elegant, theatrical</li>\n<li><b>Appearance:</b> Glamorous alien features</li>\n<li><b>Costume:</b> Dramatic fashion, Over-the-top styling</li>\n<li><b>Main Ability:</b> Theatrical performance</li>\n<li><b>Weapon:</b> Drama accessories</li>\n<li><b>Colors:</b> Dramatic colors</li>\n<li><b>Influence:</b> Hollywood glamour alien</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c3/ae/50/c3ae50576733609a3ad939c9b8f0604b.jpg"
+        },
+        "beef_bonk": {
+          "title": "Beef Bonk",
+          "description": "Male/Alien/Student",
+          "metadata": "Alien Jock | Muscular, imposing | Brutish alien features | Athletic wear | Sports uniform | Super strength, athletics | Sports equipment | Team colors, bold | Alien athlete stereotype",
+          "content": "<h3>Beef Bonk</h3>\n<p><strong>Physical prowess and sports</strong></p>\n<ul>\n<li><b>Archetype:</b> Alien Jock</li>\n<li><b>Build:</b> Muscular, imposing</li>\n<li><b>Appearance:</b> Brutish alien features</li>\n<li><b>Costume:</b> Athletic wear, Sports uniform</li>\n<li><b>Main Ability:</b> Super strength, athletics</li>\n<li><b>Weapon:</b> Sports equipment</li>\n<li><b>Colors:</b> Team colors, bold</li>\n<li><b>Influence:</b> Alien athlete stereotype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/f1/ab/7d/f1ab7dc25c267534294d4726f6e35fb6.jpg"
+        }
+      }
+    }
+  }
+}

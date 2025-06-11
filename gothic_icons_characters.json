@@ -1,0 +1,270 @@
+{
+  "id": "gothic_icons_characters",
+  "title": "Gothic Icons",
+  "description": "Complete character profiles from the Gothic Icons universe.",
+  "categories": {
+    "main": {
+      "title": "Gothic Icons Members",
+      "description": "Character profiles from the Gothic Icons universe.",
+      "items": {
+        "poison_ivy_cramps": {
+          "title": "Poison Ivy (Cramps)",
+          "description": "Female/Musician/Seductress",
+          "metadata": "Rockabilly Vixen | Curvaceous, pin-up proportions | Black beehive, dramatic makeup | Vintage pinup/punk hybrid | Form-fitting retro dresses | Bass guitar mastery, stage presence | Bass guitar, microphone | Black, red, vintage colors | 1950s pinup/punk rock",
+          "content": "<h3>Poison Ivy (Cramps)</h3>\n<p><strong>Psychobilly rebellion and sexual power</strong></p>\n<ul>\n<li><b>Archetype:</b> Rockabilly Vixen</li>\n<li><b>Build:</b> Curvaceous, pin-up proportions</li>\n<li><b>Appearance:</b> Black beehive, dramatic makeup</li>\n<li><b>Costume:</b> Vintage pinup/punk hybrid, Form-fitting retro dresses</li>\n<li><b>Main Ability:</b> Bass guitar mastery, stage presence</li>\n<li><b>Weapon:</b> Bass guitar, microphone</li>\n<li><b>Colors:</b> Black, red, vintage colors</li>\n<li><b>Influence:</b> 1950s pinup/punk rock</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/bf/7f/c6/bf7fc6ad746cc59a28aa0b9139fd4c58.jpg"
+        },
+        "lux_interior_cramps": {
+          "title": "Lux Interior (Cramps)",
+          "description": "Male/Musician/Wild Man",
+          "metadata": "Feral Frontman | Lean, wild, animalistic | Wild hair, intense features | Minimal leather/vinyl | Skin-tight or shirtless | Manic performance, howling | Microphone, stage props | Black, leather, primitive | Primitive rock god/wild man",
+          "content": "<h3>Lux Interior (Cramps)</h3>\n<p><strong>Primal rock expression and chaos</strong></p>\n<ul>\n<li><b>Archetype:</b> Feral Frontman</li>\n<li><b>Build:</b> Lean, wild, animalistic</li>\n<li><b>Appearance:</b> Wild hair, intense features</li>\n<li><b>Costume:</b> Minimal leather/vinyl, Skin-tight or shirtless</li>\n<li><b>Main Ability:</b> Manic performance, howling</li>\n<li><b>Weapon:</b> Microphone, stage props</li>\n<li><b>Colors:</b> Black, leather, primitive</li>\n<li><b>Influence:</b> Primitive rock god/wild man</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/44/fe/be/44febe71deaf275b38b2bfd58fdc7b08.jpg"
+        },
+        "elvira": {
+          "title": "Elvira",
+          "description": "Female/Horror Host/Seductress",
+          "metadata": "Gothic Bombshell | Tall, extremely curvaceous | Black beehive, pale cleavage | Low-cut black gown | Plunging neckline dress | Horror hosting, double entendres | Microphone, props | Black, white, gothic | Vampira meets Las Vegas",
+          "content": "<h3>Elvira</h3>\n<p><strong>Halloween glamour and comedy</strong></p>\n<ul>\n<li><b>Archetype:</b> Gothic Bombshell</li>\n<li><b>Build:</b> Tall, extremely curvaceous</li>\n<li><b>Appearance:</b> Black beehive, pale cleavage</li>\n<li><b>Costume:</b> Low-cut black gown, Plunging neckline dress</li>\n<li><b>Main Ability:</b> Horror hosting, double entendres</li>\n<li><b>Weapon:</b> Microphone, props</li>\n<li><b>Colors:</b> Black, white, gothic</li>\n<li><b>Influence:</b> Vampira meets Las Vegas</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ae/af/14/aeaf1459a3860183c45fca23890f1822.jpg"
+        },
+        "amy_winehouse": {
+          "title": "Amy Winehouse",
+          "description": "Female/Musician/Tragic Artist",
+          "metadata": "Tortured Soul | Petite, fragile, tattooed | Black beehive, heavy eyeliner | Vintage soul/rockabilly | 1960s mod/soul fashion | Vocal power, songwriting | Microphone, guitar | Black, white, vintage | 1960s soul/mod tragedy",
+          "content": "<h3>Amy Winehouse</h3>\n<p><strong>Musical authenticity and self-destruction</strong></p>\n<ul>\n<li><b>Archetype:</b> Tortured Soul</li>\n<li><b>Build:</b> Petite, fragile, tattooed</li>\n<li><b>Appearance:</b> Black beehive, heavy eyeliner</li>\n<li><b>Costume:</b> Vintage soul/rockabilly, 1960s mod/soul fashion</li>\n<li><b>Main Ability:</b> Vocal power, songwriting</li>\n<li><b>Weapon:</b> Microphone, guitar</li>\n<li><b>Colors:</b> Black, white, vintage</li>\n<li><b>Influence:</b> 1960s soul/mod tragedy</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/7a/0a/da/7a0ada44240f684b0637b83af980a381.jpg"
+        },
+        "vampira": {
+          "title": "Vampira",
+          "description": "Female/Horror Host/Icon",
+          "metadata": "Original Gothic Bombshell | Tall, extremely thin, dramatic | Jet black hair, wasp waist | Form-fitting black gown | Skin-tight black dress | Horror hosting, dramatic poses | Television props | Pure black, white contrast | 1950s glamour/horror hybrid",
+          "content": "<h3>Vampira</h3>\n<p><strong>Gothic glamour and horror presentation</strong></p>\n<ul>\n<li><b>Archetype:</b> Original Gothic Bombshell</li>\n<li><b>Build:</b> Tall, extremely thin, dramatic</li>\n<li><b>Appearance:</b> Jet black hair, wasp waist</li>\n<li><b>Costume:</b> Form-fitting black gown, Skin-tight black dress</li>\n<li><b>Main Ability:</b> Horror hosting, dramatic poses</li>\n<li><b>Weapon:</b> Television props</li>\n<li><b>Colors:</b> Pure black, white contrast</li>\n<li><b>Influence:</b> 1950s glamour/horror hybrid</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/84/50/72/845072ee1ab2c6354888357e1ecb1629.jpg"
+        },
+        "betty_page": {
+          "title": "Betty Page",
+          "description": "Female/Model/Pin-up",
+          "metadata": "Innocent Seductress | Curvaceous, athletic | Black bangs, bright smile | Lingerie/fetish wear | Bikinis, bondage gear | Pin-up modeling, whip tricks | Camera, whips, props | Black, white, flesh tones | 1950s pinup/fetish pioneer",
+          "content": "<h3>Betty Page</h3>\n<p><strong>Sexual liberation through photography</strong></p>\n<ul>\n<li><b>Archetype:</b> Innocent Seductress</li>\n<li><b>Build:</b> Curvaceous, athletic</li>\n<li><b>Appearance:</b> Black bangs, bright smile</li>\n<li><b>Costume:</b> Lingerie/fetish wear, Bikinis, bondage gear</li>\n<li><b>Main Ability:</b> Pin-up modeling, whip tricks</li>\n<li><b>Weapon:</b> Camera, whips, props</li>\n<li><b>Colors:</b> Black, white, flesh tones</li>\n<li><b>Influence:</b> 1950s pinup/fetish pioneer</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c4/38/3f/c4383fae4bb1a1f4e1d37c36dac4832f.jpg"
+        },
+        "bride_of_frankenstein": {
+          "title": "Bride of Frankenstein",
+          "description": "Female/Monster/Tragic Figure",
+          "metadata": "Tragic Beauty | Tall, elegant, stitched | White-streaked hair tower | Flowing white gown | Iconic hair with white streaks | Electrical animation, tragic romance | None specific | White, black, electrical | Classical bride/monster horror",
+          "content": "<h3>Bride of Frankenstein</h3>\n<p><strong>Seeking love and acceptance</strong></p>\n<ul>\n<li><b>Archetype:</b> Tragic Beauty</li>\n<li><b>Build:</b> Tall, elegant, stitched</li>\n<li><b>Appearance:</b> White-streaked hair tower</li>\n<li><b>Costume:</b> Flowing white gown, Iconic hair with white streaks</li>\n<li><b>Main Ability:</b> Electrical animation, tragic romance</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> White, black, electrical</li>\n<li><b>Influence:</b> Classical bride/monster horror</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/1f/38/bd/1f38bdffae152025b6ed34bb3fa5bc91.jpg"
+        },
+        "beetlejuice": {
+          "title": "Beetlejuice",
+          "description": "Male/Ghost/Trickster",
+          "metadata": "Chaotic Trickster | Short, rotund, decaying | Green hair, striped suit | Black and white stripes | Iconic striped suit | Supernatural powers, shapeshifting | Handbook, magic | Black, white, green | Carnival barker/death clown",
+          "content": "<h3>Beetlejuice</h3>\n<p><strong>Chaos and mischievous haunting</strong></p>\n<ul>\n<li><b>Archetype:</b> Chaotic Trickster</li>\n<li><b>Build:</b> Short, rotund, decaying</li>\n<li><b>Appearance:</b> Green hair, striped suit</li>\n<li><b>Costume:</b> Black and white stripes, Iconic striped suit</li>\n<li><b>Main Ability:</b> Supernatural powers, shapeshifting</li>\n<li><b>Weapon:</b> Handbook, magic</li>\n<li><b>Colors:</b> Black, white, green</li>\n<li><b>Influence:</b> Carnival barker/death clown</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/19/74/37/197437e3cb31c86fe318dde9b82407f4.jpg"
+        },
+        "lydia_deetz": {
+          "title": "Lydia Deetz",
+          "description": "Female/Human/Goth Teen",
+          "metadata": "Gothic Teenager | Petite, pale, dramatic | Black hair, dark makeup | All-black gothic attire | Victorian-inspired black dress | Photography, ghost communication | Camera, dark art supplies | Pure black, dark colors | Victorian mourning/goth subculture",
+          "content": "<h3>Lydia Deetz</h3>\n<p><strong>Death fascination and artistic expression</strong></p>\n<ul>\n<li><b>Archetype:</b> Gothic Teenager</li>\n<li><b>Build:</b> Petite, pale, dramatic</li>\n<li><b>Appearance:</b> Black hair, dark makeup</li>\n<li><b>Costume:</b> All-black gothic attire, Victorian-inspired black dress</li>\n<li><b>Main Ability:</b> Photography, ghost communication</li>\n<li><b>Weapon:</b> Camera, dark art supplies</li>\n<li><b>Colors:</b> Pure black, dark colors</li>\n<li><b>Influence:</b> Victorian mourning/goth subculture</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/bb/e7/b0/bbe7b0b7fe7dd832ff1633c213819755.jpg"
+        },
+        "varla_faster_pussycat": {
+          "title": "Varla (Faster Pussycat)",
+          "description": "Female/Criminal/Dominatrix",
+          "metadata": "Sadistic Amazon | Tall, muscular, imposing | Blonde, aggressive features | Black leather/racing gear | Skin-tight leather outfit | Combat skills, car racing | Sports car, weapons | Black leather, chrome | Leather fetish/race car driver",
+          "content": "<h3>Varla (Faster Pussycat)</h3>\n<p><strong>Power through violence and sexuality</strong></p>\n<ul>\n<li><b>Archetype:</b> Sadistic Amazon</li>\n<li><b>Build:</b> Tall, muscular, imposing</li>\n<li><b>Appearance:</b> Blonde, aggressive features</li>\n<li><b>Costume:</b> Black leather/racing gear, Skin-tight leather outfit</li>\n<li><b>Main Ability:</b> Combat skills, car racing</li>\n<li><b>Weapon:</b> Sports car, weapons</li>\n<li><b>Colors:</b> Black leather, chrome</li>\n<li><b>Influence:</b> Leather fetish/race car driver</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ee/ac/e5/eeace52c51e838a8ea4d7ba59858e0be.jpg"
+        },
+        "frankenstein_death_race": {
+          "title": "Frankenstein (Death Race)",
+          "description": "Male/Racer/Anti-Hero",
+          "metadata": "Masked Warrior | Athletic, armored | Masked, mysterious | Racing suit and mask | Iconic racing helmet/mask | Driving skills, combat tactics | Armored race car, weapons | Black, silver, racing colors | Racing driver/masked hero",
+          "content": "<h3>Frankenstein (Death Race)</h3>\n<p><strong>Survival through vehicular combat</strong></p>\n<ul>\n<li><b>Archetype:</b> Masked Warrior</li>\n<li><b>Build:</b> Athletic, armored</li>\n<li><b>Appearance:</b> Masked, mysterious</li>\n<li><b>Costume:</b> Racing suit and mask, Iconic racing helmet/mask</li>\n<li><b>Main Ability:</b> Driving skills, combat tactics</li>\n<li><b>Weapon:</b> Armored race car, weapons</li>\n<li><b>Colors:</b> Black, silver, racing colors</li>\n<li><b>Influence:</b> Racing driver/masked hero</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/56/3c/e0/563ce0d48a371aa86d24907a54a95d38.jpg"
+        }
+      }
+    },
+     "addams_family": {
+     "title": "Addams Family",
+  "description": "Complete character profiles from the Addams Family universe.",
+    "items": {
+        "gomez_addams": {
+          "title": "Gomez Addams",
+          "description": "Male, Family patriarch, Leader",
+          "metadata": "Romantic Enthusiast | Short, stocky, energetic | Dark hair, mustache, expressive eyes | Three-piece pinstripe suit | Sharp tailoring with old-world elegance | Explosive enthusiasm, sword fighting | Cigars, fencing sword | Black and white | Spanish aristocrat/Victorian gentleman",
+          "content": "<h3>Gomez Addams</h3>\n<p><strong>Passionate devotion to family and macabre interests</strong></p>\n<ul>\n<li><b>Archetype:</b> Romantic Enthusiast</li>\n<li><b>Build:</b> Short, stocky, energetic</li>\n<li><b>Appearance:</b> Dark hair, mustache, expressive eyes</li>\n<li><b>Costume:</b> Three-piece pinstripe suit, Sharp tailoring with old-world elegance</li>\n<li><b>Main Ability:</b> Explosive enthusiasm, sword fighting</li>\n<li><b>Weapon:</b> Cigars, fencing sword</li>\n<li><b>Colors:</b> Black and white</li>\n<li><b>Influence:</b> Spanish aristocrat/Victorian gentleman</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/dc/03/27/dc0327e1832695138ee02a34ba1959e6.jpg"
+        },
+        "morticia_addams": {
+          "title": "Morticia Addams",
+          "description": "Female, Family matriarch, Temptress",
+          "metadata": "Gothic Seductress | Tall, extremely slender, graceful | Pale skin, long straight black hair, ethereal beauty | Form-fitting black gown | Floor-length dress with trailing sleeves | Plant cultivation, séances | Garden shears, crystal ball | Pure black | Victorian mourning dress/vampire aesthetic",
+          "content": "<h3>Morticia Addams</h3>\n<p><strong>Elegant macabre sophistication</strong></p>\n<ul>\n<li><b>Archetype:</b> Gothic Seductress</li>\n<li><b>Build:</b> Tall, extremely slender, graceful</li>\n<li><b>Appearance:</b> Pale skin, long straight black hair, ethereal beauty</li>\n<li><b>Costume:</b> Form-fitting black gown, Floor-length dress with trailing sleeves</li>\n<li><b>Main Ability:</b> Plant cultivation, séances</li>\n<li><b>Weapon:</b> Garden shears, crystal ball</li>\n<li><b>Colors:</b> Pure black</li>\n<li><b>Influence:</b> Victorian mourning dress/vampire aesthetic</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/66/67/f8/6667f865d83178e5b328c945d3b75524.jpg"
+        },
+        "wednesday_addams": {
+          "title": "Wednesday Addams",
+          "description": "Female, Child, Innocent Menace",
+          "metadata": "Creepy Child | Small, pale, serious | Braided pigtails, deadpan expression | Dark school dress | White collar contrast | Guillotine play, dark poetry | Headless doll, noose jump rope | Black with white accents | Victorian schoolgirl/memento mori",
+          "content": "<h3>Wednesday Addams</h3>\n<p><strong>Morbid curiosity and deadpan delivery</strong></p>\n<ul>\n<li><b>Archetype:</b> Creepy Child</li>\n<li><b>Build:</b> Small, pale, serious</li>\n<li><b>Appearance:</b> Braided pigtails, deadpan expression</li>\n<li><b>Costume:</b> Dark school dress, White collar contrast</li>\n<li><b>Main Ability:</b> Guillotine play, dark poetry</li>\n<li><b>Weapon:</b> Headless doll, noose jump rope</li>\n<li><b>Colors:</b> Black with white accents</li>\n<li><b>Influence:</b> Victorian schoolgirl/memento mori</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/34/68/e0/3468e0efaf7bed7081321f5a46fdd954.jpg"
+        },
+        "pugsley_addams": {
+          "title": "Pugsley Addams",
+          "description": "Male, Child, Demolitions Expert",
+          "metadata": "Mad Scientist Child | Round, cherubic, sturdy | Blonde hair, innocent face | Striped shirt and shorts | Bold horizontal stripes | Explosives, torture devices | Dynamite, medieval weapons | Black and white stripes | All-American boy (inverted)",
+          "content": "<h3>Pugsley Addams</h3>\n<p><strong>Destructive experimentation</strong></p>\n<ul>\n<li><b>Archetype:</b> Mad Scientist Child</li>\n<li><b>Build:</b> Round, cherubic, sturdy</li>\n<li><b>Appearance:</b> Blonde hair, innocent face</li>\n<li><b>Costume:</b> Striped shirt and shorts, Bold horizontal stripes</li>\n<li><b>Main Ability:</b> Explosives, torture devices</li>\n<li><b>Weapon:</b> Dynamite, medieval weapons</li>\n<li><b>Colors:</b> Black and white stripes</li>\n<li><b>Influence:</b> All-American boy (inverted)</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/84/f6/a5/84f6a561f0a94c996df1d0e688321055.jpg"
+        },
+        "uncle_fester": {
+          "title": "Uncle Fester",
+          "description": "Male, Extended family, Comic Relief",
+          "metadata": "Loveable Eccentric | Bald, portly, childlike | Completely bald head, sunken eyes | Simple dark robe | Monk-like hooded garment | Electricity generation, light bulb trick | Light bulbs, electrical devices | Dark brown/black | Medieval monk/carnival performer",
+          "content": "<h3>Uncle Fester</h3>\n<p><strong>Simple pleasures and electrical affinity</strong></p>\n<ul>\n<li><b>Archetype:</b> Loveable Eccentric</li>\n<li><b>Build:</b> Bald, portly, childlike</li>\n<li><b>Appearance:</b> Completely bald head, sunken eyes</li>\n<li><b>Costume:</b> Simple dark robe, Monk-like hooded garment</li>\n<li><b>Main Ability:</b> Electricity generation, light bulb trick</li>\n<li><b>Weapon:</b> Light bulbs, electrical devices</li>\n<li><b>Colors:</b> Dark brown/black</li>\n<li><b>Influence:</b> Medieval monk/carnival performer</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/cb/fc/39/cbfc392a0cb0e43f0afa394dd3386c13.jpg"
+        },
+        "grandmama": {
+          "title": "Grandmama",
+          "description": "Female, Elder, Witch",
+          "metadata": "Wise Crone | Small, hunched, ancient | Wild grey hair, weathered face | Tattered dark dress | Layered, worn fabrics | Witchcraft, potion brewing | Cauldron, spell ingredients | Black and grey | Traditional witch/fairy tale crone",
+          "content": "<h3>Grandmama</h3>\n<p><strong>Potion-making and family care</strong></p>\n<ul>\n<li><b>Archetype:</b> Wise Crone</li>\n<li><b>Build:</b> Small, hunched, ancient</li>\n<li><b>Appearance:</b> Wild grey hair, weathered face</li>\n<li><b>Costume:</b> Tattered dark dress, Layered, worn fabrics</li>\n<li><b>Main Ability:</b> Witchcraft, potion brewing</li>\n<li><b>Weapon:</b> Cauldron, spell ingredients</li>\n<li><b>Colors:</b> Black and grey</li>\n<li><b>Influence:</b> Traditional witch/fairy tale crone</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/8c/d7/94/8cd79421cb29f6f11b04930206d9e387.jpg"
+        },
+        "lurch": {
+          "title": "Lurch",
+          "description": "Male, Servant, Gentle Giant",
+          "metadata": "Faithful Retainer | Extremely tall, gaunt, imposing | Towering height, cadaverous face | Butler's formal wear | Perfectly pressed suit despite size | Superhuman strength, harpsichord | Gong mallet, serving tray | Black formal wear | Frankenstein's monster/Gothic butler",
+          "content": "<h3>Lurch</h3>\n<p><strong>Loyal service to family</strong></p>\n<ul>\n<li><b>Archetype:</b> Faithful Retainer</li>\n<li><b>Build:</b> Extremely tall, gaunt, imposing</li>\n<li><b>Appearance:</b> Towering height, cadaverous face</li>\n<li><b>Costume:</b> Butler's formal wear, Perfectly pressed suit despite size</li>\n<li><b>Main Ability:</b> Superhuman strength, harpsichord</li>\n<li><b>Weapon:</b> Gong mallet, serving tray</li>\n<li><b>Colors:</b> Black formal wear</li>\n<li><b>Influence:</b> Frankenstein's monster/Gothic butler</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/a7/02/87/a70287eb267c85dc3d8c2743d0a7455c.jpg"
+        },
+        "thing": {
+          "title": "Thing",
+          "description": "Genderless, Pet/Helper, Living Hand",
+          "metadata": "Loyal Companion | Disembodied hand | Pale human hand | None | Jewelry box housing | Manual dexterity, sign language | None (is the accessory) | Pale flesh tone | Surrealist body horror/helping hand",
+          "content": "<h3>Thing</h3>\n<p><strong>Helpful assistance and communication</strong></p>\n<ul>\n<li><b>Archetype:</b> Loyal Companion</li>\n<li><b>Build:</b> Disembodied hand</li>\n<li><b>Appearance:</b> Pale human hand</li>\n<li><b>Costume:</b> None, Jewelry box housing</li>\n<li><b>Main Ability:</b> Manual dexterity, sign language</li>\n<li><b>Weapon:</b> None (is the accessory)</li>\n<li><b>Colors:</b> Pale flesh tone</li>\n<li><b>Influence:</b> Surrealist body horror/helping hand</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/b7/49/2c/b7492cc6246567047160084ac3a71c63.jpg"
+        },
+        "cousin_itt": {
+          "title": "Cousin Itt",
+          "description": "Male, Relative, Mysterious Figure",
+          "metadata": "Enigmatic Relative | Small, completely hair-covered | Entirely obscured by floor-length hair | Sunglasses and hat | Hair as complete covering | Gibberish speech, charm | Sunglasses, occasional hat | Golden brown hair | 1960s rock star/biblical Absalom",
+          "content": "<h3>Cousin Itt</h3>\n<p><strong>Social interaction despite appearance</strong></p>\n<ul>\n<li><b>Archetype:</b> Enigmatic Relative</li>\n<li><b>Build:</b> Small, completely hair-covered</li>\n<li><b>Appearance:</b> Entirely obscured by floor-length hair</li>\n<li><b>Costume:</b> Sunglasses and hat, Hair as complete covering</li>\n<li><b>Main Ability:</b> Gibberish speech, charm</li>\n<li><b>Weapon:</b> Sunglasses, occasional hat</li>\n<li><b>Colors:</b> Golden brown hair</li>\n<li><b>Influence:</b> 1960s rock star/biblical Absalom</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c1/df/60/c1df600467082370847ce658323ef97b.jpg"
+        },
+        "herman_munster": {
+          "title": "Herman Munster",
+          "description": "Male, Family patriarch, Bumbling Father",
+          "metadata": "Gentle Giant | Extremely tall, broad, square-built | Green skin, flat-top head, neck bolts | Ill-fitting suit | Formal wear too small for frame | Superhuman strength, electrical sensitivity | None specific | Green skin, dark suit | Frankenstein's monster/1950s dad",
+          "content": "<h3>Herman Munster</h3>\n<p><strong>Good-hearted family man trying to fit in</strong></p>\n<ul>\n<li><b>Archetype:</b> Gentle Giant</li>\n<li><b>Build:</b> Extremely tall, broad, square-built</li>\n<li><b>Appearance:</b> Green skin, flat-top head, neck bolts</li>\n<li><b>Costume:</b> Ill-fitting suit, Formal wear too small for frame</li>\n<li><b>Main Ability:</b> Superhuman strength, electrical sensitivity</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Green skin, dark suit</li>\n<li><b>Influence:</b> Frankenstein's monster/1950s dad</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/63/c3/a2/63c3a2a2cd62dcf2188076727802445a.jpg"
+        },
+        "lily_munster": {
+          "title": "Lily Munster",
+          "description": "Female, Family matriarch, Supportive Wife",
+          "metadata": "Patient Homemaker | Tall, elegant, pale | Vampire-pale skin, dramatic widow's peak | Victorian-style dress | High-necked dark gown with fitted bodice | Vampire abilities (implied) | None specific | Black and white | Dracula's bride/1950s housewife",
+          "content": "<h3>Lily Munster</h3>\n<p><strong>Maintaining family harmony and normalcy</strong></p>\n<ul>\n<li><b>Archetype:</b> Patient Homemaker</li>\n<li><b>Build:</b> Tall, elegant, pale</li>\n<li><b>Appearance:</b> Vampire-pale skin, dramatic widow's peak</li>\n<li><b>Costume:</b> Victorian-style dress, High-necked dark gown with fitted bodice</li>\n<li><b>Main Ability:</b> Vampire abilities (implied)</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Black and white</li>\n<li><b>Influence:</b> Dracula's bride/1950s housewife</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/48/4c/6a/484c6a8e4677f1c628f821e705195a0a.jpg"
+        },
+        "grandpa_munster": {
+          "title": "Grandpa Munster",
+          "description": "Male, Elder, Mad Scientist",
+          "metadata": "Eccentric Inventor | Short, thin, elderly | Cape, medallion, vampire features | Classic Dracula costume | Opera cape and medallion | Vampire powers, mad science | Laboratory equipment, cape | Black cape, formal wear | Classic Dracula/mad scientist",
+          "content": "<h3>Grandpa Munster</h3>\n<p><strong>Scientific experimentation and vampire heritage</strong></p>\n<ul>\n<li><b>Archetype:</b> Eccentric Inventor</li>\n<li><b>Build:</b> Short, thin, elderly</li>\n<li><b>Appearance:</b> Cape, medallion, vampire features</li>\n<li><b>Costume:</b> Classic Dracula costume, Opera cape and medallion</li>\n<li><b>Main Ability:</b> Vampire powers, mad science</li>\n<li><b>Weapon:</b> Laboratory equipment, cape</li>\n<li><b>Colors:</b> Black cape, formal wear</li>\n<li><b>Influence:</b> Classic Dracula/mad scientist</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/6b/07/d9/6b07d9ffa27bc2e9618569f445794463.jpg"
+        },
+        "eddie_munster": {
+          "title": "Eddie Munster",
+          "description": "Male, Child, Little Monster",
+          "metadata": "Mischievous Kid | Small child proportions | Pointed ears, fangs, widow's peak | Little Lord Fauntleroy suit | Velvet suit with lace collar | Werewolf transformation, bat powers | Stuffed werewolf toy | Dark velvet suit | Little Lord Fauntleroy/werewolf child",
+          "content": "<h3>Eddie Munster</h3>\n<p><strong>Childhood fun with monster abilities</strong></p>\n<ul>\n<li><b>Archetype:</b> Mischievous Kid</li>\n<li><b>Build:</b> Small child proportions</li>\n<li><b>Appearance:</b> Pointed ears, fangs, widow's peak</li>\n<li><b>Costume:</b> Little Lord Fauntleroy suit, Velvet suit with lace collar</li>\n<li><b>Main Ability:</b> Werewolf transformation, bat powers</li>\n<li><b>Weapon:</b> Stuffed werewolf toy</li>\n<li><b>Colors:</b> Dark velvet suit</li>\n<li><b>Influence:</b> Little Lord Fauntleroy/werewolf child</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/d4/d5/f9/d4d5f95264bfcdd5d614e45c8ad71490.jpg"
+        },
+        "marilyn_munster": {
+          "title": "Marilyn Munster",
+          "description": "Female, Niece, Normal One",
+          "metadata": "Tragic Beauty | Conventionally attractive young woman | Blonde, conventionally pretty | 1960s fashionable dress | Bright, colorful modern clot | Being \"normal\" in monster family | Makeup, fashion accessories | Bright colors and pastels | 1960s fashion model/blonde bombshell",
+          "content": "<h3>Marilyn Munster</h3>\n<p><strong>Seeking acceptance despite being \"different\"</strong></p>\n<ul>\n<li><b>Archetype:</b> Tragic Beauty</li>\n<li><b>Build:</b> Conventionally attractive young woman</li>\n<li><b>Appearance:</b> Blonde, conventionally pretty</li>\n<li><b>Costume:</b> 1960s fashionable dress, Bright, colorful modern clot</li>\n<li><b>Main Ability:</b> Being \"normal\" in monster family</li>\n<li><b>Weapon:</b> Makeup, fashion accessories</li>\n<li><b>Colors:</b> Bright colors and pastels</li>\n<li><b>Influence:</b> 1960s fashion model/blonde bombshell</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/cb/72/32/cb7232578744f2ea6cee76b2cd55b806.jpg"
+        }
+      }
+    },
+     "rocky_horror": {
+     "title": "Rocky Horror Picture Show",
+  "description": "Complete character profiles from the Rocky Horror Show universe.",
+    "items": {
+        "dr_frank_n_furter": {
+          "title": "Dr. Frank-N-Furter",
+          "description": "Genderfluid/Alien/Seducer",
+          "metadata": "Decadent Mad Scientist | Tall, lean, androgynous | Pale makeup, dramatic features | Corset, fishnets, heels | Black lingerie with cape | Sexual magnetism, scientific creation | Laboratory equipment | Black, gold, flesh tones | Divine decadence/mad scientist drag",
+          "content": "<h3>Dr. Frank-N-Furter</h3>\n<p><strong>Sexual liberation and hedonistic pleasure</strong></p>\n<ul>\n<li><b>Archetype:</b> Decadent Mad Scientist</li>\n<li><b>Build:</b> Tall, lean, androgynous</li>\n<li><b>Appearance:</b> Pale makeup, dramatic features</li>\n<li><b>Costume:</b> Corset, fishnets, heels, Black lingerie with cape</li>\n<li><b>Main Ability:</b> Sexual magnetism, scientific creation</li>\n<li><b>Weapon:</b> Laboratory equipment</li>\n<li><b>Colors:</b> Black, gold, flesh tones</li>\n<li><b>Influence:</b> Divine decadence/mad scientist drag</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ff/85/8b/ff858b7e05fcda1ab018f48bce589e38.jpg"
+        },
+        "brad_majors": {
+          "title": "Brad Majors",
+          "description": "Male/Human/Square",
+          "metadata": "All-American Square | Average build, clean-cut | Blonde, wholesome features | Conservative suit and tie | Preppy formal wear | Uncomfortable righteousness | None specific | Beige, conservative colors | 1950s all-American boyfriend",
+          "content": "<h3>Brad Majors</h3>\n<p><strong>Conventional normalcy and engagement</strong></p>\n<ul>\n<li><b>Archetype:</b> All-American Square</li>\n<li><b>Build:</b> Average build, clean-cut</li>\n<li><b>Appearance:</b> Blonde, wholesome features</li>\n<li><b>Costume:</b> Conservative suit and tie, Preppy formal wear</li>\n<li><b>Main Ability:</b> Uncomfortable righteousness</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Beige, conservative colors</li>\n<li><b>Influence:</b> 1950s all-American boyfriend</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/19/8f/9b/198f9b3ac27ae686d28667d3015616e8.jpg"
+        },
+        "janet_weiss": {
+          "title": "Janet Weiss",
+          "description": "Female/Human/Innocent",
+          "metadata": "Repressed Virgin | Petite, conventional beauty | Blonde, girl-next-door looks | Conservative dress/underwear | Modest to revealing transformation | Sexual awakening, screaming | Engagement ring, crucifix | White, pink, innocent colors | 1950s good girl/virgin sacrifice",
+          "content": "<h3>Janet Weiss</h3>\n<p><strong>Traditional values and sexual awakening</strong></p>\n<ul>\n<li><b>Archetype:</b> Repressed Virgin</li>\n<li><b>Build:</b> Petite, conventional beauty</li>\n<li><b>Appearance:</b> Blonde, girl-next-door looks</li>\n<li><b>Costume:</b> Conservative dress/underwear, Modest to revealing transformation</li>\n<li><b>Main Ability:</b> Sexual awakening, screaming</li>\n<li><b>Weapon:</b> Engagement ring, crucifix</li>\n<li><b>Colors:</b> White, pink, innocent colors</li>\n<li><b>Influence:</b> 1950s good girl/virgin sacrifice</li>\n</ul>\n",
+          "image": "https://www.pinterest.com/pin/114912227989906985/"
+        },
+        "riff_raff": {
+          "title": "Riff Raff",
+          "description": "Male/Alien/Servant",
+          "metadata": "Scheming Hunchback | Hunched, gaunt, sinister | Wild hair, gaunt features | Butler uniform/alien garb | Formal servant wear | Alien technology, betrayal | Ray gun, candelabra | Black, silver, alien tones | Hunchback servant/alien invader",
+          "content": "<h3>Riff Raff</h3>\n<p><strong>Serving masters while plotting overthrow</strong></p>\n<ul>\n<li><b>Archetype:</b> Scheming Hunchback</li>\n<li><b>Build:</b> Hunched, gaunt, sinister</li>\n<li><b>Appearance:</b> Wild hair, gaunt features</li>\n<li><b>Costume:</b> Butler uniform/alien garb, Formal servant wear</li>\n<li><b>Main Ability:</b> Alien technology, betrayal</li>\n<li><b>Weapon:</b> Ray gun, candelabra</li>\n<li><b>Colors:</b> Black, silver, alien tones</li>\n<li><b>Influence:</b> Hunchback servant/alien invader</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c9/09/a8/c909a86dded2f17c5dcc6c7f1d042367.jpg"
+        },
+        "magenta": {
+          "title": "Magenta",
+          "description": "Female/Alien/Maid",
+          "metadata": "Sinister Servant | Lean, sharp-featured | Wild red hair, pale skin | French maid outfit/alien wear | Revealing maid costume | Alien powers, domestic tasks | Feather duster, alien tech | Black, white, red accents | French maid/alien seductress",
+          "content": "<h3>Magenta</h3>\n<p><strong>Domestic service with alien superiority</strong></p>\n<ul>\n<li><b>Archetype:</b> Sinister Servant</li>\n<li><b>Build:</b> Lean, sharp-featured</li>\n<li><b>Appearance:</b> Wild red hair, pale skin</li>\n<li><b>Costume:</b> French maid outfit/alien wear, Revealing maid costume</li>\n<li><b>Main Ability:</b> Alien powers, domestic tasks</li>\n<li><b>Weapon:</b> Feather duster, alien tech</li>\n<li><b>Colors:</b> Black, white, red accents</li>\n<li><b>Influence:</b> French maid/alien seductress</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/97/63/bd/9763bdf3ae09b8bb2655e19cc447874e.jpg"
+        },
+        "columbia": {
+          "title": "Columbia",
+          "description": "Female/Human/Groupie",
+          "metadata": "Tap-Dancing Groupie | Petite, energetic, youthful | Curly blonde hair, makeup | Sequined tap costume | Glittery performance wear | Tap dancing, enthusiasm | Top hat, cane | Gold, sequins, stage colors | 1920s flapper/chorus girl",
+          "content": "<h3>Columbia</h3>\n<p><strong>Rock and roll rebellion and pleasure</strong></p>\n<ul>\n<li><b>Archetype:</b> Tap-Dancing Groupie</li>\n<li><b>Build:</b> Petite, energetic, youthful</li>\n<li><b>Appearance:</b> Curly blonde hair, makeup</li>\n<li><b>Costume:</b> Sequined tap costume, Glittery performance wear</li>\n<li><b>Main Ability:</b> Tap dancing, enthusiasm</li>\n<li><b>Weapon:</b> Top hat, cane</li>\n<li><b>Colors:</b> Gold, sequins, stage colors</li>\n<li><b>Influence:</b> 1920s flapper/chorus girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/06/6c/58/066c580e043448946040ce4826170988.jpg"
+        },
+        "rocky_horror": {
+          "title": "Rocky Horror",
+          "description": "Male/Creation/Muscle",
+          "metadata": "Innocent Beefcake | Muscular, perfect physique | Blonde, Adonis-like | Gold shorts/minimal clothing | Metallic brief swimwear | Physical beauty, strength | None specific | Gold, bronze, flesh | Classical statue/bodybuilder",
+          "content": "<h3>Rocky Horror</h3>\n<p><strong>Physical perfection and naive obedience</strong></p>\n<ul>\n<li><b>Archetype:</b> Innocent Beefcake</li>\n<li><b>Build:</b> Muscular, perfect physique</li>\n<li><b>Appearance:</b> Blonde, Adonis-like</li>\n<li><b>Costume:</b> Gold shorts/minimal clothing, Metallic brief swimwear</li>\n<li><b>Main Ability:</b> Physical beauty, strength</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Gold, bronze, flesh</li>\n<li><b>Influence:</b> Classical statue/bodybuilder</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/2c/bd/6f/2cbd6fd16ec4ad743cf782814c17755c.jpg"
+        },
+        "dr_everett_v_scott": {
+          "title": "Dr. Everett V. Scott",
+          "description": "Male/Human/Authority",
+          "metadata": "Wheelchair Detective | Elderly, wheelchair-bound | Grey hair, authoritative | Academic suit and blanket | Professorial formal wear | Scientific knowledge, investigation | Wheelchair, briefcase | Grey, academic colors | Mad scientist/detective",
+          "content": "<h3>Dr. Everett V. Scott</h3>\n<p><strong>Scientific investigation and moral order</strong></p>\n<ul>\n<li><b>Archetype:</b> Wheelchair Detective</li>\n<li><b>Build:</b> Elderly, wheelchair-bound</li>\n<li><b>Appearance:</b> Grey hair, authoritative</li>\n<li><b>Costume:</b> Academic suit and blanket, Professorial formal wear</li>\n<li><b>Main Ability:</b> Scientific knowledge, investigation</li>\n<li><b>Weapon:</b> Wheelchair, briefcase</li>\n<li><b>Colors:</b> Grey, academic colors</li>\n<li><b>Influence:</b> Mad scientist/detective</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/66/d2/fb/66d2fbff7f308edce5fb3f2b986a4ca2.jpg"
+        },
+        "eddie": {
+          "title": "Eddie",
+          "description": "Male/Human/Rebel",
+          "metadata": "Greaser Rebel | Stocky, leather-clad | Slicked hair, tough features | Leather jacket and jeans | Classic 1950s rebel wear | Motorcycle riding, rock music | Motorcycle, saxophone | Black leather, denim | 1950s greaser/rock rebel",
+          "content": "<h3>Eddie</h3>\n<p><strong>Rock and roll freedom</strong></p>\n<ul>\n<li><b>Archetype:</b> Greaser Rebel</li>\n<li><b>Build:</b> Stocky, leather-clad</li>\n<li><b>Appearance:</b> Slicked hair, tough features</li>\n<li><b>Costume:</b> Leather jacket and jeans, Classic 1950s rebel wear</li>\n<li><b>Main Ability:</b> Motorcycle riding, rock music</li>\n<li><b>Weapon:</b> Motorcycle, saxophone</li>\n<li><b>Colors:</b> Black leather, denim</li>\n<li><b>Influence:</b> 1950s greaser/rock rebel</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/67/c4/41/67c441d99981d1c856b1953787c45151.jpg"
+        },
+        "the_criminologist": {
+          "title": "The Criminologist",
+          "description": "Male/Human/Narrator",
+          "metadata": "Detached Observer | Average academic build | Formal, scholarly appearance | Conservative academic suit | Bow tie and formal wear | Narrative omniscience | Books, papers | Conservative academic | Scientific narrator/professor",
+          "content": "<h3>The Criminologist</h3>\n<p><strong>Objective scientific observation</strong></p>\n<ul>\n<li><b>Archetype:</b> Detached Observer</li>\n<li><b>Build:</b> Average academic build</li>\n<li><b>Appearance:</b> Formal, scholarly appearance</li>\n<li><b>Costume:</b> Conservative academic suit, Bow tie and formal wear</li>\n<li><b>Main Ability:</b> Narrative omniscience</li>\n<li><b>Weapon:</b> Books, papers</li>\n<li><b>Colors:</b> Conservative academic</li>\n<li><b>Influence:</b> Scientific narrator/professor</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/80/2c/15/802c151d107ad84ed28f3111de58b0c7.jpg"
+        }
+      }
+    }
+  }
+}

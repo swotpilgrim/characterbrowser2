@@ -1,0 +1,90 @@
+{
+  "id": "rocky_horror_show_characters",
+  "title": "Rocky Horror Show",
+  "description": "Complete character profiles from the Rocky Horror Show universe.",
+  "categories": {
+    "main": {
+      "title": "Rocky Horror Show Members",
+      "description": "Character profiles from the Rocky Horror Show universe.",
+      "items": {
+        "rocky_horror_picture_show": {
+          "title": "ROCKY HORROR PICTURE SHOW",
+          "description": "nan",
+          "metadata": "nan | nan | nan | nan | nan | nan | nan | nan | nan",
+          "content": "<h3>ROCKY HORROR PICTURE SHOW</h3>\n<p><strong>nan</strong></p>\n<ul>\n<li><b>Archetype:</b> nan</li>\n<li><b>Build:</b> nan</li>\n<li><b>Appearance:</b> nan</li>\n<li><b>Costume:</b> nan, nan</li>\n<li><b>Main Ability:</b> nan</li>\n<li><b>Weapon:</b> nan</li>\n<li><b>Colors:</b> nan</li>\n<li><b>Influence:</b> nan</li>\n</ul>\n",
+          "image": NaN
+        },
+        "dr_frank_n_furter": {
+          "title": "Dr. Frank-N-Furter",
+          "description": "Genderfluid/Alien/Seducer",
+          "metadata": "Decadent Mad Scientist | Tall, lean, androgynous | Pale makeup, dramatic features | Corset, fishnets, heels | Black lingerie with cape | Sexual magnetism, scientific creation | Laboratory equipment | Black, gold, flesh tones | Divine decadence/mad scientist drag",
+          "content": "<h3>Dr. Frank-N-Furter</h3>\n<p><strong>Sexual liberation and hedonistic pleasure</strong></p>\n<ul>\n<li><b>Archetype:</b> Decadent Mad Scientist</li>\n<li><b>Build:</b> Tall, lean, androgynous</li>\n<li><b>Appearance:</b> Pale makeup, dramatic features</li>\n<li><b>Costume:</b> Corset, fishnets, heels, Black lingerie with cape</li>\n<li><b>Main Ability:</b> Sexual magnetism, scientific creation</li>\n<li><b>Weapon:</b> Laboratory equipment</li>\n<li><b>Colors:</b> Black, gold, flesh tones</li>\n<li><b>Influence:</b> Divine decadence/mad scientist drag</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/ff/85/8b/ff858b7e05fcda1ab018f48bce589e38.jpg"
+        },
+        "brad_majors": {
+          "title": "Brad Majors",
+          "description": "Male/Human/Square",
+          "metadata": "All-American Square | Average build, clean-cut | Blonde, wholesome features | Conservative suit and tie | Preppy formal wear | Uncomfortable righteousness | None specific | Beige, conservative colors | 1950s all-American boyfriend",
+          "content": "<h3>Brad Majors</h3>\n<p><strong>Conventional normalcy and engagement</strong></p>\n<ul>\n<li><b>Archetype:</b> All-American Square</li>\n<li><b>Build:</b> Average build, clean-cut</li>\n<li><b>Appearance:</b> Blonde, wholesome features</li>\n<li><b>Costume:</b> Conservative suit and tie, Preppy formal wear</li>\n<li><b>Main Ability:</b> Uncomfortable righteousness</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Beige, conservative colors</li>\n<li><b>Influence:</b> 1950s all-American boyfriend</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/19/8f/9b/198f9b3ac27ae686d28667d3015616e8.jpg"
+        },
+        "janet_weiss": {
+          "title": "Janet Weiss",
+          "description": "Female/Human/Innocent",
+          "metadata": "Repressed Virgin | Petite, conventional beauty | Blonde, girl-next-door looks | Conservative dress/underwear | Modest to revealing transformation | Sexual awakening, screaming | Engagement ring, crucifix | White, pink, innocent colors | 1950s good girl/virgin sacrifice",
+          "content": "<h3>Janet Weiss</h3>\n<p><strong>Traditional values and sexual awakening</strong></p>\n<ul>\n<li><b>Archetype:</b> Repressed Virgin</li>\n<li><b>Build:</b> Petite, conventional beauty</li>\n<li><b>Appearance:</b> Blonde, girl-next-door looks</li>\n<li><b>Costume:</b> Conservative dress/underwear, Modest to revealing transformation</li>\n<li><b>Main Ability:</b> Sexual awakening, screaming</li>\n<li><b>Weapon:</b> Engagement ring, crucifix</li>\n<li><b>Colors:</b> White, pink, innocent colors</li>\n<li><b>Influence:</b> 1950s good girl/virgin sacrifice</li>\n</ul>\n",
+          "image": "https://www.pinterest.com/pin/114912227989906985/"
+        },
+        "riff_raff": {
+          "title": "Riff Raff",
+          "description": "Male/Alien/Servant",
+          "metadata": "Scheming Hunchback | Hunched, gaunt, sinister | Wild hair, gaunt features | Butler uniform/alien garb | Formal servant wear | Alien technology, betrayal | Ray gun, candelabra | Black, silver, alien tones | Hunchback servant/alien invader",
+          "content": "<h3>Riff Raff</h3>\n<p><strong>Serving masters while plotting overthrow</strong></p>\n<ul>\n<li><b>Archetype:</b> Scheming Hunchback</li>\n<li><b>Build:</b> Hunched, gaunt, sinister</li>\n<li><b>Appearance:</b> Wild hair, gaunt features</li>\n<li><b>Costume:</b> Butler uniform/alien garb, Formal servant wear</li>\n<li><b>Main Ability:</b> Alien technology, betrayal</li>\n<li><b>Weapon:</b> Ray gun, candelabra</li>\n<li><b>Colors:</b> Black, silver, alien tones</li>\n<li><b>Influence:</b> Hunchback servant/alien invader</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/c9/09/a8/c909a86dded2f17c5dcc6c7f1d042367.jpg"
+        },
+        "magenta": {
+          "title": "Magenta",
+          "description": "Female/Alien/Maid",
+          "metadata": "Sinister Servant | Lean, sharp-featured | Wild red hair, pale skin | French maid outfit/alien wear | Revealing maid costume | Alien powers, domestic tasks | Feather duster, alien tech | Black, white, red accents | French maid/alien seductress",
+          "content": "<h3>Magenta</h3>\n<p><strong>Domestic service with alien superiority</strong></p>\n<ul>\n<li><b>Archetype:</b> Sinister Servant</li>\n<li><b>Build:</b> Lean, sharp-featured</li>\n<li><b>Appearance:</b> Wild red hair, pale skin</li>\n<li><b>Costume:</b> French maid outfit/alien wear, Revealing maid costume</li>\n<li><b>Main Ability:</b> Alien powers, domestic tasks</li>\n<li><b>Weapon:</b> Feather duster, alien tech</li>\n<li><b>Colors:</b> Black, white, red accents</li>\n<li><b>Influence:</b> French maid/alien seductress</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/97/63/bd/9763bdf3ae09b8bb2655e19cc447874e.jpg"
+        },
+        "columbia": {
+          "title": "Columbia",
+          "description": "Female/Human/Groupie",
+          "metadata": "Tap-Dancing Groupie | Petite, energetic, youthful | Curly blonde hair, makeup | Sequined tap costume | Glittery performance wear | Tap dancing, enthusiasm | Top hat, cane | Gold, sequins, stage colors | 1920s flapper/chorus girl",
+          "content": "<h3>Columbia</h3>\n<p><strong>Rock and roll rebellion and pleasure</strong></p>\n<ul>\n<li><b>Archetype:</b> Tap-Dancing Groupie</li>\n<li><b>Build:</b> Petite, energetic, youthful</li>\n<li><b>Appearance:</b> Curly blonde hair, makeup</li>\n<li><b>Costume:</b> Sequined tap costume, Glittery performance wear</li>\n<li><b>Main Ability:</b> Tap dancing, enthusiasm</li>\n<li><b>Weapon:</b> Top hat, cane</li>\n<li><b>Colors:</b> Gold, sequins, stage colors</li>\n<li><b>Influence:</b> 1920s flapper/chorus girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/06/6c/58/066c580e043448946040ce4826170988.jpg"
+        },
+        "rocky_horror": {
+          "title": "Rocky Horror",
+          "description": "Male/Creation/Muscle",
+          "metadata": "Innocent Beefcake | Muscular, perfect physique | Blonde, Adonis-like | Gold shorts/minimal clothing | Metallic brief swimwear | Physical beauty, strength | None specific | Gold, bronze, flesh | Classical statue/bodybuilder",
+          "content": "<h3>Rocky Horror</h3>\n<p><strong>Physical perfection and naive obedience</strong></p>\n<ul>\n<li><b>Archetype:</b> Innocent Beefcake</li>\n<li><b>Build:</b> Muscular, perfect physique</li>\n<li><b>Appearance:</b> Blonde, Adonis-like</li>\n<li><b>Costume:</b> Gold shorts/minimal clothing, Metallic brief swimwear</li>\n<li><b>Main Ability:</b> Physical beauty, strength</li>\n<li><b>Weapon:</b> None specific</li>\n<li><b>Colors:</b> Gold, bronze, flesh</li>\n<li><b>Influence:</b> Classical statue/bodybuilder</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/2c/bd/6f/2cbd6fd16ec4ad743cf782814c17755c.jpg"
+        },
+        "dr_everett_v_scott": {
+          "title": "Dr. Everett V. Scott",
+          "description": "Male/Human/Authority",
+          "metadata": "Wheelchair Detective | Elderly, wheelchair-bound | Grey hair, authoritative | Academic suit and blanket | Professorial formal wear | Scientific knowledge, investigation | Wheelchair, briefcase | Grey, academic colors | Mad scientist/detective",
+          "content": "<h3>Dr. Everett V. Scott</h3>\n<p><strong>Scientific investigation and moral order</strong></p>\n<ul>\n<li><b>Archetype:</b> Wheelchair Detective</li>\n<li><b>Build:</b> Elderly, wheelchair-bound</li>\n<li><b>Appearance:</b> Grey hair, authoritative</li>\n<li><b>Costume:</b> Academic suit and blanket, Professorial formal wear</li>\n<li><b>Main Ability:</b> Scientific knowledge, investigation</li>\n<li><b>Weapon:</b> Wheelchair, briefcase</li>\n<li><b>Colors:</b> Grey, academic colors</li>\n<li><b>Influence:</b> Mad scientist/detective</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/66/d2/fb/66d2fbff7f308edce5fb3f2b986a4ca2.jpg"
+        },
+        "eddie": {
+          "title": "Eddie",
+          "description": "Male/Human/Rebel",
+          "metadata": "Greaser Rebel | Stocky, leather-clad | Slicked hair, tough features | Leather jacket and jeans | Classic 1950s rebel wear | Motorcycle riding, rock music | Motorcycle, saxophone | Black leather, denim | 1950s greaser/rock rebel",
+          "content": "<h3>Eddie</h3>\n<p><strong>Rock and roll freedom</strong></p>\n<ul>\n<li><b>Archetype:</b> Greaser Rebel</li>\n<li><b>Build:</b> Stocky, leather-clad</li>\n<li><b>Appearance:</b> Slicked hair, tough features</li>\n<li><b>Costume:</b> Leather jacket and jeans, Classic 1950s rebel wear</li>\n<li><b>Main Ability:</b> Motorcycle riding, rock music</li>\n<li><b>Weapon:</b> Motorcycle, saxophone</li>\n<li><b>Colors:</b> Black leather, denim</li>\n<li><b>Influence:</b> 1950s greaser/rock rebel</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/67/c4/41/67c441d99981d1c856b1953787c45151.jpg"
+        },
+        "the_criminologist": {
+          "title": "The Criminologist",
+          "description": "Male/Human/Narrator",
+          "metadata": "Detached Observer | Average academic build | Formal, scholarly appearance | Conservative academic suit | Bow tie and formal wear | Narrative omniscience | Books, papers | Conservative academic | Scientific narrator/professor",
+          "content": "<h3>The Criminologist</h3>\n<p><strong>Objective scientific observation</strong></p>\n<ul>\n<li><b>Archetype:</b> Detached Observer</li>\n<li><b>Build:</b> Average academic build</li>\n<li><b>Appearance:</b> Formal, scholarly appearance</li>\n<li><b>Costume:</b> Conservative academic suit, Bow tie and formal wear</li>\n<li><b>Main Ability:</b> Narrative omniscience</li>\n<li><b>Weapon:</b> Books, papers</li>\n<li><b>Colors:</b> Conservative academic</li>\n<li><b>Influence:</b> Scientific narrator/professor</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/80/2c/15/802c151d107ad84ed28f3111de58b0c7.jpg"
+        }
+      }
+    }
+  }
+}

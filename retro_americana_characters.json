@@ -1,0 +1,151 @@
+{
+  "id": "retro_americana_characters",
+  "title": "Retro Americana",
+  "description": "Iconic teens, greasers, and cruisers from classic American pop culture.",
+  "categories": {
+    "american_graffiti": {
+      "title": "American Graffiti",
+      "description": "California cruisers and coming-of-age teens in the early 1960s.",
+      "items": {
+        "curt_henderson": {
+          "title": "Curt Henderson",
+          "description": "Male/Student/Seeker",
+          "metadata": "Intellectual Searcher | Thin, intellectual build | Curly hair, thoughtful features | Casual intellectual wear | Simple shirts, glasses | Academic intelligence, searching | Books, car | Intellectual earth tones | 1960s college-bound teen",
+          "content": "<h3>Curt Henderson</h3>\n<p><strong>Finding mysterious blonde and life direction</strong></p>\n<ul>\n<li><b>Archetype:</b> Intellectual Searcher</li>\n<li><b>Build:</b> Thin, intellectual build</li>\n<li><b>Appearance:</b> Curly hair, thoughtful features</li>\n<li><b>Costume:</b> Casual intellectual wear, Simple shirts, glasses</li>\n<li><b>Main Ability:</b> Academic intelligence, searching</li>\n<li><b>Weapon:</b> Books, car</li>\n<li><b>Colors:</b> Intellectual earth tones</li>\n<li><b>Influence:</b> 1960s college-bound teen</li>\n</ul>\n",
+          "image": "https://static.wikia.nocookie.net/americangraffiti/images/d/da/Curt_Henderson.jpg/revision/latest?cb=20200115061856"
+        },
+        "steve_bolander": {
+          "title": "Steve Bolander",
+          "description": "Male/Student/Steady",
+          "metadata": "Responsible Boyfriend | Average clean-cut build | Blonde, all-American features | Conservative casual wear | Clean shirts, neat appearance | Leadership, responsibility | Car keys, school materials | Clean American colors | All-American steady boyfriend",
+          "content": "<h3>Steve Bolander</h3>\n<p><strong>Maintaining relationship and future planning</strong></p>\n<ul>\n<li><b>Archetype:</b> Responsible Boyfriend</li>\n<li><b>Build:</b> Average clean-cut build</li>\n<li><b>Appearance:</b> Blonde, all-American features</li>\n<li><b>Costume:</b> Conservative casual wear, Clean shirts, neat appearance</li>\n<li><b>Main Ability:</b> Leadership, responsibility</li>\n<li><b>Weapon:</b> Car keys, school materials</li>\n<li><b>Colors:</b> Clean American colors</li>\n<li><b>Influence:</b> All-American steady boyfriend</li>\n</ul>\n",
+          "image": "https://static.wikia.nocookie.net/americangraffiti/images/d/d0/Steve_Bolander.jpg/revision/latest?cb=20230106205245"
+        },
+        "john_milner": {
+          "title": "John Milner",
+          "description": "Male/Greaser/Speed King",
+          "metadata": "Cool Hot Rod King | Lean, confident, mature | Dark hair, confident features | Hot rod casual wear | T-shirts, jeans, confident style | Drag racing, car expertise | Hot rod car, racing gear | Classic car colors | 1950s hot rod culture",
+          "content": "<h3>John Milner</h3>\n<p><strong>Car racing and maintaining cool reputation</strong></p>\n<ul>\n<li><b>Archetype:</b> Cool Hot Rod King</li>\n<li><b>Build:</b> Lean, confident, mature</li>\n<li><b>Appearance:</b> Dark hair, confident features</li>\n<li><b>Costume:</b> Hot rod casual wear, T-shirts, jeans, confident style</li>\n<li><b>Main Ability:</b> Drag racing, car expertise</li>\n<li><b>Weapon:</b> Hot rod car, racing gear</li>\n<li><b>Colors:</b> Classic car colors</li>\n<li><b>Influence:</b> 1950s hot rod culture</li>\n</ul>\n",
+          "image": "https://static.wikia.nocookie.net/americangraffiti/images/2/20/Milner.jpg/revision/latest?cb=20230106204412"
+        },
+        "terry_the_toad_fields": {
+          "title": "Terry \"The Toad\" Fields",
+          "description": "Male/Nerd/Comic Relief",
+          "metadata": "Loveable Loser | Short, awkward, nerdy | Thick glasses, awkward features | Nerdy casual wear | Ill-fitting clothes, glasses | Awkward charm, determination | Borrowed car, nerdy accessories | Awkward earth tones | 1960s nerd archetype",
+          "content": "<h3>Terry \"The Toad\" Fields</h3>\n<p><strong>Gaining respect and getting girls</strong></p>\n<ul>\n<li><b>Archetype:</b> Loveable Loser</li>\n<li><b>Build:</b> Short, awkward, nerdy</li>\n<li><b>Appearance:</b> Thick glasses, awkward features</li>\n<li><b>Costume:</b> Nerdy casual wear, Ill-fitting clothes, glasses</li>\n<li><b>Main Ability:</b> Awkward charm, determination</li>\n<li><b>Weapon:</b> Borrowed car, nerdy accessories</li>\n<li><b>Colors:</b> Awkward earth tones</li>\n<li><b>Influence:</b> 1960s nerd archetype</li>\n</ul>\n",
+          "image": "https://pbs.twimg.com/profile_images/1529630186127368194/OwYDnGEd_400x400.jpg"
+        },
+        "laurie_henderson": {
+          "title": "Laurie Henderson",
+          "description": "Female/Student/Sweet Heart",
+          "metadata": "Loyal Girlfriend | Petite, pretty, wholesome | Blonde, girl-next-door looks | Conservative teen fashion | Sweet dresses, neat appearance | Emotional support, loyalty | Purse, school items | Sweet pastels, feminine | 1960s good girl",
+          "content": "<h3>Laurie Henderson</h3>\n<p><strong>Supporting boyfriend while maintaining independence</strong></p>\n<ul>\n<li><b>Archetype:</b> Loyal Girlfriend</li>\n<li><b>Build:</b> Petite, pretty, wholesome</li>\n<li><b>Appearance:</b> Blonde, girl-next-door looks</li>\n<li><b>Costume:</b> Conservative teen fashion, Sweet dresses, neat appearance</li>\n<li><b>Main Ability:</b> Emotional support, loyalty</li>\n<li><b>Weapon:</b> Purse, school items</li>\n<li><b>Colors:</b> Sweet pastels, feminine</li>\n<li><b>Influence:</b> 1960s good girl</li>\n</ul>\n",
+          "image": "https://images4.fanpop.com/image/photos/21600000/Cindy-as-Laurie-in-American-Grafitti-fans-of-cindy-williams-21658950-498-768.jpg"
+        },
+        "debbie_dunham": {
+          "title": "Debbie Dunham",
+          "description": "Female/Teen/Wild Child",
+          "metadata": "Rebellious Teen | Petite, energetic, flirty | Blonde, vivacious features | Trendy casual wear | Hip 1960s teen fashion | Flirtation, energy | Makeup, teenage accessories | Bright trendy colors | 1960s party girl",
+          "content": "<h3>Debbie Dunham</h3>\n<p><strong>Fun and adventure seeking</strong></p>\n<ul>\n<li><b>Archetype:</b> Rebellious Teen</li>\n<li><b>Build:</b> Petite, energetic, flirty</li>\n<li><b>Appearance:</b> Blonde, vivacious features</li>\n<li><b>Costume:</b> Trendy casual wear, Hip 1960s teen fashion</li>\n<li><b>Main Ability:</b> Flirtation, energy</li>\n<li><b>Weapon:</b> Makeup, teenage accessories</li>\n<li><b>Colors:</b> Bright trendy colors</li>\n<li><b>Influence:</b> 1960s party girl</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/7e/dc/db/7edcdb1a9c9102f7d7de4a63016182be--candy-clark-american-graffiti.jpg"
+        }
+      }
+    },
+    "grease": {
+      "title": "Grease",
+      "description": "Rydell High students and the rock 'n' roll scene.",
+      "items": {
+        "danny_zuko": {
+          "title": "Danny Zuko",
+          "description": "Male/Greaser/Romantic Lead",
+          "metadata": "Conflicted Greaser Romantic | Athletic, confident build | Dark slicked hair, handsome | Black leather T-Bird jacket | Iconic greaser leather jacket | Cool attitude, dance skills | Comb, cigarettes | Black leather, greaser colors | 1950s greaser heartthrob",
+          "content": "<h3>Danny Zuko</h3>\n<p><strong>Balancing cool image with genuine love</strong></p>\n<ul>\n<li><b>Archetype:</b> Conflicted Greaser Romantic</li>\n<li><b>Build:</b> Athletic, confident build</li>\n<li><b>Appearance:</b> Dark slicked hair, handsome</li>\n<li><b>Costume:</b> Black leather T-Bird jacket, Iconic greaser leather jacket</li>\n<li><b>Main Ability:</b> Cool attitude, dance skills</li>\n<li><b>Weapon:</b> Comb, cigarettes</li>\n<li><b>Colors:</b> Black leather, greaser colors</li>\n<li><b>Influence:</b> 1950s greaser heartthrob</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/66/fe/3c/66fe3cb5c57c5907b7b99392779117da.jpg"
+        },
+        "sandy_olsson": {
+          "title": "Sandy Olsson",
+          "description": "Female/Good Girl/Romantic Lead",
+          "metadata": "Innocent Girl Transformation | Petite, wholesome build | Blonde, pure features | Conservative to revealing transformation | Modest to leather transformation | Singing, moral purity to bad girl | School books to cigarettes | Pure whites to black leather | Good girl to bad girl archetype",
+          "content": "<h3>Sandy Olsson</h3>\n<p><strong>Finding love while maintaining values</strong></p>\n<ul>\n<li><b>Archetype:</b> Innocent Girl Transformation</li>\n<li><b>Build:</b> Petite, wholesome build</li>\n<li><b>Appearance:</b> Blonde, pure features</li>\n<li><b>Costume:</b> Conservative to revealing transformation, Modest to leather transformation</li>\n<li><b>Main Ability:</b> Singing, moral purity to bad girl</li>\n<li><b>Weapon:</b> School books to cigarettes</li>\n<li><b>Colors:</b> Pure whites to black leather</li>\n<li><b>Influence:</b> Good girl to bad girl archetype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/22/de/72/22de72e501a4b5e8c1177c07d94b0859.jpg"
+        },
+        "betty_rizzo": {
+          "title": "Betty Rizzo",
+          "description": "Female/Pink Lady/Tough Girl",
+          "metadata": "Cynical Leader | Average, tough build | Dark hair, street-smart features | Pink Ladies jacket | Signature pink satin jacket | Leadership, street smarts | Cigarettes, attitude | Pink and black | 1950s tough girl leader",
+          "content": "<h3>Betty Rizzo</h3>\n<p><strong>Protecting reputation and independence</strong></p>\n<ul>\n<li><b>Archetype:</b> Cynical Leader</li>\n<li><b>Build:</b> Average, tough build</li>\n<li><b>Appearance:</b> Dark hair, street-smart features</li>\n<li><b>Costume:</b> Pink Ladies jacket, Signature pink satin jacket</li>\n<li><b>Main Ability:</b> Leadership, street smarts</li>\n<li><b>Weapon:</b> Cigarettes, attitude</li>\n<li><b>Colors:</b> Pink and black</li>\n<li><b>Influence:</b> 1950s tough girl leader</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/6a/ad/8a/6aad8a8e20e37520d8d6abcb8d66a6db.jpg"
+        },
+        "kenickie_murdoch": {
+          "title": "Kenickie Murdoch",
+          "description": "Male/T-Bird/Mechanic",
+          "metadata": "Greaser Mechanic | Stocky, tough build | Dark hair, working-class features | T-Bird uniform | Greaser gang attire | Auto mechanics, loyalty | Car tools, leather jacket | Greaser gang colors | 1950s car culture tough",
+          "content": "<h3>Kenickie Murdoch</h3>\n<p><strong>Car expertise and gang loyalty</strong></p>\n<ul>\n<li><b>Archetype:</b> Greaser Mechanic</li>\n<li><b>Build:</b> Stocky, tough build</li>\n<li><b>Appearance:</b> Dark hair, working-class features</li>\n<li><b>Costume:</b> T-Bird uniform, Greaser gang attire</li>\n<li><b>Main Ability:</b> Auto mechanics, loyalty</li>\n<li><b>Weapon:</b> Car tools, leather jacket</li>\n<li><b>Colors:</b> Greaser gang colors</li>\n<li><b>Influence:</b> 1950s car culture tough</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/10/36/74/103674c0e5031505509c4dd57eb89721.jpg"
+        },
+        "frenchy": {
+          "title": "Frenchy",
+          "description": "Female/Pink Lady/Beauty Student",
+          "metadata": "Sweet Beauty Student | Petite, sweet build | Pink hair, innocent features | Pink Ladies jacket | Beauty school styling | Hair and makeup expertise | Beauty tools, pink accessories | Pink and pastels | 1950s beauty culture",
+          "content": "<h3>Frenchy</h3>\n<p><strong>Beauty school and friendship</strong></p>\n<ul>\n<li><b>Archetype:</b> Sweet Beauty Student</li>\n<li><b>Build:</b> Petite, sweet build</li>\n<li><b>Appearance:</b> Pink hair, innocent features</li>\n<li><b>Costume:</b> Pink Ladies jacket, Beauty school styling</li>\n<li><b>Main Ability:</b> Hair and makeup expertise</li>\n<li><b>Weapon:</b> Beauty tools, pink accessories</li>\n<li><b>Colors:</b> Pink and pastels</li>\n<li><b>Influence:</b> 1950s beauty culture</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/55/77/cf/5577cf1e3d16ba4f09896a12ccc4d3a1.jpg"
+        },
+        "jan": {
+          "title": "Jan",
+          "description": "Female/Pink Lady/Follower",
+          "metadata": "Sweet Follower | Stocky, cheerful build | Brown hair, sweet features | Pink Ladies jacket | Food-loving styling | Eating, loyalty | Food, Pink Ladies jacket | Pink and earth tones | 1950s sweet friend archetype",
+          "content": "<h3>Jan</h3>\n<p><strong>Friendship and food enjoyment</strong></p>\n<ul>\n<li><b>Archetype:</b> Sweet Follower</li>\n<li><b>Build:</b> Stocky, cheerful build</li>\n<li><b>Appearance:</b> Brown hair, sweet features</li>\n<li><b>Costume:</b> Pink Ladies jacket, Food-loving styling</li>\n<li><b>Main Ability:</b> Eating, loyalty</li>\n<li><b>Weapon:</b> Food, Pink Ladies jacket</li>\n<li><b>Colors:</b> Pink and earth tones</li>\n<li><b>Influence:</b> 1950s sweet friend archetype</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/cf/5a/7c/cf5a7c7b47d0ac180a57bb21d889ac94.jpg"
+        }
+      }
+    },
+    "happy_days": {
+      "title": "Happy Days",
+      "description": "The Cunningham family and friends in classic 1950s America.",
+      "items": {
+        "richie_cunningham": {
+          "title": "Richie Cunningham",
+          "description": "Male/Student/Innocent Lead",
+          "metadata": "All-American Good Boy | Average teenage build | Clean-cut, wholesome features | Conservative casual wear | Letterman sweater, neat appearance | Moral compass, academic achievement | Books, school supplies | Clean blues, whites, pastels | 1950s ideal teenager",
+          "content": "<h3>Richie Cunningham</h3>\n<p><strong>Academic success and moral righteousness</strong></p>\n<ul>\n<li><b>Archetype:</b> All-American Good Boy</li>\n<li><b>Build:</b> Average teenage build</li>\n<li><b>Appearance:</b> Clean-cut, wholesome features</li>\n<li><b>Costume:</b> Conservative casual wear, Letterman sweater, neat appearance</li>\n<li><b>Main Ability:</b> Moral compass, academic achievement</li>\n<li><b>Weapon:</b> Books, school supplies</li>\n<li><b>Colors:</b> Clean blues, whites, pastels</li>\n<li><b>Influence:</b> 1950s ideal teenager</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/69/f7/80/69f7802e3c6d460a21ed1408e307c71b.jpg"
+        },
+        "arthur_fonzie_fonzarelli": {
+          "title": "Arthur \"Fonzie\" Fonzarelli",
+          "description": "Male/Greaser/Cool Mentor",
+          "metadata": "Leather-Jacketed Sage | Short, compact, confident | Slicked hair, leather jacket | Black leather jacket and jeans | Iconic leather jacket | Motorcycle expertise, \"Ayyyy\" catchphrase | Motorcycle, comb | Black leather, denim | 1950s greaser rebel",
+          "content": "<h3>Arthur \"Fonzie\" Fonzarelli</h3>\n<p><strong>Maintaining cool reputation and helping friends</strong></p>\n<ul>\n<li><b>Archetype:</b> Leather-Jacketed Sage</li>\n<li><b>Build:</b> Short, compact, confident</li>\n<li><b>Appearance:</b> Slicked hair, leather jacket</li>\n<li><b>Costume:</b> Black leather jacket and jeans, Iconic leather jacket</li>\n<li><b>Main Ability:</b> Motorcycle expertise, \"Ayyyy\" catchphrase</li>\n<li><b>Weapon:</b> Motorcycle, comb</li>\n<li><b>Colors:</b> Black leather, denim</li>\n<li><b>Influence:</b> 1950s greaser rebel</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/a8/7d/30/a87d30a3b0e7dc2bbeb6811d44fa222d.jpg"
+        },
+        "howard_cunningham": {
+          "title": "Howard Cunningham",
+          "description": "Male/Father/Patriarch",
+          "metadata": "Gentle Father Figure | Average middle-aged build | Balding, kindly features | Conservative business attire | Cardigan sweaters, ties | Hardware knowledge, dad wisdom | Tools, briefcase | Conservative earth tones | 1950s suburban father",
+          "content": "<h3>Howard Cunningham</h3>\n<p><strong>Family stability and hardware business</strong></p>\n<ul>\n<li><b>Archetype:</b> Gentle Father Figure</li>\n<li><b>Build:</b> Average middle-aged build</li>\n<li><b>Appearance:</b> Balding, kindly features</li>\n<li><b>Costume:</b> Conservative business attire, Cardigan sweaters, ties</li>\n<li><b>Main Ability:</b> Hardware knowledge, dad wisdom</li>\n<li><b>Weapon:</b> Tools, briefcase</li>\n<li><b>Colors:</b> Conservative earth tones</li>\n<li><b>Influence:</b> 1950s suburban father</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/1a/d6/9c/1ad69c38dffa68d47701c277383cf36b.jpg"
+        },
+        "marion_cunningham": {
+          "title": "Marion Cunningham",
+          "description": "Female/Mother/Nurturer",
+          "metadata": "Ideal Housewife | Petite, maternal | Red hair, warm smile | Conservative dresses, aprons | Floral house dresses | Cooking, family mediation | Kitchen utensils, purse | Pastels, domestic colors | 1950s homemaker ideal",
+          "content": "<h3>Marion Cunningham</h3>\n<p><strong>Family harmony and domestic perfection</strong></p>\n<ul>\n<li><b>Archetype:</b> Ideal Housewife</li>\n<li><b>Build:</b> Petite, maternal</li>\n<li><b>Appearance:</b> Red hair, warm smile</li>\n<li><b>Costume:</b> Conservative dresses, aprons, Floral house dresses</li>\n<li><b>Main Ability:</b> Cooking, family mediation</li>\n<li><b>Weapon:</b> Kitchen utensils, purse</li>\n<li><b>Colors:</b> Pastels, domestic colors</li>\n<li><b>Influence:</b> 1950s homemaker ideal</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/71/15/c4/7115c49a7ba85200f1499b6a6818e43e.jpg"
+        },
+        "joanie_cunningham": {
+          "title": "Joanie Cunningham",
+          "description": "Female/Sister/Teen",
+          "metadata": "Spunky Little Sister | Petite teenage build | Brown hair, youthful features | Age-appropriate casual wear | School clothes, teenage fashion | Youthful energy, sibling dynamics | School books, teenage accessories | Youthful colors, pastels | 1950s younger sibling",
+          "content": "<h3>Joanie Cunningham</h3>\n<p><strong>Growing up and finding independence</strong></p>\n<ul>\n<li><b>Archetype:</b> Spunky Little Sister</li>\n<li><b>Build:</b> Petite teenage build</li>\n<li><b>Appearance:</b> Brown hair, youthful features</li>\n<li><b>Costume:</b> Age-appropriate casual wear, School clothes, teenage fashion</li>\n<li><b>Main Ability:</b> Youthful energy, sibling dynamics</li>\n<li><b>Weapon:</b> School books, teenage accessories</li>\n<li><b>Colors:</b> Youthful colors, pastels</li>\n<li><b>Influence:</b> 1950s younger sibling</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/7e/06/27/7e0627cbc176841dd43f55632264a4e8.jpg"
+        },
+        "warren_potsie_weber": {
+          "title": "Warren \"Potsie\" Weber",
+          "description": "Male/Friend/Sidekick",
+          "metadata": "Loyal Best Friend | Tall, lanky, awkward | Clean-cut, earnest features | Casual student attire | Simple shirts, casual pants | Singing, loyalty | Guitar, songbook | Clean casual colors | 1950s nice guy friend",
+          "content": "<h3>Warren \"Potsie\" Weber</h3>\n<p><strong>Friendship and musical expression</strong></p>\n<ul>\n<li><b>Archetype:</b> Loyal Best Friend</li>\n<li><b>Build:</b> Tall, lanky, awkward</li>\n<li><b>Appearance:</b> Clean-cut, earnest features</li>\n<li><b>Costume:</b> Casual student attire, Simple shirts, casual pants</li>\n<li><b>Main Ability:</b> Singing, loyalty</li>\n<li><b>Weapon:</b> Guitar, songbook</li>\n<li><b>Colors:</b> Clean casual colors</li>\n<li><b>Influence:</b> 1950s nice guy friend</li>\n</ul>\n",
+          "image": "https://i.pinimg.com/736x/f3/32/aa/f332aade3aba6a04c7ab7146dd04466d.jpg"
+        }
+      }
+    }
+  }
+}
